@@ -9,9 +9,7 @@
     }
   },
   "evaluation": {
-    "handler": "python",
-    "time_limit": 15,
-    "network_enabled": true
+    "pythia_judge": "output"
   },
   "contact": "Milan Vandeput <milan.vandeput@sml.be>",
   "internals": {
