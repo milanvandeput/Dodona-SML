@@ -3,7 +3,6 @@
   "evaluation": {
     "handler": "python",
     "time_limit": 15,
-    "memory_limit": 100000000
   },
   "programming_language": "python",
   "author": "Milan Vandeput <milan.vandeput@sml.be>",
