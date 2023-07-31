@@ -1,12 +1,18 @@
 {
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
   "description": {
     "names": {
-      "en": "test"
-      "nl": "test"
+      "nl": "test oefening 1",
+      "en": "Example exercise 1"
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "python",
+    "time_limit": 15,
+    "memory_limit": 10000000,
+    "network_enabled": true
   },
-  "labels": []
+  "contact": "Milan Vandeput <milan.vandeput@sml.be>"
 }
