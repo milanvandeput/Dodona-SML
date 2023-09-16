@@ -1,31 +1,16 @@
-Je krijgt één regel invoer en je moet eenvoudig weg deze invoer herhalen. Je moet dus een programma schrijven dat als echo fungeert.
 
-hier nog foto toevoegen
+### Welkom!
 
-### Invoer
+Hier wat uitleg over de cursus...
 
-Eén regel tekst zonder verdere restricties.
 
-### Uitvoer
+### Print()
 
-Dezelfde tekst als je hebt ingelezen bij de invoer.
+Uitleg over print() functie...
 
-### Voorbeeld
+### Opdracht
+Kopieer onderstaande code
 
-**Invoer:**
-
-    42
-
-**Uitvoer:**
-
-    42
-
-### Voorbeeld
-
-**Invoer:**
-
-    ECHO
-
-**Uitvoer:**
-
-    ECHO
+```python
+>>> print("Hello world")
+```
