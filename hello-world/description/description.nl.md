@@ -12,5 +12,5 @@ Uitleg over print() functie...
 Kopieer onderstaande code
 
 ```python
->>> print("Hello world")
+print("Hello world")
 ```
