@@ -1,12 +1,14 @@
-### Print()
+### Wiskundige bewerkingen
 
-De eerste functie die we zullen leren is de print() functie. Deze functie zal printen wat er tussen de haakjes staat. 
+Wiskundige bewerkingen kan je eenvoudig in python uitvoeren als je de juiste syntax kent.
 
-Eerst leren we om 'strings' (=tekst) te printen. Dit doe je door de tekst tussen twee "" te zetten.
-
-### Opdracht
-Kopieer onderstaande code en voer hem uit.
+Enkele voorbeelden
 
 ```python
-print("Hello world")
+1+1
+1/3     #deling
+3**2    #machtsverheffing
+11//4   #quotient bij deling, uitkomst hier is 2
+11%4    #rest bij deling, uitkomst hier is 3
 ```
+Voor een overzicht van alle bewerkingen, zie de Cheatsheet
