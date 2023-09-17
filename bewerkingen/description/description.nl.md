@@ -11,4 +11,8 @@ Enkele voorbeelden
 11//4   #quotient bij deling, uitkomst hier is 2
 11%4    #rest bij deling, uitkomst hier is 3
 ```
-Voor een overzicht van alle bewerkingen, zie de Cheatsheet
+*Voor een overzicht van alle bewerkingen, zie de Cheatsheet*
+
+*Er is geen opdracht, je kan gewoon op 'indienen' klikken'*
+
+
