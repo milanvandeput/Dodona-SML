@@ -1,6 +1,6 @@
 ### Variabelen
 
-Variabelen worden gebruikt om gegevens op te slaan in je code. Je kan zoveel variabelen aanmaken als je wilt, zolang je ze een verschillende namen geeft.
+Variabelen worden gebruikt om gegevens op te slaan in je code. Je kan zoveel variabelen aanmaken als je wilt, zolang je ze verschillende namen geeft.
 
 ```python
 leeftijd = 16
