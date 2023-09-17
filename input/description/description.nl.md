@@ -1,12 +1,24 @@
-### Print()
+### Input()
 
-De eerste functie die we zullen leren is de print() functie. Deze functie zal printen wat er tussen de haakjes staat. 
-
-Eerst leren we om 'strings' (=tekst) te printen. Dit doe je door de tekst tussen twee "" te zetten.
-
-### Opdracht
-Kopieer onderstaande code en voer hem uit.
+De functie input() wordt gebruikt om een invoer aan de gebruiker te vragen. Tussen de haakjes kan je een vraag noteren die verschijnt. Je linkt de input meestal direct aan een variabele
 
 ```python
-print("Hello world")
+leeftijd = input("Hoe oud ben je?")
 ```
+
+### Opdracht
+Schrijf een programma dat de naam van de gebruiker vraagt en daarna de gebruiker begroet.
+
+### Voorbeeld
+
+**Invoer:**
+
+    Rik
+
+**Uitvoer:**
+
+    Hallo, Rik!
+
+*Tip: je kan strings aan elkaar plakken met de bewerking +*
+
+
