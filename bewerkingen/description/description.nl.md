@@ -8,7 +8,7 @@ Enkele voorbeelden
 1+1
 1/3     #deling
 3**2    #machtsverheffing
-11//4   #quotient bij deling, uitkomst hier is 2
+11//4   #quotient bij deling, uitkomst hier is 2.   Deze bewerking wordt ook 'modulo' genoemd.
 11%4    #rest bij deling, uitkomst hier is 3
 ```
 *Voor een overzicht van alle bewerkingen, zie de Cheatsheet*
