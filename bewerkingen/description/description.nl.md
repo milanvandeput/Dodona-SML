@@ -6,7 +6,7 @@ Enkele voorbeelden
 
 ```python
 1+1
-1/3     #deling
+1/3     #'gewone' deling
 3**2    #machtsverheffing
 11//4   #quotient bij deling, uitkomst hier is 2.   Deze bewerking wordt ook 'modulo' genoemd.
 11%4    #rest bij deling, uitkomst hier is 3
