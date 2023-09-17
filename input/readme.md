@@ -1,1 +1,1 @@
-Les 1 oefening hello world
+Les 1 uitelg input en oefening hallo Harry
