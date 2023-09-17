@@ -19,7 +19,8 @@ Variabelen zijn steeds van een bepaald datatype. We leren voorlopig drie datatyp
 Je kan variabelen omzetten van het ene type naar het andere met behulp van de functies str() , int() en float()
 
 ### Opdracht
-Kopieer onderstaande code en voer hem uit.
+Kopieer onderstaande code naar het testscherm en voer hem uit.
+
 Maak een commentaarregel van de lijnen die voor een error zorgen met behulp van #
 
 ```python
