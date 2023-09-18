@@ -1,12 +1,23 @@
-### Print()
-
-De eerste functie die we zullen leren is de print() functie. Deze functie zal printen wat er tussen de haakjes staat. 
-
-Eerst leren we om 'strings' (=tekst) te printen. Dit doe je door de tekst tussen twee "" te zetten.
 
 ### Opdracht
-Kopieer onderstaande code en voer hem uit.
+Schrijf een programma dat drie getallen aan de gebruiker vraagt en het gemiddelde berekent. Het programma rondt de uitkomst af op 2 cijfers na de komma.
+
+### Voorbeeld
+
+**Invoer:**
+
+    5
+    10
+    11
+
+**Uitvoer:**
+
+    8.66
+
+
+*Tip: je kan getallen afronden met de functie round()*
 
 ```python
-print("Hello world")
+round(1.234567,3)
+>>>1.234
 ```
