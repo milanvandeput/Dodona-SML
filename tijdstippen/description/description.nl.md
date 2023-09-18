@@ -1,12 +1,28 @@
-### Print()
-
-De eerste functie die we zullen leren is de print() functie. Deze functie zal printen wat er tussen de haakjes staat. 
-
-Eerst leren we om 'strings' (=tekst) te printen. Dit doe je door de tekst tussen twee "" te zetten.
-
 ### Opdracht
-Kopieer onderstaande code en voer hem uit.
 
+Schrijf een programma die de verstreken tijd tussen twee tijdstippen van een digitale klok kan aflezen.
+Het programma geeft als uitvoer eerst de verstreken uren en dan de verstreken minuten.
+
+
+### Voorbeeld
+
+**Invoer:**
+
+    1050
+    1120
+
+**Uitvoer:**
+
+    0
+    40
+
+*Tip: laat de input als String inlezen en gebruik **string slicing** om de uren en minuten hieruit op te slaan in variabelen.*
+*Een voorbeeldje:*
 ```python
-print("Hello world")
+string = "abcdefghijk"
+eerste_letter = string[0]             #Uitkomst a, python begint vanaf 0 te tellen
+derde_letter = string[2]              #uitkomst c
+eerste_tot_derde_letter = string[0:2] #uitkomst abc
 ```
+
+**Uitdaging:** Laat het programma ook werken wanneer het eerste tijdstip later is dan het tweede tijdstip. *Je kan hiervoor modulo gebruiken.* De laatste test checkt dit, maar dit telt als bonus en is niet vereist.
