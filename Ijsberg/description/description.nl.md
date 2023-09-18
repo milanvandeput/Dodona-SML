@@ -5,7 +5,7 @@ Vraag het tijdstip (in dagen) aan de gebruiker.
 
 Rond je uitkomst af op 2 cijfers na de komma.
 
-### Example
+### Voorbeeld
 
 **Input:**
 
