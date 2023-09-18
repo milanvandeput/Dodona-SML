@@ -3,6 +3,18 @@
 Schrijf een programma die de verstreken tijd tussen twee tijdstippen van een digitale klok kan aflezen.
 Het programma geeft als uitvoer eerst de verstreken uren en dan de verstreken minuten.
 
+### Voorbeeld
+
+**Invoer:**
+
+    1010
+    1540
+
+**Uitvoer:**
+
+    5
+    30
+
 
 ### Voorbeeld
 
