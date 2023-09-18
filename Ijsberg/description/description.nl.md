@@ -1,8 +1,16 @@
 ### Opdracht
-Kopieer onderstaande code en voer hem uit.
+Schrijf een programma dat het volume van de smeltende ijsberg van oef.2 op p.10 berekent.
 
-![ijsberg](media/ijsberg.PNG){:height="20%" width="20%"}
+Vraag het tijdstip (in dagen) aan de gebruiker.
 
+Rond je uitkomst af op 2 cijfers na de komma.
+
+*Tip: om het met het getal pi te werken in Python gebruike je de volgende code:*
 ```python
-print("Hello world")
+import math #deze regel type je helemaal bovenaan je programma.
+print(math.pi)
 ```
+
+![ijsberg](media/ijsberg.PNG)
+
+
