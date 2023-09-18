@@ -15,6 +15,8 @@ Rond je uitkomst af op 2 cijfers na de komma.
 
       Het volume van de ijsberg na 20 dagen is 5575279.76
 
+      
+
 *Tip: om het met het getal pi te werken in Python gebruik je de volgende code:*
 ```python
 import math #deze regel type je helemaal bovenaan je programma.
