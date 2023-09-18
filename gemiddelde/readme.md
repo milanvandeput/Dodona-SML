@@ -1,1 +1,1 @@
-Les 1 oefening hello world
+Les 1 oefening gemiddelde berekenen
