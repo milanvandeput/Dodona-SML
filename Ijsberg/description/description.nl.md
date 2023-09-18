@@ -5,7 +5,7 @@ Vraag het tijdstip (in dagen) aan de gebruiker.
 
 Rond je uitkomst af op 2 cijfers na de komma.
 
-*Tip: om het met het getal pi te werken in Python gebruike je de volgende code:*
+*Tip: om het met het getal pi te werken in Python gebruik je de volgende code:*
 ```python
 import math #deze regel type je helemaal bovenaan je programma.
 print(math.pi)
