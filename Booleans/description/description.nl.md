@@ -23,5 +23,7 @@ boolean_niet_waar = 10 > 100
 
 Booleans worden gebruikt bij het schrijven van conditionele code (zie verder).
 
+*Er is geen opdracht, je kan gewoon op ‘indienen’ klikken’*
+
 
 
