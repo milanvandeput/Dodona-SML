@@ -33,7 +33,7 @@ getal = int(input("Geef een getal"))
 if getal==1:
   print("Het is een!")
 elif getal==2:
-  print("Het is twee!"):
+  print("Het is twee!")
 elif getal==3:
   print("Het is drie!")
 elif getal==4:
