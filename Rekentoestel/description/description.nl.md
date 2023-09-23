@@ -1,8 +1,11 @@
-### Print()
+### Opdracht: Rekentoestel
 
-De eerste functie die we zullen leren is de print() functie. Deze functie zal printen wat er tussen de haakjes staat. 
+Je gaat je eigen rekentoestel programmeren! Je programma vraagt twee getallen aan de gebruiker en een bewerking (+ - * /) om op die twee getallen uit te voeren.
+*Rondt het resultaat steeds af op 2 cijfers na de komma.* 
 
-Eerst leren we om 'strings' (=tekst) te printen. Dit doe je door de tekst tussen twee "" te zetten.
+### Invoer
+
+** Invoer
 
 ### Opdracht
 Kopieer onderstaande code en voer hem uit.
