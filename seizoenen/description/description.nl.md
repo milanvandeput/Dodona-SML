@@ -1,11 +1,5 @@
-### Print()
-
-De eerste functie die we zullen leren is de print() functie. Deze functie zal printen wat er tussen de haakjes staat. 
-
-Eerst leren we om 'strings' (=tekst) te printen. Dit doe je door de tekst tussen twee "" te zetten.
-
-### Opdracht
-Kopieer onderstaande code en voer hem uit.
+### Opdracht: Is het ijsjesweer?
+Schrijf een programma dat aan de gebruiker vraagt welke seizoen het is (zomer, lente, herfst, winter)
 
 ```python
 print("Hello world")
