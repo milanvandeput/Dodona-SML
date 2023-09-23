@@ -23,7 +23,7 @@ else:
       if getal==4:
         print("Het is vier!")
       else:
-        print("Het is vijf!)
+        print("Het is vijf!")
 ```
 Deze code kan veel eenvoudiger geschreven worden met het *elif* statement.
 
