@@ -12,6 +12,7 @@ Het programma zal zeggen of het ijsjesweer is of niet. In de zomer kunnen we alt
 **Uitvoer:**
 
     Het is geen ijsjesweer
+    
 ### Voorbeeld
 
 **Invoer:**
