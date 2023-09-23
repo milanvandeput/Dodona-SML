@@ -22,7 +22,7 @@ Het programma zal zeggen of het ijsjesweer is of niet. In de zomer kunnen we alt
 
 **Uitvoer:**
 
-    Het is ijsjesweer
+    Het is wel ijsjesweer
 
 *Er zijn veel verschillende manieren om deze code te schrijven. Experimenteer met de and, or, not operators om dit zo kort mogelijk te doen.*
 
