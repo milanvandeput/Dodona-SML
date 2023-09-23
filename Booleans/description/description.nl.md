@@ -1,12 +1,27 @@
-### Print()
+### Booleans
 
-De eerste functie die we zullen leren is de print() functie. Deze functie zal printen wat er tussen de haakjes staat. 
+We leren een nieuw soort datatype: booleans.
 
-Eerst leren we om 'strings' (=tekst) te printen. Dit doe je door de tekst tussen twee "" te zetten.
+Een boolean kan slechts twee waarden aannemen: True of False.
 
-### Opdracht
-Kopieer onderstaande code en voer hem uit.
-
+Je kan een waarde (True/False) rechtstreeks aan een boolean toekennen:
 ```python
-print("Hello world")
+boolean_waar = True
+boolean_niet_waar = False
 ```
+
+Je kan ook een waarde aan een boolean toekennen doormiddel van een vergelijking of ongelijkheid:
+```python
+boolean_waar = 1+1 == 2
+boolean_niet_waar = 1+1 == 3
+
+boolean_waar = 2 < 3
+boolean_niet_waar = 10 > 100
+
+```
+
+
+Booleans worden gebruikt bij het schrijven van conditionele code (zie verder).
+
+
+
