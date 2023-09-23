@@ -1,12 +1,28 @@
-### Print()
+De operatoren *and*, *or* en *not* laten ons toe om meer complexe condities bij een *if-else* statement te maken.
 
-De eerste functie die we zullen leren is de print() functie. Deze functie zal printen wat er tussen de haakjes staat. 
-
-Eerst leren we om 'strings' (=tekst) te printen. Dit doe je door de tekst tussen twee "" te zetten.
-
-### Opdracht
-Kopieer onderstaande code en voer hem uit.
+### and
+Een boolean zal enkel *True* zijn wanneer aan beide voorwaarden voldaan is.
 
 ```python
-print("Hello world")
+var1 = 5>3 and 1+1==2   #True
+var2 = 5>3 and 2==3     #False
 ```
+
+### or
+Een boolean zal *True* zijn wanneer aan minstens een van de voorwaarden voldaan is.
+
+```python
+var1 = 5>3 or 1+1==2   #True
+var2 = 5>3 or 2==3     #True
+var3 = 5<3 or 1+1!=2     #False
+```
+
+### not
+Met *not* kan je de *True/False* waarde van een boolean omdraaien.
+
+```python
+var1 = not 5>3   #False
+var2 = not 3>5    #True
+var3 = not (1+1==2 and 2+2==4)  #False
+```
+*Er is geen opdracht, je kan gewoon op 'indienen' klikken.*
