@@ -1,1 +1,1 @@
-Les 1 oefening hello world
+Les 2 uitleg elif
