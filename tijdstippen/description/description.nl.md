@@ -38,3 +38,13 @@ eerste_tot_derde_letter = string[0:2] #uitkomst abc
 ```
 
 **Uitdaging:** Laat het programma ook werken wanneer het eerste tijdstip later is dan het tweede tijdstip. *Je kan hiervoor modulo gebruiken.* De laatste test checkt dit, maar dit telt als bonus en is niet vereist.
+
+
+### Een mogelijke oplossingsmethode
+
+*Deze methode is zeker niet de enige juiste methode, maar kan wel een leidraad zijn*
+
+1. Haal de begin- en einduren en minuten uit de input. Gebruik string slicing (zie hierboven).
+2. Bereken het totaal aantal verstreken minuten.
+3. Gebruik modulo rekenen om het aantal verstreken uren en minuten te berekenen
+4. Print je resultaten
