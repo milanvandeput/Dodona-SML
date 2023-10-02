@@ -12,3 +12,6 @@ Maak gebruik van een **for loop met String** in deze oefening.
 **Uitvoer:**
 
     De letter e komt 2 keer voor
+
+### Tip
+Maak gebruik van een *teller* variabele die in de loop met 1 wordt verhoogd wanneer we een e tegenkomen.
