@@ -26,7 +26,7 @@ while t<10:
 7
 8
 9   
-#hierna wordt t verhoogd tot 10, dus ze loop zal niet nog eens uitgevoerd worden
+#hierna wordt t verhoogd tot 10, dus de loop zal niet nog eens uitgevoerd worden
 ```
 
 Opgelet: de plaats in de code waar je de teller verhoogt, kan een andere uitvoer geven.
