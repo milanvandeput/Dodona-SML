@@ -15,7 +15,7 @@ $$x_{12} = {-b \pm \sqrt{D}}\over{2a}$$
 
 Bij een discriminant gelijk aan 0 is er 1 oplossing:
 
-$$x = {-b}\over{2a}$$
+$$x  =  {-b}\over{2a}$$
 
 
 ### Opdracht
