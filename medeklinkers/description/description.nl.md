@@ -1,12 +1,15 @@
-### Print()
+### Opdracht()
 
-De eerste functie die we zullen leren is de print() functie. Deze functie zal printen wat er tussen de haakjes staat. 
-
-Eerst leren we om 'strings' (=tekst) te printen. Dit doe je door de tekst tussen twee "" te zetten.
-
-### Opdracht
-Kopieer onderstaande code en voer hem uit.
+Test de volgende code uit bij 'code uitvoeren'. Lees de code en kijk of je de werking ervan begrijpt.
 
 ```python
-print("Hello world")
+letter = input('Typ een hoofdletter: ')
+# controleer of de variabele letter een klinker is:
+if letter == 'A' or letter == 'E' or letter == 'I' or letter == 'O' or letter == 'U':
+    # als letter een klinker is, print dat dan ook:
+    print(letter, 'is een klinker.')
+else:
+    # als letter geen klinker is, is het dus een medeklinker. Print dat dan ook:
+    print(letter, 'is een medeklinker.')
 ```
+Bij deze opdracht hoef je niks in te dienen.
