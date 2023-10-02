@@ -135,4 +135,6 @@ cijfer_naar_tekst(cijfer2)
 cijfer_naar_tekst(cijfer3)
 cijfer_naar_tekst(cijfer4)
 ```
+Een heel stuk eenvoudiger, toch?
+
 
