@@ -100,6 +100,8 @@ elif cijfer4==9:
 Het vorige programma werkt, maar is langdradig doordat we dezelfde code 4 keer moeten herhalen. 
 
 We gaan deze code dus in een functie zetten.
+
+```python
 def cijfer_naar_tekst(x):
   if x==0:
     print("nul")
