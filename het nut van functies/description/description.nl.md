@@ -123,7 +123,7 @@ def cijfer_naar_tekst(x):
     print("acht")
   elif x==9:
     print("negen")
-  #geen return. Deze functie heeft dus geen output, maar er worden wel dingen geprint tijdens de uitvoer van de functie
+return()  #geen return. Deze functie heeft dus geen output, maar er worden wel dingen geprint tijdens de uitvoer van de functie
 
 cijfer1 = 1
 cijfer2 = 2
