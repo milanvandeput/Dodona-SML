@@ -7,5 +7,5 @@
 --------------------------------------------------------------------
 python input without prompt: true
 block count: multi
-input block size: multi
+input block size: ends with STOP
 output block size: multi
