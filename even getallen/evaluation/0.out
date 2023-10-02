@@ -2,10 +2,12 @@
 2 is inderdaad een even getal
 2 is inderdaad een even getal
 3 is geen even getal
+STOP
 2 is inderdaad een even getal
 3 is geen even getal
+STOP
 --------------------------------------------------------------------
 python input without prompt: true
 block count: multi
 input block size: ends with STOP
-output block size: multi
+output block size: ends with STOP
