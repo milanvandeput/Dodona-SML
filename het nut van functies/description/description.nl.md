@@ -5,10 +5,10 @@ Waarom gebruiken we functies in een programma? Funties kunnen **structuur aanbre
 We illustreren dit met een programma dat een reeks van 4 cijfers naar tekst omzet.
 
 ```python
-cijfer1 = 1
+cijfer1 = 1    #dit is maar een voorbeeldje, je zou ook een input kunnen vragen
 cijfer2 = 2
-cijfer4 = 3
-cijfer3 = 4
+cijfer3 = 3
+cijfer4 = 4
 
 if cijfer1==0:
   print("nul")
@@ -96,3 +96,41 @@ elif cijfer4==8:
 elif cijfer4==9:
   print("negen")
 ```
+
+Het vorige programma werkt, maar is langdradig doordat we dezelfde code 4 keer moeten herhalen. 
+
+We gaan deze code dus in een functie zetten.
+def cijfer_naar_tekst(x):
+  if x==0:
+    print("nul")
+  elif x==1:
+    print("een")
+  elif x==2:
+    print("twee")
+  elif x==3:
+    print("drie")
+  elif x==4:
+    print("vier")
+  elif x==5:
+    print("vijf")
+  elif x==6:
+    print("zes")
+  elif x==7:
+    print("zeven")
+  elif x==8:
+    print("acht")
+  elif x==9:
+    print("negen")
+  #geen return. Deze functie heeft dus geen output, maar er worden wel dingen geprint tijdens de uitvoer van de functie
+
+cijfer1 = 1
+cijfer2 = 2
+cijfer3 = 3
+cijfer4 = 4
+
+cijfer_naar_tekst(cijfer1)    
+cijfer_naar_tekst(cijfer2)
+cijfer_naar_tekst(cijfer3)
+cijfer_naar_tekst(cijfer4)
+```
+
