@@ -67,3 +67,5 @@ d
 e
 n
 ```
+
+*Het derde type loops, while loops, komt later aan bod. *
