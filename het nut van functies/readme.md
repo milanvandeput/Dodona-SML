@@ -1,1 +1,1 @@
-Les 1 oefening hello world
+Les 4 uitleg het nut van functies
