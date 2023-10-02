@@ -1,4 +1,4 @@
-### Tweedegraadverglijkingen
+### Tweedegraadvergelijkingen
 
 Tweedegraadsvergelijkingen zijn van de vorm
 
@@ -21,6 +21,52 @@ $$x  =  {{-b}\over{2a}}$$
 ### Opdracht
 Schrijf een programma dat de oplossingen van een tweedegraadsvergelijking berekent. De inputs zijn de 3 coëfficiënten a, b en c. Met $a \neq 0$.
 
+Rond je oplossingen steeds af op 2 cijfers na de komma.
+
+### Voorbeeld 1
+
+**Invoer:**
+
+    1
+    4
+    -5
+
+**Uitvoer:**
+
+    Er zijn 2 reële oplossingen: -5.0 en 1.0
+
+### Voorbeeld 2
+
+**Invoer:**
+
+    1
+    -12
+    36
+
+**Uitvoer:**
+
+    Er is 1 reële oplossing: 6.0
+    
+### Voorbeeld 3
+
+**Invoer:**
+
+    4
+    2
+    7
+
+**Uitvoer:**
+
+    Er zijn geen reële oplossingen
+
+
+### Tips bij deze oefeningen
+
+Een vierkantswortel bereken je met de volgende code:
+
 ```python
-print("Hello world")
+import math #deze lijn komt helemaal bovenaan in je code
+
+a = 4
+wortel_a = math.sqrt(a) #uitkomst 2
 ```
