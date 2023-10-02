@@ -5,7 +5,17 @@
 STOP
 2 is inderdaad een even getal
 3 is geen even getal
-
+STOP
+5 is geen even getal
+STOP
+4 is inderdaad een even getal
+100 is inderdaad een even getal
+80 is inderdaad een even getal
+1 is geen even getal
+STOP
+4 is inderdaad een even getal
+4 is inderdaad een even getal
+33 is geen even getal
 --------------------------------------------------------------------
 python input without prompt: true
 block count: multi
