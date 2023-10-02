@@ -28,3 +28,5 @@ Schrijf een programma dat nakijkt of getallen *(integers)* even zijn. Zolang de 
 
 ### Tip
 Nakijken of een getal even is kan eenvoudig met de **modulo operator  %**. 
+
+Gebruik bij deze oefening een **while loop**
