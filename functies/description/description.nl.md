@@ -9,10 +9,10 @@ print(x)  #deze functie print een variabele
 
 int(x)  #deze functie verandert het datatype van x naar integer
 
-round(x,y) #deze functie rondt het getal x af op 2 cijfers na de komma
+round(x,y) #deze functie rondt het getal x af op y cijfers na de komma
 
 ```
-Een functie bestaat uit een naam, bijvoorbeeld *print* en heeft geen/een/meerdere parameters als input tussen de haakjes, gescheiden door een komma. µ
+Een functie bestaat uit een naam, bijvoorbeeld *print* en heeft geen/een/meerdere parameters als input tussen de haakjes, gescheiden door een komma. 
 
 Soms moet een parameter van een bepaald datatype zijn. Bijvoorbeeld: de variabele y bij *round(x,y)* moet een natuurlijk getal zijn.
 
