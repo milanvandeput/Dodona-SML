@@ -4,8 +4,7 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Hello world",
-      "en": "Hello world"
+      "nl": "Het nut van functies"
     }
   },
   "evaluation": {
