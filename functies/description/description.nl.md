@@ -18,7 +18,7 @@ Soms moet een parameter van een bepaald datatype zijn. Bijvoorbeeld: de variabel
 
 ### Zelf functies maken
 
-Python beschikt zelf dus al over heel wat functies. Maar je kan ook zelf een functie definiëren.
+Python beschikt dus al over heel wat functies. Maar je kan ook zelf een functie definiëren.
 
 Bijvoorbeeld: je wil zelf een functie maken die telkens 10 van een getal aftrekt.
 
