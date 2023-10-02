@@ -1,11 +1,15 @@
-### Print()
+### Loops
 
-De eerste functie die we zullen leren is de print() functie. Deze functie zal printen wat er tussen de haakjes staat. 
+Loops (of iteraties) worden gebruikt om een stuk code een aantal keer herhaaldelijk te laten uitvoeren.
 
-Eerst leren we om 'strings' (=tekst) te printen. Dit doe je door de tekst tussen twee "" te zetten.
+We zullen in deze les 3 soorten loops leren.
 
-### Opdracht
-Kopieer onderstaande code en voer hem uit.
+1. for loops met range()
+2. for loops met een String
+3. while loops 
+
+### for loops met range()
+
 
 ```python
 print("Hello world")
