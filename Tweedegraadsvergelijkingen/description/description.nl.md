@@ -19,7 +19,7 @@ $$x  =  {{-b}\over{2a}}$$
 
 
 ### Opdracht
-Schrijf een programma dat de oplossingen van een tweedegraadsvergelijking berekent. De inputs zijn de 3 coëfficiënten a, b en c. Met $$a \neq 0$$.
+Schrijf een programma dat de oplossingen van een tweedegraadsvergelijking berekent. De inputs zijn de 3 coëfficiënten a, b en c. Met $a \neq 0$.
 
 ```python
 print("Hello world")
