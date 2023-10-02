@@ -9,7 +9,7 @@ Je bepaalt de oplossingen met behulp van de discriminant
 $$D = b^2 - 4ac$$
 
 Bij een negatieve discriminant zijn er geen oplossingen.
-Bij een positieve discriminant zijn er 2 oplossingen:
+\\Bij een positieve discriminant zijn er 2 oplossingen:
 
 $$x_{12} = {{-b \pm \sqrt{D}}\over{2a}}$$
 
