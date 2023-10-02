@@ -70,3 +70,5 @@ import math #deze lijn komt helemaal bovenaan in je code
 a = 4
 wortel_a = math.sqrt(a) #uitkomst 2
 ```
+
+**Maak eerst op papier een schema van je code. Welke gevallen wil je nagaan? Vermijd bijvoorbeeld dat je code de wortel van een negatieve discriminant moet berekenen.**
