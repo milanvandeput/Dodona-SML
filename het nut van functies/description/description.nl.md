@@ -1,12 +1,98 @@
-### Print()
+### Het nut van functies()
 
-De eerste functie die we zullen leren is de print() functie. Deze functie zal printen wat er tussen de haakjes staat. 
+Waarom gebruiken we functies in een programma? Funties kunnen **structuur aanbrengen** in een langer programma waarin je bepaalde stukken code herhaaldelijk uitvoert.
 
-Eerst leren we om 'strings' (=tekst) te printen. Dit doe je door de tekst tussen twee "" te zetten.
-
-### Opdracht
-Kopieer onderstaande code en voer hem uit.
+We illustreren dit met een programma dat een reeks van 4 cijfers naar tekst omzet.
 
 ```python
-print("Hello world")
+cijfer1 = 1
+cijfer2 = 2
+cijfer4 = 3
+cijfer3 = 4
+
+if cijfer1==0:
+  print("nul")
+elif cijfer1==1:
+  print("een")
+elif cijfer1==2:
+  print("twee")
+elif cijfer1==3:
+  print("drie")
+elif cijfer1==4:
+  print("vier")
+elif cijfer1==5:
+  print("vijf")
+elif cijfer1==6:
+  print("zes")
+elif cijfer1==7:
+  print("zeven")
+elif cijfer1==8:
+  print("acht")
+elif cijfer1==9:
+  print("negen")
+
+
+if cijfer2==0:
+  print("nul")
+elif cijfer2==1:
+  print("een")
+elif cijfer2==2:
+  print("twee")
+elif cijfer2==3:
+  print("drie")
+elif cijfer2==4:
+  print("vier")
+elif cijfer2==5:
+  print("vijf")
+elif cijfer2==6:
+  print("zes")
+elif cijfer2==7:
+  print("zeven")
+elif cijfer2==8:
+  print("acht")
+elif cijfer2==9:
+  print("negen")
+
+
+if cijfer3==0:
+  print("nul")
+elif cijfer3==1:
+  print("een")
+elif cijfer3==2:
+  print("twee")
+elif cijfer3==3:
+  print("drie")
+elif cijfer3==4:
+  print("vier")
+elif cijfer3==5:
+  print("vijf")
+elif cijfer3==6:
+  print("zes")
+elif cijfer3==7:
+  print("zeven")
+elif cijfer3==8:
+  print("acht")
+elif cijfer3==9:
+  print("negen")
+
+if cijfer4==0:
+  print("nul")
+elif cijfer4==1:
+  print("een")
+elif cijfer4==2:
+  print("twee")
+elif cijfer4==3:
+  print("drie")
+elif cijfer4==4:
+  print("vier")
+elif cijfer4==5:
+  print("vijf")
+elif cijfer4==6:
+  print("zes")
+elif cijfer4==7:
+  print("zeven")
+elif cijfer4==8:
+  print("acht")
+elif cijfer4==9:
+  print("negen")
 ```
