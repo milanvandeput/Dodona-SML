@@ -1,24 +1,14 @@
-### Print()
-
-De eerste functie die we zullen leren is de print() functie. Deze functie zal printen wat er tussen de haakjes staat. 
-
-Eerst leren we om 'strings' (=tekst) te printen. Dit doe je door de tekst tussen twee "" te zetten.
-
 ### Opdracht
-Kopieer onderstaande code en voer hem uit.
+Schrijf een programma dat een woord of zin aan de gebruiker vraagt en het aantal e's telt.
 
-```python
-print("Hello world")
-```
+Maak gebruik van een **for loop met String** in deze oefening.
 
 ### Voorbeeld
 
 **Invoer:**
 
-    100
-    5.7
-    /
+    meter
 
 **Uitvoer:**
 
-    17.5
+    De letter e komt 2 keer voor
