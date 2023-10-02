@@ -1,24 +1,23 @@
-### Print()
-
-De eerste functie die we zullen leren is de print() functie. Deze functie zal printen wat er tussen de haakjes staat. 
-
-Eerst leren we om 'strings' (=tekst) te printen. Dit doe je door de tekst tussen twee "" te zetten.
 
 ### Opdracht
-Kopieer onderstaande code en voer hem uit.
+Schrijf een programma dat van 10 naar 1 aftelt en dan Gelukkig Nieuwjaar! roept.
 
-```python
-print("Hello world")
-```
+Gebruik bij deze opdracht een **for loop**
 
-### Voorbeeld
 
 **Invoer:**
 
-    100
-    5.7
-    /
 
 **Uitvoer:**
 
-    17.5
+    10
+    9
+    8
+    7
+    6
+    5
+    4
+    3
+    2
+    1
+    Gelukkig Nieuwjaar!
