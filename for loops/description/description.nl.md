@@ -10,7 +10,40 @@ We zullen in deze les 3 soorten loops leren.
 
 ### for loops met range()
 
+Bij deze *range(n)* loops gebruik je een variabele x *(integer)* die je laat variëren tussen **0 en n-1**. 
+In totaal wordt de code in de for loop dus n keer uitgevoerd!
 
 ```python
-print("Hello world")
+for x in range(10):
+  print("hallo")
+
+#uitvoer:
+hallo
+hallo
+hallo
+hallo
+hallo
+hallo
+hallo
+hallo
+hallo
+hallo
+```
+
+Je kan de variabele x zelf natuurlijk ook gebruiken in deze code. Zo krijg je telkens een andere uitvoer
+```python
+for x in range(10):
+  print(2*x)
+
+#uitvoer:
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
 ```
