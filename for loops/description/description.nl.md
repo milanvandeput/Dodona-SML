@@ -47,3 +47,23 @@ for x in range(10):
 16
 18
 ```
+
+### for loops met een String
+
+Een ander type for loops gebruikt een String waarbij er voor elk teken van de String, de code een keer wordt uitgevoerd.
+
+*x is dus nu van het datatype String*
+
+```python
+for x in "woorden":
+  print(x)
+
+#uitvoer:
+w
+o
+o
+r
+d
+e
+n
+```
