@@ -1,24 +1,30 @@
-### Print()
-
-De eerste functie die we zullen leren is de print() functie. Deze functie zal printen wat er tussen de haakjes staat. 
-
-Eerst leren we om 'strings' (=tekst) te printen. Dit doe je door de tekst tussen twee "" te zetten.
-
 ### Opdracht
-Kopieer onderstaande code en voer hem uit.
-
-```python
-print("Hello world")
-```
+Schrijf een programma dat nakijkt of getallen *(integers)* even zijn. Zolang de gebruiker even getallen blijft ingeven, gaat het programma verder. Wanneer er een oneven getal wordt ingegeven, stopt het programma.
 
 ### Voorbeeld
 
 **Invoer:**
 
-    100
-    5.7
-    /
+    2
+    4
+    3
 
 **Uitvoer:**
 
-    17.5
+    2 is inderdaad een even getal
+    4 is inderdaad een even getal
+    3 is geen even getal
+
+### Voorbeeld
+
+**Invoer:**
+
+    5
+
+**Uitvoer:**
+
+    5 is geen even getal
+
+
+### Tip
+Nakijken of een getal even is kan eenvoudig met de **modulo operator  %**. 
