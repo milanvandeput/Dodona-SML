@@ -48,6 +48,19 @@ for x in range(10):
 18
 ```
 
+Als je de loop wil laten beginnen bij een andere waarde dan 0, gebruik dan 2 parameters bij de range:
+```python
+for x in range(5,10):
+  print(x)
+
+#uitvoer:
+5
+6
+7
+8
+9
+```
+
 ### for loops met een String
 
 Een ander type for loops gebruikt een String waarbij er voor elk teken van de String, de code een keer wordt uitgevoerd.
