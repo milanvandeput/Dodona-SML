@@ -1,16 +1,16 @@
->>> oppervlakte_balk(1,2,3)
+>>> volume_balk(1,2,3)
 6
->>> oppervlakte_balk(10,20,30)
+>>> volume_balk(10,20,30)
 6000
->>> oppervlakte_balk(10,5,5)
+>>> volume_balk(10,5,5)
 250
->>> oppervlakte_balk(8,8,8)
+>>> volume_balk(8,8,8)
 512
->>> oppervlakte_balk(1,4.2,1)
+>>> volume_balk(1,4.2,1)
 4.2
->>> oppervlakte_balk(10.8,23.2,40)
+>>> volume_balk(10.8,23.2,40)
 10022.4
->>> oppervlakte_balk(1,0,1)
+>>> volume_balk(1,0,1)
 0
 
 
