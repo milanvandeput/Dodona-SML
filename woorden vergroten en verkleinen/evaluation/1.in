@@ -1,1 +1,14 @@
+>>> woorden_verkleinen(ABC)
+abc
 
+>>> woorden_verkleinen(BEA)
+bea
+
+>>> woorden_verkleinen(BED)
+bed
+
+>>> woorden_verkleinen(EED)
+eed
+
+>>> woorden_verkleinen(ABCDEEDCBA)
+abcdeedcba
