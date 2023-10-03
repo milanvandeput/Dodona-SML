@@ -1,14 +1,14 @@
 >>> woorden_vergroten("abc")
-ABC
+"ABC"
 
 >>> woorden_vergroten("bea")
-BEA
+"BEA"
 
 >>> woorden_vergroten("bed")
-BED
+"BED"
 
 >>> woorden_vergroten("eed")
-EED
+"EED"
 
 >>> woorden_vergroten("abcdeedcba")
-ABCDEEDCBA
+"ABCDEEDCBA"
