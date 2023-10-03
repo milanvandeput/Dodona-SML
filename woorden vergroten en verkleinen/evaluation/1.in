@@ -1,4 +1,4 @@
->>> woorden_verkleinen(ABC)
+>>> woorden_verkleinen("ABC")
 abc
 
 >>> woorden_verkleinen(BEA)
