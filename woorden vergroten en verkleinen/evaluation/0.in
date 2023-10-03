@@ -1,1 +1,14 @@
+>>> woorden_vergroten(abc)
+ABC
 
+>>> woorden_vergroten(bea)
+BEA
+
+>>> woorden_vergroten(bed)
+BED
+
+>>> woorden_vergroten(eed)
+EED
+
+>>> woorden_vergroten(abcdeedcba)
+ABCDEEDCBA
