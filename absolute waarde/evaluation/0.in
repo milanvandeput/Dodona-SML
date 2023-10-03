@@ -1,10 +1,19 @@
 >>> absolute_waarde(1)
 1
-> absolute_waarde(2)
-> absolute_waarde(4.5)
-> absolute_waarde(6.54)
-> absolute_waarde(100)
-> absolute_waarde(-1)
-> absolute_waarde(-2)
-> absolute_waarde(-20.1)
-> absolute_waarde(0)
+>>> absolute_waarde(2)
+2
+>>> absolute_waarde(3.5)
+3.5
+>>> absolute_waarde(100)
+100
+>>> absolute_waarde(-1)
+1
+>>> absolute_waarde(-4)
+4
+>>> absolute_waarde(-40.6)
+40.6
+>>> absolute_waarde(0)
+0
+
+
+
