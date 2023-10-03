@@ -1,24 +1,15 @@
-### Print()
+### Opdracht()
 
-De eerste functie die we zullen leren is de print() functie. Deze functie zal printen wat er tussen de haakjes staat. 
+Schrijf een functie **absolute_waarde()** die de absolute waarde van een getal berekent.
 
-Eerst leren we om 'strings' (=tekst) te printen. Dit doe je door de tekst tussen twee "" te zetten.
-
-### Opdracht
-Kopieer onderstaande code en voer hem uit.
-
-```python
-print("Hello world")
-```
+*Je code hoeft zelf niks te printen of uit te voeren. Enkel de functie definiëren is voldoende.*
 
 ### Voorbeeld
 
 **Invoer:**
 
-    100
-    5.7
-    /
+    absolute_waarde(-2)
 
 **Uitvoer:**
 
-    17.5
+    2
