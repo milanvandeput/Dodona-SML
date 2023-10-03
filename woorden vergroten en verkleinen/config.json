@@ -8,7 +8,7 @@
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "pythia_judge": "doctest"
   },
   "contact": "Milan Vandeput <milan.vandeput@sml.be>",
   "internals": {
