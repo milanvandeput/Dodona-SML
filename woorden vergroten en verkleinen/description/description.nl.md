@@ -1,24 +1,36 @@
-### Print()
+### Opdracht()
 
-De eerste functie die we zullen leren is de print() functie. Deze functie zal printen wat er tussen de haakjes staat. 
+Schrijf twee functies **woorden_vergroten()** en **woorden_verkleinen()** die de letters in een woord *(=string)* van hoofdletters naar kleine letters kunnen omzetten en omgekeerd.
 
-Eerst leren we om 'strings' (=tekst) te printen. Dit doe je door de tekst tussen twee "" te zetten.
-
-### Opdracht
-Kopieer onderstaande code en voer hem uit.
-
-```python
-print("Hello world")
-```
+*Om de functie niet nodeloos complex te maken, testen we enkel woorden met de eerste 5 letters van het alfabet.*
 
 ### Voorbeeld
 
 **Invoer:**
 
-    100
-    5.7
-    /
+    >>>woorden_verkleinen("ABC")
 
 **Uitvoer:**
 
-    17.5
+    abc
+
+### Voorbeeld
+
+**Invoer:**
+
+    >>>woorden_vergroten("abc")
+
+**Uitvoer:**
+
+    ABC
+
+### Tip
+Met een **for loop** kan je alle letters in een woord afgaan.
+
+In deze loop zal je letter per letter het nieuwe (verkleinde of vergrote) woord willen schrijven. Dit kan je doen door vooraf een **lege string** te definiëren. Letters toevoegen kan door de '+' bewerking.
+```python
+nieuw_woord = ""
+nieuw_woord = nieuw_woord + "a"
+```
+
+
