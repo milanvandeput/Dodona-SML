@@ -137,4 +137,6 @@ cijfer_naar_tekst(cijfer4)
 ```
 Een heel stuk eenvoudiger, toch?
 
+Je kan ook **in functies verwijzen naar andere functies**. De volgende opgave is daar een oefening op.
+
 
