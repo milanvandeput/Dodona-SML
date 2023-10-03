@@ -1,10 +1,9 @@
-absolute_waarde(1)
-2
-4.5
-6.54
-100
--1
--2
--20.1
-0
-
+> absolute_waarde(1)
+> absolute_waarde(2)
+> absolute_waarde(4.5)
+> absolute_waarde(6.54)
+> absolute_waarde(100)
+> absolute_waarde(-1)
+> absolute_waarde(-2)
+> absolute_waarde(-20.1)
+> absolute_waarde(0)
