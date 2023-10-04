@@ -1,12 +1,5 @@
-### Print()
+### UITDAGINGEN:
 
-De eerste functie die we zullen leren is de print() functie. Deze functie zal printen wat er tussen de haakjes staat. 
+De volgende oefeningen zijn uitdagingen en zijn bedoeld voor de leerlingen die al wat meer programmeerervaring hebben. Zij kunnen ervoor kiezen om deze uitdagingen te maken in plaats van de vorige oefeningen over dit onderdeel. 
 
-Eerst leren we om 'strings' (=tekst) te printen. Dit doe je door de tekst tussen twee "" te zetten.
-
-### Opdracht
-Kopieer onderstaande code en voer hem uit.
-
-```python
-print("Hello world")
-```
+Als je alle vorige oefeningen gemaakt hebt, mag je deze uitdagingen dus overslaan en al aan de opdrachten beginnen.
