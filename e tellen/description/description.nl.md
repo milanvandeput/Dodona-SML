@@ -16,5 +16,10 @@ Maak gebruik van een **for loop met String** in deze oefening.
 ### Tip
 Maak gebruik van een *teller* variabele die in de loop met 1 wordt verhoogd wanneer we een e tegenkomen.
 ```python
-e
+teller = 0
+
+for ...:
+    ...
+        teller = teller + 1
+    ...
 ```
