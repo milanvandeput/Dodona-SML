@@ -19,7 +19,6 @@ Maak gebruik van een *teller* variabele die in de loop met 1 wordt verhoogd wann
 teller = 0
 
 for ...:
-    ...
+    ...  #test in deze loop of je een 'e' tegenkomt
         teller = teller + 1
-    ...
 ```
