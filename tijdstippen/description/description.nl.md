@@ -26,7 +26,7 @@ Het programma geeft als uitvoer eerst de verstreken uren en dan de verstreken mi
 **Uitvoer:**
 
     0
-    40
+    30
 
 *Tip: laat de input als String inlezen en gebruik **string slicing** om de uren en minuten hieruit op te slaan in variabelen.*
 *Een voorbeeldje:*
