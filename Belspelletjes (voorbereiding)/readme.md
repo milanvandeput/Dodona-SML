@@ -1,1 +1,2 @@
-Les 1 oefening hello world
+opdracht Semester 1 
+Belspelletjes (voorbereidende opdracht)
