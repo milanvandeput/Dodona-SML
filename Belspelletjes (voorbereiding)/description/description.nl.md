@@ -1,4 +1,4 @@
-### Print()
+### Belspelletjes...
 
 De eerste functie die we zullen leren is de print() functie. Deze functie zal printen wat er tussen de haakjes staat. 
 
