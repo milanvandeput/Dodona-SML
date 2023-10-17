@@ -26,10 +26,30 @@ Je kan in python een berekening rechtstreeks laten uitvoeren met de funcite *eva
 berekening = eval(1+2+3)
 print(berekening) #uitkomst 6
 ```
-### Tips
-Eval functie
-2 soorten inputs
-tekst.split => maakt lijst van woorden
-iets in woord
+
+### Tip: Tekst splitsen in woorden
+Een tekst karakter per karakter doorlopen hebben jullie al leren doen met een *for loop (zie les 3)*. Maar om woorden te herkennen is het soms nuttig om de tekst woord per woord af te gaan (waarbij woorden gescheiden zijn met een spatie. Dit kan door de functie .split() toe te voegen.
+```python
+tekst = "Hallo, dit is een tekst."
+for x in tekst.split()
+    print(x)
+
+#uitvoer
+#Hallo,
+#dit
+#is
+#een
+#tekst.
+```
+### Tip: woorden herkennen
+Om te herkennen of een karakter voorkomt in een tekst, kan je een boolean maken met *in*.
+```python
+boolean1 = "boek" in "handboek"     #True
+boolean2 = "boek" in "schoen"       #False
+boolean3 = "ee" in   "er was eens een..."     #True
+boolean4 = "aan" in "bijna anders"     #False
+
+```
+
 
 
