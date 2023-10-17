@@ -34,12 +34,12 @@ tekst = "Hallo, dit is een tekst."
 for x in tekst.split()
     print(x)
 
-#uitvoer
-#Hallo,
-#dit
-#is
-#een
-#tekst.
+==> uitvoer
+    Hallo,
+    dit
+    is
+    een
+    tekst.
 ```
 ### Tip: woorden herkennen
 Om te herkennen of een karakter voorkomt in een tekst, kan je een boolean maken met *in*.
