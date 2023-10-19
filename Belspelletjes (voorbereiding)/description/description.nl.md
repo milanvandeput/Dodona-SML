@@ -44,7 +44,7 @@ for x in tekst.split()
     tekst.
 ```
 ### Tip: woorden herkennen
-Om te herkennen of een karakter voorkomt in een tekst, kan je een boolean maken met *in*.
+Om te herkennen of een string voorkomt in een andere string, kan je een boolean maken met *in*.
 ```python
 boolean1 = "boek" in "handboek"     #True
 boolean2 = "boek" in "schoen"       #False
