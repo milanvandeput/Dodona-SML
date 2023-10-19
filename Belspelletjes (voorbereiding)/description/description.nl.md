@@ -1,8 +1,8 @@
-### Belspelletjes...
+### Belspelletjes
 
 [Belspelletjes](https://www.youtube.com/watch?v=LFLDU4Q9_Jk&t=31m18 "Basta belspelletjes")
 
-Intro + video hier + uitleg rekenopgaves met verborgen regels
+Jullie gaan nu zelf een programma schrijven gelijkaardig aan dat van Gaetan *(de outfit met zonnebril en pet hoeft er net bij).*
 
 ### Opdracht
 Schrijf een programma dat de rekenspelletjes kan oplossen. In deze eerste versie moet het programma nog maar met 2 zaken rekening kunnen houden:
