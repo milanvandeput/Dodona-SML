@@ -1,6 +1,6 @@
 ### Belspelletjes...
 
-[Belspelletjes](https://www.youtube.com/watch?v=LFLDU4Q9_Jk&t=40m40 "Basta belspelletjes")
+[Belspelletjes](https://www.youtube.com/watch?v=LFLDU4Q9_Jk&t=31m18 "Basta belspelletjes")
 
 Intro + video hier + uitleg rekenopgaves met verborgen regels
 
