@@ -1,6 +1,6 @@
 ### Belspelletjes
 
-[Belspelletjes](https://www.youtube.com/watch?v=LFLDU4Q9_Jk&t=31m18 "Basta belspelletjes")
+[Belspelletjes](https://www.youtube.com/watch?v=LFLDU4Q9_Jk&t=31m18 "Basta belspelletjes") *bekijk van 31:18 tot 35:15*
 
 Jullie gaan nu zelf een programma schrijven gelijkaardig aan dat van Gaetan *(de outfit met zonnebril en pet hoeft er niet bij).*
 
