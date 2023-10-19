@@ -1,6 +1,6 @@
 ### Belspelletjes...
 
-[![](https://markdown-videos-api.jorgenkh.no/youtube/{video_id})](https://www.youtube.com/watch?v=LFLDU4Q9_Jk)
+[![Belspelletjes](http://img.youtube.com/vi/XAMVzS13HY0/0.jpg)](https://www.youtube.com/watch?v=LFLDU4Q9_Jk "Belspelletjes")
 Intro + video hier + uitleg rekenopgaves met verborgen regels
 
 ### Opdracht
