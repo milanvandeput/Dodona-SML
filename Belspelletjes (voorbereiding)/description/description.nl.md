@@ -8,7 +8,7 @@ Jullie gaan nu zelf een programma schrijven gelijkaardig aan dat van Gaetan *(de
 Schrijf een programma dat de rekenspelletjes kan oplossen. In deze eerste versie moet het programma nog maar met 2 zaken rekening kunnen houden:
 
 1. De berekening zelf moet uitgevoerd worden.
-2. De verborgen cijfers moeten opgeteld worden *(bijvoorbeeld 8 in VANNACHT)*.
+2. De verborgen cijfers (1 t.e.m. 10) moeten opgeteld worden *(bijvoorbeeld 8 in VANNACHT)*.
 
 Om stap 1 te vergemakkelijken zal de invoer uit 2 delen bestaan. De volledige tekst en het rekendeel appart.  
 
@@ -23,17 +23,17 @@ Om stap 1 te vergemakkelijken zal de invoer uit 2 delen bestaan. De volledige te
     64
 
 ### Tip: berekening 
-Je kan in python een berekening rechtstreeks laten uitvoeren met de funcite *eval()*
+Je kan in python een berekening rechtstreeks laten uitvoeren met de functie *eval()*
 ```python
 berekening = eval(1+2+3)
 print(berekening) #uitkomst 6
 ```
 
 ### Tip: Tekst splitsen in woorden
-Een tekst karakter per karakter doorlopen hebben jullie al leren doen met een *for loop (zie les 3)*. Maar om woorden te herkennen is het soms nuttig om de tekst woord per woord af te gaan (waarbij woorden gescheiden zijn met een spatie. Dit kan door de functie .split() toe te voegen.
+Een tekst karakter per karakter doorlopen hebben jullie al leren doen met een *for loop (zie les 3)*. Maar om woorden te herkennen is het soms nuttig om de tekst woord per woord af te gaan (waarbij woorden gescheiden zijn met een spatie). Dit kan door de functie .split() toe te voegen.
 ```python
 tekst = "Hallo, dit is een tekst."
-for x in tekst.split()
+for x in tekst.split():
     print(x)
 
 ==> uitvoer
