@@ -1,4 +1,4 @@
-### Belspelletjes: langste
+### Belspelletjes: langste woord
 
 *Dit is een vierde uitbreiding op de rekensleutel. De berekeningen uit de voorgaande opdrachten moeten nog steeds gelden!*
 
