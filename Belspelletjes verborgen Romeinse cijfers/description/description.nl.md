@@ -5,7 +5,7 @@
 ### Opdracht
 Breid je programma uit zodat  **verborgen Romeinse cijfers** in de opgave geteld worden. Deze worden bij het totaal opgeteld.
 
-Bijvoorbeeld: in de letter E zit zowel een Romeinse I(1) als een Romeinse L(50) verborgen. Tel zo ook de verborgen Romeinse cijfers in *E,L,D,A,P,F en T*.
+Bijvoorbeeld: in de letter E zit zowel een Romeinse I(1) als een Romeinse L(50) verborgen. Tel zo ook de verborgen Romeinse cijfers in *E, L, D, A, P, F en T*.
 
 
 
