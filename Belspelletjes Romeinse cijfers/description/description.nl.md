@@ -5,7 +5,7 @@
 ### Opdracht
 Breid je programma uit zodat  **Romeinse cijfers** in de opgave geteld worden. Deze worden bij het totaal opgeteld.
 
-De Romeinse cijfers die je programma moet herkennen zijn: *I(1), V(5), X(10), L(50, C(100), D(500) en M(1000)*
+De Romeinse cijfers die je programma moet herkennen zijn: *I(1), V(5), X(10), L(50), C(100), D(500) en M(1000)*
 
 
 
