@@ -1,24 +1,24 @@
-### Print()
+### Belspelletjes: Romeinse cijfers
 
-De eerste functie die we zullen leren is de print() functie. Deze functie zal printen wat er tussen de haakjes staat. 
-
-Eerst leren we om 'strings' (=tekst) te printen. Dit doe je door de tekst tussen twee "" te zetten.
+*Dit is een eerste uitbreiding op de rekensleutel. De berekeningen uit de voorgaande opdrachten moeten nog steeds gelden!*
 
 ### Opdracht
-Kopieer onderstaande code en voer hem uit.
+Breid je programma uit zodat  **Romeinse cijfers** in de opgave geteld worden. Deze worden bij het totaal opgeteld.
 
-```python
-print("Hello world")
-```
+De Romeinse cijfers die je programma moet herkennen zijn:
+
+-I (1)
+-V (5)
+
+
 
 ### Voorbeeld
 
 **Invoer:**
 
-    100
-    5.7
-    /
+    DRIE, TWEE, EEN, START! GEEF SNEL EEN BELLETJE! 100 - 100
+    100 - 100
 
 **Uitvoer:**
 
-    17.5
+    669   *<--- 0 (uitkomst berekening) + 6 (som verborgen cijfers) + 12 (aantal woorden) + 651 (D I L L L)*
