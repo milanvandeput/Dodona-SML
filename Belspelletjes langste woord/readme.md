@@ -1,1 +1,1 @@
-Les 1 oefening hello world
+Belspelletjes uitbreiding langste woord (gemiddeld)
