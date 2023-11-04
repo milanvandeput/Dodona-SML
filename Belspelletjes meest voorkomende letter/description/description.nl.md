@@ -1,4 +1,4 @@
-### Belspelletjes: aantal getallen
+### Belspelletjes: meest voorkomende letter
 
 *Dit is een zesde uitbreiding op de rekensleutel. De berekeningen uit de voorgaande opdrachten moeten nog steeds gelden!*
 
@@ -23,7 +23,14 @@ Breid je programma uit zodat de **de meest voorkomende letter** uit de opgave wo
                + 13  (de 'E' komt 13 keer voor)
 
 ### Tip
-ABDCD...
+Voor elke letter een apart een lus schrijven die de tekst doorloopt om te tellen hoe vaak deze letter voorkomt is veel te veel werk. Maak daarom gebruik van een **lus in een lus**.
+
+Maak gebruik van deze buitenste lus om alle letters af te gaan:
+```python
+for letter in "ABCDEFGHIJKLMNOPQRSTUVWXYZ":
+    for x in ...: #binnenste lus
+        ...
+
 ```
 
 ### Tip
