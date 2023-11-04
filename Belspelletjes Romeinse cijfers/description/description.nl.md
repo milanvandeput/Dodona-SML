@@ -18,4 +18,4 @@ De Romeinse cijfers die je programma moet herkennen zijn: *I(1), V(5), X(10), L(
 
 **Uitvoer:**
 
-    669   *<--- 0 (uitkomst berekening) + 6 (som verborgen cijfers) + 12 (aantal woorden) + 651 (D I L L L)*
+    669   *<--- 0 (uitkomst berekening) + 6 (som verborgen cijfers) + 12 (aantal woorden) + 651 (Romeinse cijfers: D I L L L)*
