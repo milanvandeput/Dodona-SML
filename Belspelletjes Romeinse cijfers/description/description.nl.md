@@ -1,6 +1,6 @@
 ### Belspelletjes: Romeinse cijfers
 
-*Dit is een eerste uitbreiding op de rekensleutel. De berekeningen uit de voorgaande opdrachten moeten nog steeds gelden!*
+*Dit is een tweede uitbreiding op de rekensleutel. De berekeningen uit de voorgaande opdrachten moeten nog steeds gelden!*
 
 ### Opdracht
 Breid je programma uit zodat  **Romeinse cijfers** in de opgave geteld worden. Deze worden bij het totaal opgeteld.
