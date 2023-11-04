@@ -4,7 +4,7 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Belspelletjes: woorden tellen"
+      "nl": "Belspelletjes: woorden tellen"}
   },
   "evaluation": {
     "pythia_judge": "output"
