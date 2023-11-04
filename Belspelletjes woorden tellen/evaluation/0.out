@@ -6,3 +6,9 @@
 320
 1182
 18
+
+----------------------------------------
+python input without prompt: true
+block count: multi
+input block size: 2
+output block size: 1
