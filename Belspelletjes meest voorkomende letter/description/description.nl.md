@@ -1,24 +1,30 @@
-### Print()
+### Belspelletjes: aantal getallen
 
-De eerste functie die we zullen leren is de print() functie. Deze functie zal printen wat er tussen de haakjes staat. 
-
-Eerst leren we om 'strings' (=tekst) te printen. Dit doe je door de tekst tussen twee "" te zetten.
+*Dit is een zesde uitbreiding op de rekensleutel. De berekeningen uit de voorgaande opdrachten moeten nog steeds gelden!*
 
 ### Opdracht
-Kopieer onderstaande code en voer hem uit.
+Breid je programma uit zodat de **de meest voorkomende letter** uit de opgave wordt gezocht. Het aantal keer dat deze letter voorkomt moet bij het totaal worden geteld.
 
-```python
-print("Hello world")
-```
+**Opgelet:** We bedoelen hier enkel de 'echte' letter A, B, C, D, ..., Z. Dus geen cijfers of leestekens of spaties.
+
+
 
 ### Voorbeeld
 
 **Invoer:**
 
-    100
-    5.7
-    /
+    DRIE, TWEE, EEN, START! GEEF SNEL EEN BELLETJE! 100 - 100
+    100 - 100
 
 **Uitvoer:**
 
-    17.5
+    1380  <--- 0 (uitkomst berekening) + 6 (som verborgen cijfers) + 12 (aantal woorden) + 651 (Romeinse cijfers: D I L L L) 
+               + 677 (verborgen Romeinse cijfers: DETEEEETATEEFELEEELLEE) + 9 (langste woord BELLETJE!) + 12 (DRIE, TWEE, EEN, EEN, 100, 1, 0, 0, 100, 1, 0, 0)
+               + 13  (de 'E' komt 13 keer voor)
+
+### Tip
+ABDCD...
+```
+
+### Tip
+Denk goed na over wanneer je de invoer letter per letter *(gewone for loop)* of woord per woord *(met .split())* wil doorlopen.
