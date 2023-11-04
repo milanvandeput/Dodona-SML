@@ -4,7 +4,7 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Belspelletjes: Romeinse cijfers}
+      "nl": "Belspelletjes: Romeinse cijfers"}
   },
   "evaluation": {
     "pythia_judge": "output"
