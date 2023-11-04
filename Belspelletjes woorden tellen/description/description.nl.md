@@ -17,4 +17,4 @@ Een woord beschouwen we hier als iets dat door spaties gescheiden wordt. De zin 
 
 **Uitvoer:**
 
-    18   <--- 0 (uitkomst berekening) + 6 (som verborgen cijfers) + 12 (aantal woorden)
+    18   *<--- 0 (uitkomst berekening) + 6 (som verborgen cijfers) + 12 (aantal woorden)*
