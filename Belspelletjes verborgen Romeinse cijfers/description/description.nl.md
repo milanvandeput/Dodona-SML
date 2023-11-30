@@ -18,7 +18,7 @@ Bijvoorbeeld: in de letter E zit zowel een Romeinse I(1) als een Romeinse L(50) 
 
 **Uitvoer:**
 
-    1346   <--- 0 (uitkomst berekening) + 6 (som verborgen cijfers) + 12 (aantal woorden) + 651 (Romeinse cijfers: D I L L L) 
+    1346   <--- 0 (uitkomst berekening) + 7 (som verborgen cijfers) + 11 (aantal woorden) + 651 (Romeinse cijfers: D I L L L) 
                 + 677 (verborgen Romeinse cijfers: DETEEEETATEEFELEEELLEE)
 
 ### Tip
