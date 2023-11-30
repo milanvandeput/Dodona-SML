@@ -18,7 +18,7 @@ Breid je programma uit zodat de **de meest voorkomende letter** uit de opgave wo
 
 **Uitvoer:**
 
-    1380  <--- 0 (uitkomst berekening) + 6 (som verborgen cijfers) + 12 (aantal woorden) + 651 (Romeinse cijfers: D I L L L) 
+    1380  <--- 0 (uitkomst berekening) + 7 (som verborgen cijfers) + 11 (aantal woorden) + 651 (Romeinse cijfers: D I L L L) 
                + 677 (verborgen Romeinse cijfers: DETEEEETATEEFELEEELLEE) + 9 (langste woord BELLETJE!) + 12 (DRIE, TWEE, EEN, EEN, 100, 1, 0, 0, 100, 1, 0, 0)
                + 13  (de 'E' komt 13 keer voor)
 
