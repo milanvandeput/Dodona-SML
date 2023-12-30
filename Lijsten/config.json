@@ -4,8 +4,7 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Hello world",
-      "en": "Hello world"
+      "nl": "Lijsten"
     }
   },
   "evaluation": {
@@ -13,7 +12,7 @@
   },
   "contact": "Milan Vandeput <milan.vandeput@sml.be>",
   "internals": {
-    "token": "YERdzQ6RsR-YHsmqcukZAsvagKGDBrISA-nJWk-2hgImqIq3RR_pF9CXK7M2vQME",
+    "token": "H-V585zMFPbM4Ag-JZ_DqGFaMA3cfeysZsjXA9KfmvbGQRkqAJAvkgTewyJVzHKB",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   },
   "labels": [
