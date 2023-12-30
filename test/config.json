@@ -4,8 +4,8 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "test oefening 1",
-      "en": "Example exercise 1"
+      "nl": "Hello world",
+      "en": "Hello world"
     }
   },
   "evaluation": {
@@ -13,7 +13,7 @@
   },
   "contact": "Milan Vandeput <milan.vandeput@sml.be>",
   "internals": {
-    "token": "yh6xy_epA37A5kstne68VY7e934RN5ZzpjbxxHP34Y6PsgPTDkSGsBtCjCRFTj-X",
+    "token": "H-V585zMFPbM4Ag-JZ_DqGFaMA3cfeysZsjXA9KfmvbGQRkqAJAvkgTewyJVzHKB",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   },
   "labels": [

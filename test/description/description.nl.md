@@ -1,31 +1,24 @@
-Je krijgt één regel invoer en je moet eenvoudig weg deze invoer herhalen. Je moet dus een programma schrijven dat als echo fungeert.
+### Print()
 
-hier nog foto toevoegen
+De eerste functie die we zullen leren is de print() functie. Deze functie zal printen wat er tussen de haakjes staat. 
 
-### Invoer
+Eerst leren we om 'strings' (=tekst) te printen. Dit doe je door de tekst tussen twee "" te zetten.
 
-Eén regel tekst zonder verdere restricties.
+### Opdracht
+Kopieer onderstaande code en voer hem uit.
 
-### Uitvoer
-
-Dezelfde tekst als je hebt ingelezen bij de invoer.
-
-### Voorbeeld
-
-**Invoer:**
-
-    42
-
-**Uitvoer:**
-
-    42
+```python
+print("Hello world")
+```
 
 ### Voorbeeld
 
 **Invoer:**
 
-    ECHO
+    100
+    5.7
+    /
 
 **Uitvoer:**
 
-    ECHO
+    17.5
