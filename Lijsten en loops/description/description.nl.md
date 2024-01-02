@@ -19,6 +19,7 @@ for x in lijst:
 print(lijst)     #de lijst zelf is niet aangepast!
 ```
 
+### Elementen aanpassen in de lijst
 
 Er is ook een tweede methode, die gebruikt maakt van de **indexen**. Deze methode laat ons toe om elementen in de lijst aan te passen.
 
@@ -34,4 +35,4 @@ for i in range(len(lijst)):     #i zal nu alle getallen aannemen van 0 t.e.m. 6
 print(lijst)    #de lijst is nu wel aangepast!
 ```
 
-*Voor deze opdracht hoef je niks in te dienen*
+*Voor deze opdracht hoef je niks in te dienen.*
