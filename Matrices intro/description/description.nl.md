@@ -33,8 +33,18 @@ for rij in matrix:
 ```
 
 ### Dimensies
-Kopieer onderstaande code en voer hem uit.
+Om de dimensies van een matrix te achterhalen, kunnen we gebruikmaken van de functie *len()*. 
+
+- len(matrix) geeft het aantal rijen weer *(want dit zijn het aantal elementen van de buitenste lijst)*.
+- len(matrix[0]) geeft het aantal kolommen weer *(want dit zijn het aantal elementen van de eerste rij)*.
 
 ```python
-print("Hello world")
+matrix = [[1,2,3] , [4,5,6]]
+
+m = len(matrix)
+n = len(matrix[0])
+
+print(m)
+print(n)
 ```
+
