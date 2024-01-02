@@ -1,7 +1,6 @@
 ### Lijsten en loops
 
 We hebben al geleerd dat we via de index een bepaald element uit de lijst kunnen halen.
-De eerste functie die we zullen leren is de print() functie. Deze functie zal printen wat er tussen de haakjes staat. 
 
 Om alle elementen van een lijst te doorlopen, gebruiken we een **for-loop**.
 
