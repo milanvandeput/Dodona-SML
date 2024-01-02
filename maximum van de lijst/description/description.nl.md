@@ -1,24 +1,15 @@
-### Print()
-
-De eerste functie die we zullen leren is de print() functie. Deze functie zal printen wat er tussen de haakjes staat. 
-
-Eerst leren we om 'strings' (=tekst) te printen. Dit doe je door de tekst tussen twee "" te zetten.
-
 ### Opdracht
-Kopieer onderstaande code en voer hem uit.
-
-```python
-print("Hello world")
-```
+Schrijf een programma dat het maximum bepaalt uit een lijst van natuurlijke getallen. De lijst wordt ingegeven als een string.
 
 ### Voorbeeld
 
 **Invoer:**
 
-    100
-    5.7
-    /
+    2 3 10 8 7 1
 
 **Uitvoer:**
 
-    17.5
+    10
+
+### Tip
+Maak gebruik van een for-loop. Vergeet niet om het datatype van je elementen aan te passen!
