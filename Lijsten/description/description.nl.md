@@ -29,3 +29,4 @@ print(lijst(0))
 print(lijst(1))
 print(lijst(5))
 ```
+*Voor deze opdracht moet je niks indienen*
