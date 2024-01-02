@@ -20,13 +20,13 @@ lijst3 = ["naam",20,3.01,"hello world",10]
 
 Elementen in een lijst kunnen worden opgeroepen via hun **index**.
 
-**Opgelet: in python beginnen we te tellen vanaf 0. Het eerste element is dus lijst(0)!** 
+**Opgelet: in python beginnen we te tellen vanaf 0. Het eerste element is dus lijst[0]!** 
 
 *Test onderstaande code uit bij 'code uitvoeren'*
 ```python
 lijst1 = [1,2,3,5,2,"hond",4]
-print(lijst1(0))
-print(lijst1(1))
-print(lijst1(5))
+print(lijst1[0])
+print(lijst1[1])
+print(lijst1[5])
 ```
 *Voor deze opdracht moet je niks indienen*
