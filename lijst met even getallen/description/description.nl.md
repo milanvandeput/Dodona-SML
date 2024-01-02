@@ -1,24 +1,15 @@
-### Print()
-
-De eerste functie die we zullen leren is de print() functie. Deze functie zal printen wat er tussen de haakjes staat. 
-
-Eerst leren we om 'strings' (=tekst) te printen. Dit doe je door de tekst tussen twee "" te zetten.
-
 ### Opdracht
-Kopieer onderstaande code en voer hem uit.
-
-```python
-print("Hello world")
-```
+Schrijf een programma dat in een lijst getallen alle oneven getallen door 0 vervangt. De lijst wordt ingegeven als een string.
 
 ### Voorbeeld
 
 **Invoer:**
 
-    100
-    5.7
-    /
+    2 3 10 8 7 1
 
 **Uitvoer:**
 
-    17.5
+    [2, 0, 10, 8, 0, 0]
+
+### Tip
+Maak gebruik van een **range() for-loop**. Controleren of een getal even is kan met de *%* bewerking.
