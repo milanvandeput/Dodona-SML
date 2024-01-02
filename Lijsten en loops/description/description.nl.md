@@ -28,6 +28,7 @@ We gebruiken voor deze methode een **range() for-loop** die alle indexen afgaat.
 Voorbeeld 3: alle elementen in een lijst verdubbellen en terug in de lijst zetten. 
 ```python
 lijst = [1,2,3,4,5,"hond","kat"]
+print(len(lijst))  #7
 for i in range(len(lijst)):     #i zal nu alle getallen aannemen van 0 t.e.m. 6
     element = lijst[i]
     elementdubbel = 2*element
