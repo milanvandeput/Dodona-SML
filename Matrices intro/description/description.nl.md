@@ -31,6 +31,19 @@ matrix = [[1,2,3] , [4,5,6]]
 for rij in matrix:
   print(rij)
 ```
+### Elementen
+Een element uit de i-de rij en de j-de kolom halen is eenvoudig, maar je moet 1 ding in het achterhoofd houden: **Python begint te tellen vanaf 0!**
+
+Een element uit de i-de rij en de j-de kolom bekom je dus met het commando *matrix[i-1][j-1]*
+
+Enkele voorbeeldjes:
+```python
+matrix = [[1,2,3] , [4,5,6]]
+print(matrix[0][0])    --> 1
+print(matrix[0][2])    --> 3
+print(matrix[1][1])    --> 5
+print(matrix[2][1])    --> error! Want deze matrix heeft maar 2 rijen.
+```
 
 ### Dimensies
 Om de dimensies van een matrix te achterhalen, kunnen we gebruikmaken van de functie *len()*. 
