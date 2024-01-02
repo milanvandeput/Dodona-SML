@@ -1,24 +1,23 @@
-### Print()
-
-De eerste functie die we zullen leren is de print() functie. Deze functie zal printen wat er tussen de haakjes staat. 
-
-Eerst leren we om 'strings' (=tekst) te printen. Dit doe je door de tekst tussen twee "" te zetten.
-
 ### Opdracht
-Kopieer onderstaande code en voer hem uit.
+De prijslijst van een restaurant wordt weergegeven in 2 lijsten. *Menu* bevat de verschillende gerechten en *Prijs* bevat de overeenkomstige prijzen ervan.
 
 ```python
-print("Hello world")
+Menu = ["Spaghetti", "Lasagne", "Hamburger", "Steak", "Slaatje", "Wokschotel", "Pita", "Dagsoep", "Taart", "Ijs"]
+Prijs = [13, 15, 16, 20, 11, 11, 9, 5, 4, 3]
 ```
+Schrijf een programma dat aan de gebruiker een gerecht vraagt om een korting op te geven. De overeenkomstige prijs wordt met 2 euro verlaagd.
+
+Het programma print daarna de gewijzigde prijslijst.
 
 ### Voorbeeld
 
 **Invoer:**
 
-    100
-    5.7
-    /
+    Spaghetti
 
 **Uitvoer:**
 
-    17.5
+    [11, 15, 16, 20, 11, 11, 9, 5, 4, 3]
+
+### Tip
+Maak zeker gebruik van de functie *index()*.
