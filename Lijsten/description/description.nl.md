@@ -18,6 +18,7 @@ De elementen moeten geen natuurlijke getallen zijn, ze mogen van eender welk dat
 lijst3 = ["naam",20,3.01,"hello world",10]
 ```
 
+### Elementen oproepen
 Elementen in een lijst kunnen worden opgeroepen via hun **index**.
 
 **Opgelet: in python beginnen we te tellen vanaf 0. Het eerste element is dus lijst[0]!** 
