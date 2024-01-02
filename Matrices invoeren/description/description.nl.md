@@ -1,24 +1,20 @@
-### Print()
+### Matrices invoeren
 
-De eerste functie die we zullen leren is de print() functie. Deze functie zal printen wat er tussen de haakjes staat. 
-
-Eerst leren we om 'strings' (=tekst) te printen. Dit doe je door de tekst tussen twee "" te zetten.
-
-### Opdracht
-Kopieer onderstaande code en voer hem uit.
+We zullen doorheen deze lessen de matrices telkens op dezelfde manier door de gebruiker laten invoeren.
 
 ```python
-print("Hello world")
+r = 3
+k = 4
+
+matrix = []
+
+for x in matrix:
+    print(x)
+
+for i in range(r):
+    rij = str(input("geef de volgende rij"))
+    lijstrij = []
+    for x in rij.split():
+        lijstrij.append(int(x))
+    matrix.append(lijstrij)
 ```
-
-### Voorbeeld
-
-**Invoer:**
-
-    100
-    5.7
-    /
-
-**Uitvoer:**
-
-    17.5
