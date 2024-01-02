@@ -30,4 +30,17 @@ print(lijst1[0])
 print(lijst1[1])
 print(lijst1[5])
 ```
+### Elementen aanpassen
+Als je een element uit een lijst haalt en aanpast, zal dit in de lijst **ongewijzigd blijven**. Om elementen in de lijst aan te passen, moet je het terug toevoegen aan de lijst met behulp van zijn index.
+
+```python
+lijst = ["naam",20,3.01,"hello world",10]
+element = lijst[0]
+element = "achternaam"
+print(lijst)   #de lijst zelf is ongewijzigd
+
+lijst[0] = element
+print(lijst)   #de lijst is nu wel gewijzigd
+```
+
 *Voor deze opdracht moet je niks indienen*
