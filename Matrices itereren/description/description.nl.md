@@ -15,8 +15,6 @@ for i in range(m):
         rij_als_lijst.append(int(x))
     matrix.append(rij_als_lijst)
 
-matrix = ... #zie code uit 'matrix invoeren'
-
 for i in range(m):
     for j in range(n):
         print(matrix[i][j])
