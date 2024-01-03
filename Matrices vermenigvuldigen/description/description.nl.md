@@ -21,8 +21,8 @@ resultaat = [ [0] * n for _ in range(m)] #hierbij is n het aantal kolommen en m 
     3 4
     2
     2
-    4 5
-    6 7
+    5 6
+    7 8
 
 **Uitvoer:**
 
