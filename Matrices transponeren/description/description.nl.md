@@ -1,6 +1,11 @@
 ### Opdracht
 Schrijf een programma dat een matrix laat invoeren door de gebruiker.
-Het programma gaat na of de matrix een nulmatrix is.
+Het programma transponeert de matrix en print het resultaat.
+
+**Belangrijk: je zal eerst een nulmatrix van de juiste dimensies moeten maken om het resultaat in op te slaan. Dit doe je met de volgende code:**
+```python
+getransponeerdematrix = [ [0] * n for _ in range(m)] #hierbij is n het aantal kolommen en m het aantal rijen
+```
 
 
 ### Voorbeeld
@@ -14,7 +19,8 @@ Het programma gaat na of de matrix een nulmatrix is.
 
 **Uitvoer:**
 
-    De matrix is geen nulmatrix.
+    [1, 3]
+    [2, 4]
 
 ### Voorbeeld
 
@@ -22,13 +28,15 @@ Het programma gaat na of de matrix een nulmatrix is.
 
     2
     3
-    0 0 0
-    0 0 0
+    0 1 2
+    0 4 3
 
 **Uitvoer:**
 
-    De matrix is wel een nulmatrix.
+    [0, 0]
+    [1, 4]
+    [2, 3]
 
 ### Tip
-Gebruik maken van een Booleaanse variabele *is_nulmatrix?* kan helpen bij deze opdracht.
+
 
