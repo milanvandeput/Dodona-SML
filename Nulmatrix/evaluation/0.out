@@ -1,7 +1,12 @@
-Hello world
+De matrix is geen nulmatrix.
+De matrix is geen nulmatrix.
+De matrix is wel een nulmatrix.
+De matrix is geen nulmatrix.
+De matrix is geen nulmatrix.
+De matrix is geen nulmatrix.
 
 ----------------------------------------
 python input without prompt: true
 block count: multi
-input block size: 1
+input block size: ends with
 output block size: 1
