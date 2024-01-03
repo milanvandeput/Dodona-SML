@@ -36,5 +36,5 @@ De matrix moet daarna ook rij per rij geprint worden.
 
 **Uitvoer:**
 
-    0 0
-    0 0
+    [0, 0]
+    [0, 0]
