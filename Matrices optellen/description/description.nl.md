@@ -6,6 +6,11 @@ Enkele aandachtspunten:
 - Ga eerst na of de matrices optelbaar zijn (dimensies!). Indien niet, print je: De matrices kunnen niet opgeteld worden.
 - Print het resultaat rij per rij.
 
+**Belangrijk: je zal eerst een nulmatrix van de juiste dimensies moeten maken om het resultaat in op te slaan. Dit doe je met de volgende code:**
+```python
+sommatrix = [ [0] * n for _ in range(m)] #hierbij is n het aantal kolommen en m het aantal rijen
+```
+
 
 ### Voorbeeld
 
