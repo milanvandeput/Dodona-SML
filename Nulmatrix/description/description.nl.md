@@ -1,24 +1,30 @@
-### Print()
-
-De eerste functie die we zullen leren is de print() functie. Deze functie zal printen wat er tussen de haakjes staat. 
-
-Eerst leren we om 'strings' (=tekst) te printen. Dit doe je door de tekst tussen twee "" te zetten.
-
 ### Opdracht
-Kopieer onderstaande code en voer hem uit.
+Schrijf een programma dat een matrix laat invoeren door de gebruiker.
+Het programma gaat na of de matrix een nulmatrix is.
 
-```python
-print("Hello world")
-```
 
 ### Voorbeeld
 
 **Invoer:**
 
-    100
-    5.7
-    /
+    2
+    2
+    1 2
+    3 4
 
 **Uitvoer:**
 
-    17.5
+    De matrix is geen nulmatrix.
+
+### Voorbeeld
+
+**Invoer:**
+
+    2
+    3
+    0 0 0
+    0 0 0
+
+**Uitvoer:**
+
+    De matrix is geen nulmatrix.
