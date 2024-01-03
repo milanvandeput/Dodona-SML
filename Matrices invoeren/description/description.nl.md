@@ -35,4 +35,5 @@ for i in range(m):
     #De variabele *matrix* is nu: [[1,2,3,4],[5,6,7,8],[1 0 0 3]]
 
 **Test de code zelf eens uit door een matrix naar keuze in te geven. Alle volgende opdrachten zullen vanuit deze code moeten starten.**
+**Laat je ingevoerde matrices ook eens printen.**
 
