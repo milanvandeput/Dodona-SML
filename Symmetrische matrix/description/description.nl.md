@@ -1,6 +1,6 @@
 ### Opdracht
 Schrijf een programma dat een matrix laat invoeren door de gebruiker.
-Het programma gaat na of de matrix een nulmatrix is.
+Het programma gaat na of de matrix een symmetrische matrix is.
 
 
 ### Voorbeeld
@@ -14,21 +14,21 @@ Het programma gaat na of de matrix een nulmatrix is.
 
 **Uitvoer:**
 
-    De matrix is geen nulmatrix.
+    De matrix is geen symmetrische matrix.
 
 ### Voorbeeld
 
 **Invoer:**
 
     2
-    3
-    0 0 0
-    0 0 0
+    2
+    1 2 
+    2 3 
 
 **Uitvoer:**
 
-    De matrix is wel een nulmatrix.
+    De matrix is een symmetrische matrix.
 
 ### Tip
-Gebruik maken van een Booleaanse variabele *is_nulmatrix?* kan helpen bij deze opdracht.
-
+Gebruik maken van een Booleaanse variabele *is_symmatrix?* kan helpen bij deze opdracht.
+Denk eraan dat een symmetrische matrix in de eerste plaats een vierkante matrix moet zijn.
