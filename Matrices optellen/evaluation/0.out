@@ -18,4 +18,4 @@ De matrices kunnen niet opgeteld worden.
 python input without prompt: true
 block count: multi
 input block size: ends with
-output block size: multi
+output block size: ends with
