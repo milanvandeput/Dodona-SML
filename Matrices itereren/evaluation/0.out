@@ -23,7 +23,7 @@
 
 
 ----------------------------------------
-python input without prompt: true
-block count: 6
+python input without prompt: false
+block count: one
 input block size: multi
 output block size: multi
