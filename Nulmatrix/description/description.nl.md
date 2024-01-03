@@ -27,4 +27,7 @@ Het programma gaat na of de matrix een nulmatrix is.
 
 **Uitvoer:**
 
-    De matrix is geen nulmatrix.
+De matrix is geen nulmatrix.
+
+### Tip
+Gebruik maken van een Booleaanse variabele *is_nulmatrix?* kan helpen bij deze opdracht.
