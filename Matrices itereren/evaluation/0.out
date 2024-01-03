@@ -19,6 +19,6 @@
 
 ----------------------------------------
 python input without prompt: true
-block count: multi
+block count: 6
 input block size: multi
 output block size: multi
