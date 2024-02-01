@@ -15,7 +15,7 @@ matrix = [[1,2,3] , [4,5,6]]
 Een rijmatrix of kolommatrix zien er dan als volgt uit:
 ```python
 rijmatrix = [[1,2,3]] #de buitenste lijst bevat slechts 1 element (=rij), dit element is opnieuw een lijst.
-kolommatrix = [1,2,3]   
+kolommatrix = [[1],[2],[3]]   
 ```
 
 ### Matrices printen
