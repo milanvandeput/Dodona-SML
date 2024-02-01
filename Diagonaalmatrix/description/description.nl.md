@@ -27,7 +27,7 @@ Het programma gaat na of de matrix een diagonaalmatrix is.
 
 **Uitvoer:**
 
-    De matrix is wel een diagonaalmatrix.
+    De matrix is een diagonaalmatrix.
 
 ### Tip
 Gebruik maken van een Booleaanse variabele *is_diagonaalmatrix?* kan helpen bij deze opdracht.
