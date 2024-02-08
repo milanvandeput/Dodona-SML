@@ -1,6 +1,6 @@
 ### Opdracht
-Schrijf een programma dat een matrix laat invoeren door de gebruiker.
-Het programma gaat na of de matrix een nulmatrix is.
+Schrijf een programma dat een matrix rijherleid. Print de uitkomst rij per rij
+(... wordt nog aangevuld)
 
 
 ### Voorbeeld
@@ -14,21 +14,7 @@ Het programma gaat na of de matrix een nulmatrix is.
 
 **Uitvoer:**
 
-    De matrix is geen nulmatrix.
+    1 0
+    0 1
 
-### Voorbeeld
-
-**Invoer:**
-
-    2
-    3
-    0 0 0
-    0 0 0
-
-**Uitvoer:**
-
-    De matrix is wel een nulmatrix.
-
-### Tip
-Gebruik maken van een Booleaanse variabele *is_nulmatrix?* kan helpen bij deze opdracht.
 
