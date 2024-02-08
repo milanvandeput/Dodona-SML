@@ -1,9 +1,29 @@
-De matrix is geen nulmatrix.
-De matrix is geen nulmatrix.
-De matrix is wel een nulmatrix.
-De matrix is geen nulmatrix.
-De matrix is geen nulmatrix.
-De matrix is geen nulmatrix.
+1 0
+0 1
+
+1 0 0
+0 1 0
+0 0 1
+
+1 0 0
+0 1 0
+0 0 1
+
+1 0 4
+0 1 0
+0 0 0
+
+1 0 4
+0 1 0
+0 0 0
+
+1 2 0 0
+0 0 1 0
+0 0 0 1
+
+1 2 0 0
+0 0 1 0
+0 0 0 1
 
 ----------------------------------------
 python input without prompt: true
