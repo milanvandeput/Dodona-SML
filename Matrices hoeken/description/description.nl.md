@@ -1,6 +1,5 @@
 ### Opdracht
-Schrijf een programma dat een matrix laat invoeren door de gebruiker.
-Het programma gaat na of de matrix een nulmatrix is.
+Laat hoeken vrplaatsen...
 
 
 ### Voorbeeld
