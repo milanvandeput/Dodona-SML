@@ -4,7 +4,7 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Matrices 3x3 determinant met minoren"
+      "nl": "Matrices 3x3 minoren "
     }
   },
   "evaluation": {
