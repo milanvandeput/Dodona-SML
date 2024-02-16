@@ -5,7 +5,7 @@ Een mogelijke aanpak voor deze code:
 
 1. Laat een matrix rij per rij invoeren door de gebruiker.
 2. Kies een rij en genereer de 3 minoren uit deze rij met de functie *minor3x3()*.
-3. Vermenigvuldig de minoren met de overeenkomstige cofactoren.
+3. Bereken de determinanten van deze minoren en vermenigvuldig ze met de overeenkomstige cofactoren.
 4. Tel ze op of trek ze af van elkaar (je kan eventueel een algemene functie schrijven die het teken bepaalt).
 
 
