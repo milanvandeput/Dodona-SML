@@ -1,6 +1,9 @@
 ### Opdracht
-Schrijf een programma dat een matrix laat invoeren door de gebruiker.
-Het programma gaat na of de matrix een nulmatrix is.
+Schrijf een programma dat de determinant van een matrix berekent.
+
+Recursie
+
+Functies..
 
 
 ### Voorbeeld
@@ -29,6 +32,5 @@ Het programma gaat na of de matrix een nulmatrix is.
 
     De matrix is wel een nulmatrix.
 
-### Tip
-Gebruik maken van een Booleaanse variabele *is_nulmatrix?* kan helpen bij deze opdracht.
+
 
