@@ -12,7 +12,7 @@ Je code zelf moet geen output genereren, enkel de functie definiëren is voldoen
 ### Voorbeeld
 
 ## Invoer
-minor3x3([[1,2,3],[4,5,6],[7,8,9]],0,0)
+>>> minor3x3([[1,2,3],[4,5,6],[7,8,9]],0,0)
 
 ## Uitvoer
 [[5,6],[8,9]]
