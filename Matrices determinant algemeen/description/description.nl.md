@@ -5,7 +5,7 @@ Enkele opmerkingen bij deze (uitdagende) opgave:
 - Maak gebruik van de methode met minoren en cofactoren.
 - Maak gebruik van een recursieve functie die telkens de determeninant van de minor oproept. De recursie stopt wanneer hij een 2x2 minor tegenkomt, schrijf hier een aparte functie voor.
 - Pas je functie *minor3x3()* aan zodat hij de minor uit een matrix van eender welke dimensies kan halen.
-- Denk na over het teken van je minor, dit wordt bepaald door de indexen **uit de oorspronkelijke** matrix. Je zal deze op een of andere manier moeten meegeven doorheen je recursie (als extra argument, in een dictionary, ...?).
+- Denk na over het teken van je minor, hoe laat je het programme bepalen of dit + of - moet zijn?
 
 Succes!
 
