@@ -18,18 +18,18 @@ while doorgaan?=="Ja":
 
   doorgaan = input("Wil je nog verderspelen? Ja/Nee")
 ```
-###Opbouw van de code
+### Opbouw van de code
 Wat moet je allemaal in een beurt doen?
 
-1. Vraag de rijindex waar de speler een O wil toevoegen.
-2. Vraag de rijindex waar de speler een O wil toevoegen.
-3. Voeg de "O" toe in het veld.
-4. Print het veld rij per rij.
-5. Vraag de rijindex waar de speler een X wil toevoegen.
-6. Vraag de rijindex waar de speler een X wil toevoegen.
-7. Voeg de "X" toe in het veld.
-8. Print het veld rij per rij.
-9. Vraag of de speler verder wil spelen.
+  1. Vraag de rijindex waar de speler een O wil toevoegen.
+  2. Vraag de rijindex waar de speler een O wil toevoegen.
+  3. Voeg de "O" toe in het veld.
+  4. Print het veld rij per rij.
+  5. Vraag de rijindex waar de speler een X wil toevoegen.
+  6. Vraag de rijindex waar de speler een X wil toevoegen.
+  7. Voeg de "X" toe in het veld.
+  8. Print het veld rij per rij.
+  9. Vraag of de speler verder wil spelen.
 
 ### Voorbeeld van een spelletje
 
