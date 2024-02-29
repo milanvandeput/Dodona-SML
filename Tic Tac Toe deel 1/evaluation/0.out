@@ -2,8 +2,6 @@ Welkom bij Tic Tac Toe!
 ['O', ' ', ' ']
 ['X', ' ', 'O']
 ['X', ' ', ' ']
-
-
 ----------------------------------------
 python input without prompt: true
 block count: multi
