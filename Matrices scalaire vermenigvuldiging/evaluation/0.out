@@ -1,13 +1,28 @@
-De matrix is geen nulmatrix.
-De matrix is geen nulmatrix.
-De matrix is wel een nulmatrix.
-De matrix is geen nulmatrix.
-De matrix is geen nulmatrix.
-De matrix is geen nulmatrix.
+2 4
+6 8
 
+3 0 0
+0 3 0
+0 0 3
+
+0 0
+0 0
+0 0
+
+5 20 25
+20 10 30
+30 36 15
+
+60
+120
+180
+
+0 0 0
+0 0 0
+0 0 0
 
 ----------------------------------------
 python input without prompt: true
 block count: multi
 input block size: ends with
-output block size: 1
+output block size: ends with 
