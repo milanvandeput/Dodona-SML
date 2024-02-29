@@ -1,34 +1,80 @@
 ### Opdracht
-Schrijf een programma dat een matrix laat invoeren door de gebruiker.
-Het programma gaat na of de matrix een nulmatrix is.
+Breid je vorige programma uit zodat na het spelen ook de winnaar wordt bepaald. 
+
+### Voorbeeld van een spelletje
+
+Welkom bij Tic Tac Toe!
 
 
-### Voorbeeld
+Wil je nog verderspelen? Ja/Nee
 
-**Invoer:**
+>>> Ja
 
-    2
-    2
-    1 2
-    3 4
+In welke rij wil de speler een O toevoegen?
 
-**Uitvoer:**
+>>> 1
 
-    De matrix is geen nulmatrix.
+In welke kolom wil de speler een O toevoegen?
 
-### Voorbeeld
+>>> 1
 
-**Invoer:**
+['O', ' ', ' ']
 
-    2
-    3
-    0 0 0
-    0 0 0
+[' ', ' ', ' ']
 
-**Uitvoer:**
+[' ', ' ', ' ']
 
-    De matrix is wel een nulmatrix.
+In welke rij wil de speler een X toevoegen?
 
-### Tip
-Gebruik maken van een Booleaanse variabele *is_nulmatrix?* kan helpen bij deze opdracht.
+>>> 2
+
+In welke kolom wil de speler een X toevoegen?
+
+>>> 1
+
+['O', ' ', ' ']
+
+['X ', ' ', ' ']
+
+[' ', ' ', ' ']
+
+
+Wil je nog verderspelen? Ja/Nee
+
+>>> Ja
+
+In welke rij wil de speler een O toevoegen?
+
+>>> 2
+
+In welke kolom wil de speler een O toevoegen?
+
+>>> 3
+
+['O', ' ', ' ']
+
+['X', ' ', 'O']
+
+[' ', ' ', ' ']
+
+In welke rij wil de speler een X toevoegen?
+
+>>> 3
+
+In welke kolom wil de speler een X toevoegen?
+
+>>> 1
+
+['O', ' ', ' ']
+
+['X ', ' ', 'O']
+
+['X', ' ', ' ']
+
+
+Wil je nog verderspelen? Ja/Nee
+>>> Nee
+
+Niemand is gewonnen.
+
 
