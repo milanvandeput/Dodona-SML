@@ -1,6 +1,6 @@
 ### Opdracht
-Schrijf een programma dat een matrix laat invoeren door de gebruiker.
-Het programma gaat na of de matrix een nulmatrix is.
+Schrijf een programma dat een matrix en een getal laat invoeren door de gebruiker.
+Het programma vermenigvuldigt de matrix met het getal. Het programma print daarna de matrix rij per rij.
 
 
 ### Voorbeeld
@@ -11,10 +11,12 @@ Het programma gaat na of de matrix een nulmatrix is.
     2
     1 2
     3 4
+    3
 
 **Uitvoer:**
 
-    De matrix is geen nulmatrix.
+    3 6
+    9 12
 
 ### Voorbeeld
 
@@ -22,13 +24,12 @@ Het programma gaat na of de matrix een nulmatrix is.
 
     2
     3
-    0 0 0
-    0 0 0
+    1 0 1
+    0 1 0
+    10
 
 **Uitvoer:**
 
-    De matrix is wel een nulmatrix.
-
-### Tip
-Gebruik maken van een Booleaanse variabele *is_nulmatrix?* kan helpen bij deze opdracht.
+    10 0 10
+    0  10 0
 
