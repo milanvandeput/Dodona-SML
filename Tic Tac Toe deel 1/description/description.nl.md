@@ -1,7 +1,7 @@
 ### Opdracht
 Schrijf een programma om het spelletje Tic Tac Toe mee te spelen. 
 
-Je speel Tic Tac Toe in een 3x3 veld. In het begin is dit veld nog leeg:
+Je speelt Tic Tac Toe in een 3x3 veld. In het begin is dit veld nog leeg:
 ```python
 veld = [[' ', ' ', ' '],[' ', ' ', ' '],[' ', ' ', ' ']]
 ```
@@ -18,6 +18,18 @@ while doorgaan?=="Ja":
 
   doorgaan = input("Wil je nog verderspelen? Ja/Nee")
 ```
+###Opbouw van de code
+Wat moet je allemaal in een beurt doen?
+
+1. Vraag de rijindex waar de speler een O wil toevoegen.
+2. Vraag de rijindex waar de speler een O wil toevoegen.
+3. Voeg de "O" toe in het veld.
+4. Print het veld rij per rij.
+5. Vraag de rijindex waar de speler een X wil toevoegen.
+6. Vraag de rijindex waar de speler een X wil toevoegen.
+7. Voeg de "X" toe in het veld.
+8. Print het veld rij per rij.
+9. Vraag of de speler verder wil spelen.
 
 ### Voorbeeld van een spelletje
 
@@ -94,6 +106,6 @@ Wil je nog verderspelen? Ja/Nee
 >>> Nee
 
 
-### Tip
-Gebruik maken van een Booleaanse variabele *is_nulmatrix?* kan helpen bij deze opdracht.
+### Belangrijk
+Denk eraan dat in Python de indexen vanaf 0 worden geteld maar dat 'de speler' vanaf 1 zal tellen in zijn antwoorden.
 
