@@ -6,30 +6,46 @@ veld = [[' ', ' ', ' '],[' ', ' ', ' '],[' ', ' ', ' ']]
 ```
 
 
-### Voorbeeld
+### Voorbeeld van een spelletje
 
-**Invoer:**
+Welkom bij Tic Tac Toe!
 
-    2
-    2
-    1 2
-    3 4
+Wil je nog verderspelen? Ja/Nee
+>>> Ja
+In welke rij wil de speler een O toevoegen?
+>>> 1
+In welke kolom wil de speler een O toevoegen?
+>>> 1
+['O', ' ', ' ']
+[' ', ' ', ' ']
+[' ', ' ', ' ']
+In welke rij wil de speler een X toevoegen?
+>>> 2
+In welke kolom wil de speler een X toevoegen?
+>>> 1
+['O', ' ', ' ']
+['X ', ' ', ' ']
+[' ', ' ', ' ']
 
-**Uitvoer:**
+Wil je nog verderspelen? Ja/Nee
+>>> Ja
+In welke rij wil de speler een O toevoegen?
+>>> 2
+In welke kolom wil de speler een O toevoegen?
+>>> 3
+['O', ' ', ' ']
+['X', ' ', 'O']
+[' ', ' ', ' ']
+In welke rij wil de speler een X toevoegen?
+>>> 3
+In welke kolom wil de speler een X toevoegen?
+>>> 1
+['O', ' ', ' ']
+['X ', ' ', 'O']
+['X', ' ', ' ']
 
-    Welkom bij Tic Tac Toe!
-    ['O', ' ', ' ']
-    [' ', ' ', ' ']
-    [' ', ' ', ' ']
-    ['O', ' ', ' ']
-    ['X', ' ', ' ']
-    [' ', ' ', ' ']
-    ['O', ' ', ' ']
-    ['X', ' ', 'O']
-    [' ', ' ', ' ']
-    ['O', ' ', ' ']
-    ['X', ' ', 'O']
-    ['X', ' ', ' ']
+Wil je nog verderspelen? Ja/Nee
+>>> Nee
 
 
 ### Tip
