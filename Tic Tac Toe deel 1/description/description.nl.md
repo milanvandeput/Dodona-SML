@@ -1,10 +1,23 @@
 ### Opdracht
 Schrijf een programma om het spelletje Tic Tac Toe mee te spelen. 
 
+Je speel Tic Tac Toe in een 3x3 veld. In het begin is dit veld nog leeg:
 ```python
 veld = [[' ', ' ', ' '],[' ', ' ', ' '],[' ', ' ', ' ']]
 ```
+Het spelletje zal een aantal beurten duren, de speler kan telkens kiezen of hij nog wil verderspelen. Om dit te doen, geef je je code de volgende structuur:
+```python
+veld = [[' ', ' ', ' '],[' ', ' ', ' '],[' ', ' ', ' ']]
+print("Welkom bij Tic Tac Toe!")
+doorgaan? = input("Wil je nog verderspelen? Ja/Nee")
 
+while doorgaan?=="Ja":
+  #Hier komt je code
+  #
+  #
+
+  doorgaan = input("Wil je nog verderspelen? Ja/Nee")
+```
 
 ### Voorbeeld van een spelletje
 
