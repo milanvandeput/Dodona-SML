@@ -1,6 +1,9 @@
 ### Opdracht
-Schrijf een programma dat een matrix laat invoeren door de gebruiker.
-Het programma gaat na of de matrix een nulmatrix is.
+Schrifj tic tac toe
+
+hier is leeg veld
+
+hier is frame code
 
 
 ### Voorbeeld
