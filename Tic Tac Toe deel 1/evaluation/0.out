@@ -1,13 +1,10 @@
-De matrix is geen nulmatrix.
-De matrix is geen nulmatrix.
-De matrix is wel een nulmatrix.
-De matrix is geen nulmatrix.
-De matrix is geen nulmatrix.
-De matrix is geen nulmatrix.
+['O', ' ', ' ']
+['X', ' ', 'O']
+['X', ' ', ' ']
 
 
 ----------------------------------------
 python input without prompt: true
 block count: multi
 input block size: ends with
-output block size: 1
+output block size: ends with
