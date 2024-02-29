@@ -1,13 +1,19 @@
-De matrix is geen nulmatrix.
-De matrix is geen nulmatrix.
-De matrix is wel een nulmatrix.
-De matrix is geen nulmatrix.
-De matrix is geen nulmatrix.
-De matrix is geen nulmatrix.
-
-
+Welkom bij Tic Tac Toe!
+['O', ' ', ' ']
+[' ', ' ', ' ']
+[' ', ' ', ' ']
+['O', ' ', ' ']
+['X', ' ', ' ']
+[' ', ' ', ' ']
+['O', ' ', ' ']
+['X', ' ', 'O']
+[' ', ' ', ' ']
+['O', ' ', ' ']
+['X', ' ', 'O']
+['X', ' ', ' ']
+Niemand is gewonnen.
 ----------------------------------------
 python input without prompt: true
 block count: multi
 input block size: ends with
-output block size: 1
+output block size: ends with
