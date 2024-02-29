@@ -1,9 +1,9 @@
 ### Opdracht
-Schrifj tic tac toe
+Schrijf een programma om het spelletje Tic Tac Toe mee te spelen. 
 
-hier is leeg veld
-
-hier is frame code
+```python
+veld = [[' ', ' ', ' '],[' ', ' ', ' '],[' ', ' ', ' ']]
+```
 
 
 ### Voorbeeld
@@ -17,20 +17,20 @@ hier is frame code
 
 **Uitvoer:**
 
-    De matrix is geen nulmatrix.
+    Welkom bij Tic Tac Toe!
+    ['O', ' ', ' ']
+    [' ', ' ', ' ']
+    [' ', ' ', ' ']
+    ['O', ' ', ' ']
+    ['X', ' ', ' ']
+    [' ', ' ', ' ']
+    ['O', ' ', ' ']
+    ['X', ' ', 'O']
+    [' ', ' ', ' ']
+    ['O', ' ', ' ']
+    ['X', ' ', 'O']
+    ['X', ' ', ' ']
 
-### Voorbeeld
-
-**Invoer:**
-
-    2
-    3
-    0 0 0
-    0 0 0
-
-**Uitvoer:**
-
-    De matrix is wel een nulmatrix.
 
 ### Tip
 Gebruik maken van een Booleaanse variabele *is_nulmatrix?* kan helpen bij deze opdracht.
