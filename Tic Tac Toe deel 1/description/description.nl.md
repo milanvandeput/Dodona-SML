@@ -10,8 +10,11 @@ veld = [[' ', ' ', ' '],[' ', ' ', ' '],[' ', ' ', ' ']]
 
 Welkom bij Tic Tac Toe!
 
+
 Wil je nog verderspelen? Ja/Nee
+
 >>> Ja
+
 In welke rij wil de speler een O toevoegen?
 >>> 1
 In welke kolom wil de speler een O toevoegen?
