@@ -14,7 +14,7 @@ Het programma gaat na of de matrix inverteerbaar is en print deze boodschap.
 
 **Uitvoer:**
 
-    De matrix is niet inverteerbaar.
+    De matrix is wel inverteerbaar.
 
 ### Voorbeeld
 
@@ -27,7 +27,7 @@ Het programma gaat na of de matrix inverteerbaar is en print deze boodschap.
 
 **Uitvoer:**
 
-    De matrix is wel inverteerbaar.
+    De matrix is niet inverteerbaar.
 
 ### Tip
 Bereken de determinant van de matrix!
