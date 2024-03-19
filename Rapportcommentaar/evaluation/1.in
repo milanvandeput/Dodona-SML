@@ -1,1 +1,14 @@
-ee
+>>> rapportcommentaar(3,8)
+"Je resultaten zijn ondermaats, jouw attitude in de les is goed."
+
+>>> rapportcommentaar(6,5)
+"Je resultaten zijn voldoende, jouw attitude in de les is voldoende."
+
+>>> rapportcommentaar(9,7)
+"Je resultaten zijn zeer goed, jouw attitude in de les is goed."
+
+>>> rapportcommentaar(10,2)
+"Je resultaten zijn uitstekend, jouw attitude in de les is ondermaats."
+
+>>> rapportcommentaar(8,5)
+"Je resultaten zijn goed, jouw attitude in de les is voldoende."
