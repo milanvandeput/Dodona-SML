@@ -1,2 +1,14 @@
->>> woorden_vergroten("abc")
-"ABC"
+>>> oordeel(0)
+"ondermaats"
+
+>>> oordeel(5)
+"voldoende"
+
+>>> oordeel(8)
+"goed"
+
+>>> oordeel(9)
+"zeer goed"
+
+>>> oordeel(10)
+"uitstekend"
