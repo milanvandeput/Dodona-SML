@@ -1,5 +1,2 @@
 >>> rapport([["Frans",8,3],["Wiskunde",4,10],["Nederlands",5,7],["LO",6,9]])
-Frans: Je resultaten zijn goed, jouw attitude in de les is ondermaats.
-Wiskunde: Je resultaten zijn ondermaats, jouw attitude in de les is uitstekend.
-Nederlands: Je resultaten zijn voldoende, jouw attitude in de les is goed.
-LO: Je resultaten zijn voldoende, jouw attitude in de les is zeer goed.
+Frans: Je resultaten zijn goed, jouw attitude in de les is ondermaats. Wiskunde: Je resultaten zijn ondermaats, jouw attitude in de les is uitstekend. Nederlands: Je resultaten zijn voldoende, jouw attitude in de les is goed. LO: Je resultaten zijn voldoende, jouw attitude in de les is zeer goed.
