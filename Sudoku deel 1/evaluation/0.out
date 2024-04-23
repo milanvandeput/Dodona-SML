@@ -7,9 +7,8 @@
 7 8 9 1 2 3 4 5 6 
 8 9 1 2 3 4 5 6 7
 9 1 2 3 4 5 6 7 8
-
 --------------------------------------------------
 python input without prompt: true
 block count: multi
-input block size: 1
+input block size: ends with
 output block size: ends with
