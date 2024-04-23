@@ -4,12 +4,11 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Hello world",
-      "en": "Hello world"
+      "nl": "Sudoku deel 1"
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "pythia_judge": "doctest"
   },
   "contact": "Milan Vandeput <milan.vandeput@sml.be>",
   "internals": {
