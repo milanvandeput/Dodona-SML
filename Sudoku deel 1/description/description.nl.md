@@ -1,6 +1,5 @@
-### Opdracht
-Schrijf een programma dat een matrix laat invoeren door de gebruiker.
-Het programma gaat na of de matrix een nulmatrix is.
+### Sudoku
+We gaan in de komende lessen een programma leren schrijven om een sudoku op te lossen.  
 
 
 ### Voorbeeld
