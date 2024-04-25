@@ -1,8 +1,11 @@
-### Sudoku
-We gaan in de komende lessen een programma leren schrijven om een sudoku op te lossen. Dit is een complexe opgave dus we doen dit stap voor stap.
+### Sudoku rijcontrole
+We starten met de eerste stap in het automatisch laten oplossen van een sudoku. We leren onze computer eerst om in een rij te controleren of een getal daar al in staat of niet. De code om dit te doen zetten we in een functie **rijcontrole(s,g,i,j)**. Deze functie heeft een aantal parameters:
 
-Een sudoku zal in python voorgesteld worden in een 9x9 lijst. Lege vakjes worden voorgesteld met een **.** . 
-In de eerste lessen zullen we de oefeningen telkens uitvoeren op een heel eenvoudige sudoku: *sudoku0*:
+*e
+*e
+*e
+*e
+
 ```python
 sudoku0 = [[1,2,3,4,5,6,7,".",9],[2,".",4,5,6,7,8,9,1],[3,4,5,6,7,8,9,".",2],[4,5,".",7,8,9,1,2,3],[5,6,7,8,9,1,2,3,4],[6,7,8,9,1,2,3,4,5],[7,8,9,1,2,3,4,5,6],[8,9,1,2,3,4,5,6,7],[9,1,2,3,4,5,6,7,8]]
 ```
