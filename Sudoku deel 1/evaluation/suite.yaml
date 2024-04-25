@@ -1,5 +1,7 @@
 - tab: "Testen"
   testcases:
-  -  stdout:  "Hallo"
+  -  stdout: |- 
+        hallo
+        ja
 
   
