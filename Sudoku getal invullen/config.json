@@ -4,7 +4,7 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Sudoku printen"
+      "nl": "Sudoku getal invullen"
     }
   },
   "evaluation": {
