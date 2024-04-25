@@ -23,8 +23,8 @@ def kolomcontrole(s,g,m,n):
 ### Voorbeeld
 **Invoer:**
 
-    rijcontrole(sudoku0,1,1,1)
+    kolomcontrole(sudoku0,1,1,1)
     
 **Uitvoer:**
 
-    True
+    False
