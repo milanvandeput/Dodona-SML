@@ -4,7 +4,7 @@ We gaan in de komende lessen een programma leren schrijven om een sudoku op te l
 
 ### Opdracht: een sudoku printen
 
-´´´ python
+```python
 sud = [[1,2,3,4,5,6,7,8,9],[2,3,4,5,6,7,8,9,1],[3,4,5,6,7,8,9,1,2],[4,5,6,7,8,9,1,2,3],[5,6,7,8,9,1,2,3,4],[6,7,8,9,1,2,3,4,5],[7,8,9,1,2,3,4,5,6],[8,9,1,2,3,4,5,6,7],[9,1,2,3,4,5,6,7,8]]
 def printsudoku(s):
     for i in range(9):
@@ -13,5 +13,5 @@ def printsudoku(s):
             rij = rij+" "+str(s[i][j])
         print(rij)
 printsudoku(sud)
-´´´
+```
 
