@@ -1,6 +1,6 @@
 - tab: "rijcontrole"
   testcases:
-    - expression: "rijcontrole([2,3],2,0,3)"
+    - expression: "rijcontrole([2,'.'],2,0,3)"
       return: True
     - expression: "rijcontrole(7,3,0,2)"
       return: False
