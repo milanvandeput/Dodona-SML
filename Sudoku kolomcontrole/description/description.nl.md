@@ -15,6 +15,7 @@ def kolomcontrole(s,g,m,n):
 **Invoer:**
 
     kolomcontrole(sudoku0,3,1,1)
+    
 **Uitvoer:**
 
     True
@@ -23,6 +24,7 @@ def kolomcontrole(s,g,m,n):
 **Invoer:**
 
     rijcontrole(sudoku0,1,1,1)
+    
 **Uitvoer:**
 
     True
