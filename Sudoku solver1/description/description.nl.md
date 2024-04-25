@@ -24,11 +24,17 @@ De functie *sudokuvoler1(s)* is onze eerste versie van een volwaardige automatis
 
 Een mogelijke opbouw van je code:
 
-- *s* is de sudoku
-- *g* is het getal dat we willen laten controleren
-- *m* is de rijindex
-- *n* is de kolomindex
+- Zoek doorheen de sudoku naar een lege plaats '.' .
+- Zoek het getal dat op deze plaats mag ingevuld worden.
+- Vul het getal in.
+- Doorloop zo heel de sudoku.
 
+```python
+sudoku0 = [[1,2,3,4,5,6,7,".",9],[2,".",4,5,6,7,8,9,1],[3,4,5,6,7,8,9,".",2],[4,5,".",7,8,9,1,2,3],[5,6,7,8,9,1,2,3,4],[6,7,8,9,1,2,3,4,5],[7,8,9,1,2,3,4,5,6],[8,9,1,2,3,4,5,6,7],[9,1,2,3,4,5,6,7,8]]
+
+def sudokusolver1(s):
+    ...
+```
 
 ### Voorbeeld
 **Invoer:**
@@ -40,8 +46,3 @@ Een mogelijke opbouw van je code:
     [[1,2,3,4,5,6,7,**8**,9],[2,'.',4,5,6,7,8,9,1],[3,4,5,6,7,8,9,**1**,2],[4,5,**6**,7,8,9,1,2,3],[5,6,7,8,9,1,2,3,4],[6,7,8,9,1,2,3,4,5],[7,8,9,1,2,3,4,5,6],[8,9,1,2,3,4,5,6,7],[9,1,2,3,4,5,6,7,8]]
 
 
-
-    rijcontrole(sudoku0,8,0,7)
-**Uitvoer:**
-
-    True
