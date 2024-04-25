@@ -1,2 +1,2 @@
-Sudoku deel 1
-printen()
+Sudoku deel 2
+getal invullen ()
