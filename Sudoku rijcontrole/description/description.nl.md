@@ -25,6 +25,7 @@ def rijcontrole(s,g,m,n):
 **Invoer:**
 
     rijcontrole(sudoku0,7,0,7)
+    
 **Uitvoer:**
 
     False
@@ -33,6 +34,7 @@ def rijcontrole(s,g,m,n):
 **Invoer:**
 
     rijcontrole(sudoku0,8,0,7)
+    
 **Uitvoer:**
 
     True
