@@ -1,36 +1,45 @@
-### Sudoku solver 1
-We starten met de eerste stap in het automatisch laten oplossen van een sudoku. We leren onze computer eerst om in een rij te controleren of een getal daar al in staat of niet. De code om dit te doen zetten we in een functie **rijcontrole(s,g,m,n)**. 
+### Naar een eerste automatische solver...
+Nu gaan we echt beginnen met een programma te schrijven dat de sudoku voor ons kan oplossen. We doen dit in twee stappen en schrijven de functies *getalzoeken(s,m,n)* en *sudokusolver1(s)*.
 
-Deze functie heeft een aantal parameters:
+### Opdraht: getalzoeken(s,m,n)
+Wat deze eerste functie doet is eenvoudig: het zoekt voor een gegeven plaats *(m,n)* in de sudoku *s* welk getal daar ingevuld mag worden. De functie returned dit getal. Onder een correct getal verstaan we een getal dat aan de rijcontrole en kolomcontrole voldoet. Je zal dus de functie *rijcontrole* en *kolomcontrole* hier moeten hergebruiken.
+
+```python
+sudoku0 = [[1,2,3,4,5,6,7,".",9],[2,".",4,5,6,7,8,9,1],[3,4,5,6,7,8,9,".",2],[4,5,".",7,8,9,1,2,3],[5,6,7,8,9,1,2,3,4],[6,7,8,9,1,2,3,4,5],[7,8,9,1,2,3,4,5,6],[8,9,1,2,3,4,5,6,7],[9,1,2,3,4,5,6,7,8]]
+
+def getalzoeken(s,m,n):
+    ...
+```
+### Voorbeeld
+**Invoer:**
+
+    getalzoeken(sudoku0,0,7)
+    
+**Uitvoer:**
+
+    8
+
+### Opdracht: sudokusolver1(s)
+De functie *sudokuvoler1(s)* is onze eerste versie van een volwaardige automatische sudoku-oplosser. De functie krijgt een sudoku *s* als input en zal de lege vakjes *'.'* invullen. Uiteraard zal hij hiervoor de functie *getalzoeken(s,m,n)* nodig hebben.
+
+Een mogelijke opbouw van je code:
 
 - *s* is de sudoku
 - *g* is het getal dat we willen laten controleren
 - *m* is de rijindex
 - *n* is de kolomindex
 
-De functie returned de Booleaanse waarde *True* of *False*
-
-
-### Opdracht: 
-Schrijf de functie *rijcontrole(s,g,m,n)*.
-```python
-sudoku0 = [[1,2,3,4,5,6,7,".",9],[2,".",4,5,6,7,8,9,1],[3,4,5,6,7,8,9,".",2],[4,5,".",7,8,9,1,2,3],[5,6,7,8,9,1,2,3,4],[6,7,8,9,1,2,3,4,5],[7,8,9,1,2,3,4,5,6],[8,9,1,2,3,4,5,6,7],[9,1,2,3,4,5,6,7,8]]
-
-def rijcontrole(s,g,m,n):
-    ...
-```
-
 
 ### Voorbeeld
 **Invoer:**
 
-    rijcontrole(sudoku0,7,0,7)
+    sudokusolver1(sudoku0)
+    
 **Uitvoer:**
 
-    False
+    [[1,2,3,4,5,6,7,**8**,9],[2,'.',4,5,6,7,8,9,1],[3,4,5,6,7,8,9,**1**,2],[4,5,**6**,7,8,9,1,2,3],[5,6,7,8,9,1,2,3,4],[6,7,8,9,1,2,3,4,5],[7,8,9,1,2,3,4,5,6],[8,9,1,2,3,4,5,6,7],[9,1,2,3,4,5,6,7,8]]
 
-### Voorbeeld
-**Invoer:**
+
 
     rijcontrole(sudoku0,8,0,7)
 **Uitvoer:**
