@@ -12,11 +12,11 @@ Deze voorstelling van een sudoku is natuurlijk niet zo handig om te lezen. We wi
 Vul de volgende code aan om de sudoku rij per rij te laten printen
 ```python
 def printsudoku(s):          #s is een 9x9 lijst
-    for i in range($vul aan$):
+    for i in range("VUL AAN"):
         rij = ""
-        for j in range($vul aan$):
-            rij = rij+$vul aan$
-        print(rij)
+        for j in range("VUL AAN"):
+            rij = rij+"VUL AAN"
+        print("VUL AAN")
 sudoku0 = [[1,2,3,4,5,6,7,".",9],[2,".",4,5,6,7,8,9,1],[3,4,5,6,7,8,9,".",2],[4,5,".",7,8,9,1,2,3],[5,6,7,8,9,1,2,3,4],[6,7,8,9,1,2,3,4,5],[7,8,9,1,2,3,4,5,6],[8,9,1,2,3,4,5,6,7],[9,1,2,3,4,5,6,7,8]]
 printsudoku(sudoku0)
 ```
