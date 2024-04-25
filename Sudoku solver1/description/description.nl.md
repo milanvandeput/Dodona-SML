@@ -1,4 +1,4 @@
-### Sudoku rijcontrole
+### Sudoku solver 1
 We starten met de eerste stap in het automatisch laten oplossen van een sudoku. We leren onze computer eerst om in een rij te controleren of een getal daar al in staat of niet. De code om dit te doen zetten we in een functie **rijcontrole(s,g,m,n)**. 
 
 Deze functie heeft een aantal parameters:
