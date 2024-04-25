@@ -1,2 +1,2 @@
-Sudoku deel 1
-printen()
+Sudoku deel 3
+rijcontrole()
