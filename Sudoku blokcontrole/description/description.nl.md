@@ -1,5 +1,9 @@
-### Sudoku rijcontrole
-We starten met de eerste stap in het automatisch laten oplossen van een sudoku. We leren onze computer eerst om in een rij te controleren of een getal daar al in staat of niet. De code om dit te doen zetten we in een functie **rijcontrole(s,g,m,n)**. 
+### Sudoku blokcontrole
+inleiding nieuwe sudoku1, print hem, zie je blok
+```python
+sudoku1 = [[9,".",".",".",6,1,2,8],[2,6,8,".",".",4,7,".","."],[4,".",".",5,".",8,".",3,9],[".",8,".",2,5,".",1,4,"."],[".",".",4,8,1,".",".",9,3],[1,5,9,".",".",3,".",".",6],[5,".",2,".",".",7,4,".",8],[".",1,".",9,4,".",".",7,5],[".",4,7,1,8,".",9,".","."]]
+```
+functie **blokontrole(s,g,m,n)**. 
 
 Deze functie heeft een aantal parameters:
 
@@ -12,11 +16,11 @@ De functie returned de Booleaanse waarde *True* of *False*
 
 
 ### Opdracht: 
-Schrijf de functie *rijcontrole(s,g,m,n)*.
+Schrijf de functie *blokcontrole(s,g,m,n)*.
 ```python
-sudoku0 = [[1,2,3,4,5,6,7,".",9],[2,".",4,5,6,7,8,9,1],[3,4,5,6,7,8,9,".",2],[4,5,".",7,8,9,1,2,3],[5,6,7,8,9,1,2,3,4],[6,7,8,9,1,2,3,4,5],[7,8,9,1,2,3,4,5,6],[8,9,1,2,3,4,5,6,7],[9,1,2,3,4,5,6,7,8]]
+sudoku1 = [[1,2,3,4,5,6,7,".",9],[2,".",4,5,6,7,8,9,1],[3,4,5,6,7,8,9,".",2],[4,5,".",7,8,9,1,2,3],[5,6,7,8,9,1,2,3,4],[6,7,8,9,1,2,3,4,5],[7,8,9,1,2,3,4,5,6],[8,9,1,2,3,4,5,6,7],[9,1,2,3,4,5,6,7,8]]
 
-def rijcontrole(s,g,m,n):
+def blokcontrole(s,g,m,n):
     ...
 ```
 
@@ -24,7 +28,7 @@ def rijcontrole(s,g,m,n):
 ### Voorbeeld
 **Invoer:**
 
-    rijcontrole(sudoku0,7,0,7)
+    blokcontrole()
 **Uitvoer:**
 
     False
