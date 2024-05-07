@@ -1,4 +1,8 @@
 ### Sudoku blokcontrole
+eerst blokcontrole vanuit linksboven (0,0) -> naar lijst
+dan blokcontrole vanuit linksboven (m,n)  -> naar lijst
+dan blokcontrole vanuit eenderwaar via m - m%3  -> naar lijst
+
 inleiding nieuwe sudoku1, print hem, zie je blok
 ```python
 sudoku1 = [[9,".",".",".",6,1,2,8,"."],[2,6,8,".",".",4,7,".","."],[4,".",".",5,".",8,".",3,9],[".",8,".",2,5,".",1,4,"."],[".",".",4,8,1,".",".",9,3],[1,5,9,".",".",3,".",".",6],[5,".",2,".",".",7,4,".",8],[".",1,".",9,4,".",".",7,5],[".",4,7,1,8,".",9,".","."]]
