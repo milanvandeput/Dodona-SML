@@ -1,2 +1,2 @@
-Sudoku deel 3
-rijcontrole()
+Sudoku deel 6
+blokcontrole()
