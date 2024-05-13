@@ -1,38 +1,11 @@
-### Sudoku rijcontrole
-We starten met de eerste stap in het automatisch laten oplossen van een sudoku. We leren onze computer eerst om in een rij te controleren of een getal daar al in staat of niet. De code om dit te doen zetten we in een functie **rijcontrole(s,g,m,n)**. 
+### Een nog betere solver?
+Bekijk eens de resultaten van *sudokusolver2()*. Je zal merken dat sommige vakjes nog niet ingevuld zijn. Probeer ze zelf eens verder in te vullen: lukt dit? Denk eens na over hoe je de sovler 'slimmer' kan maken.
 
-Deze functie heeft een aantal parameters:
+Enkele mogelijkheden:
+- Laat de solver alleen een getal invullen wanneer dit de eneige mogelijkheid is.
+- Laat de solver meerdere keren de sudoku doorlopen.
+- Laat de solver eerst alle 1'en proberen invullen, dan de 2'en enz.
+- Controleer ook de diagonalen?
+- ...
 
-- *s* is de sudoku
-- *g* is het getal dat we willen laten controleren
-- *m* is de rijindex
-- *n* is de kolomindex
-
-De functie returned de Booleaanse waarde *True* of *False*
-
-
-### Opdracht: 
-Schrijf de functie *rijcontrole(s,g,m,n)*.
-```python
-sudoku0 = [[1,2,3,4,5,6,7,".",9],[2,".",4,5,6,7,8,9,1],[3,4,5,6,7,8,9,".",2],[4,5,".",7,8,9,1,2,3],[5,6,7,8,9,1,2,3,4],[6,7,8,9,1,2,3,4,5],[7,8,9,1,2,3,4,5,6],[8,9,1,2,3,4,5,6,7],[9,1,2,3,4,5,6,7,8]]
-
-def rijcontrole(s,g,m,n):
-    ...
-```
-
-
-### Voorbeeld
-**Invoer:**
-
-    rijcontrole(sudoku0,7,0,7)
-**Uitvoer:**
-
-    False
-
-### Voorbeeld
-**Invoer:**
-
-    rijcontrole(sudoku0,8,0,7)
-**Uitvoer:**
-
-    True
+... (nog aanvullen)
