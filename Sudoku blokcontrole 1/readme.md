@@ -1,2 +1,2 @@
 Sudoku deel 6
-blokcontrole()
+blokcontrole() vanuit 0,0
