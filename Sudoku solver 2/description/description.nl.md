@@ -1,38 +1,48 @@
-### Sudoku rijcontrole
-We starten met de eerste stap in het automatisch laten oplossen van een sudoku. We leren onze computer eerst om in een rij te controleren of een getal daar al in staat of niet. De code om dit te doen zetten we in een functie **rijcontrole(s,g,m,n)**. 
+### Onze solver uitbreiden
+Je maakte eerder al een programma *sudokusolver1(s)*. Nu heb je ook een functie geschreven die een controle op een blok kan uitvoeren. Deze gaan we toevoegen aan onze solver.
 
-Deze functie heeft een aantal parameters:
+### Opdracht: getalzoeken2(s,m,n)
+Kopieer je code van de eerdere functie *getalzoeken()*. Je moet twee zaken toevoegen aan deze functie: 
 
-- *s* is de sudoku
-- *g* is het getal dat we willen laten controleren
-- *m* is de rijindex
-- *n* is de kolomindex
+- Voeg ook een blokcontrole toe aan deze functie.
+- Zorg dat de functie een *"."* returned indien er geen getal gevonden wordt.
 
-De functie returned de Booleaanse waarde *True* of *False*
+Geef de functie de nieuwe naam *getalzoeken2()*.
+
+```python
+sudoku1 = [[9,".",".",".",6,1,2,8,"."],[2,6,8,".",".",4,7,".","."],[4,".",".",5,".",8,".",3,9],[".",8,".",2,5,".",1,4,"."],[".",".",4,8,1,".",".",9,3],[1,5,9,".",".",3,".",".",6],[5,".",2,".",".",7,4,".",8],[".",1,".",9,4,".",".",7,5],[".",4,7,1,8,".",9,".","."]]
+
+def getalzoeken2(s,m,n):
+    ...
+
+```
+### Voorbeeld
+**Invoer:**
+
+    getalzoeken(sudoku1,0,1)
+    
+**Uitvoer:**
+
+    3
+
+### Opdracht: sudokusolver2(s)
+Kopieer je code van de eerdere functie *sudokusolver1()*. Je zal slecht 1 ding aan deze functie moeten aanpassen (denk maar eens na wat precies).
+
+Geef de functie de nieuwe naam *sudokusolver2()*. Test je functie uit.
 
 
-### Opdracht: 
-Schrijf de functie *rijcontrole(s,g,m,n)*.
 ```python
 sudoku0 = [[1,2,3,4,5,6,7,".",9],[2,".",4,5,6,7,8,9,1],[3,4,5,6,7,8,9,".",2],[4,5,".",7,8,9,1,2,3],[5,6,7,8,9,1,2,3,4],[6,7,8,9,1,2,3,4,5],[7,8,9,1,2,3,4,5,6],[8,9,1,2,3,4,5,6,7],[9,1,2,3,4,5,6,7,8]]
 
-def rijcontrole(s,g,m,n):
+def sudokusolver2(s):
     ...
 ```
 
-
 ### Voorbeeld
 **Invoer:**
 
-    rijcontrole(sudoku0,7,0,7)
+    sudokusolver2(sudoku1)
+    
 **Uitvoer:**
 
-    False
-
-### Voorbeeld
-**Invoer:**
-
-    rijcontrole(sudoku0,8,0,7)
-**Uitvoer:**
-
-    True
+    [[9, 3, 5, 4, 6, 1, 2, 8, '.'], [2, 6, 8, 3, 9, 4, 7, 1, '.'], [4, 7, 1, 5, 2, 8, 6, 3, 9], [3, 8, 6, 2, 5, 9, 1, 4, 7], [7, 2, 4, 8, 1, 6, 5, 9, 3], [1, 5, 9, 7, '.', 3, 8, 2, 6], [5, 9, 2, 6, 3, 7, 4, '.', 8], [6, 1, 3, 9, 4, 2, '.', 7, 5], ['.', 4, 7, 1, 8, 5, 9, 6, 2]]
