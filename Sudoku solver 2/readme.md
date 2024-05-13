@@ -1,2 +1,2 @@
-Sudoku deel 3
-rijcontrole()
+Sudoku deel 8
+sudoku solver 2 (met blokcontrole)
