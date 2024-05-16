@@ -9,3 +9,10 @@ Enkele mogelijkheden:
 - ...
 
 ... (nog aanvullen)
+
+### Testen
+Hier staan een aantal sudokus in oplopende moeilijkheid. Voeg de volgende code toe om je sudoku te laten testen:
+
+``` python
+print("hello")
+```
