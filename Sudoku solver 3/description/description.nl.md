@@ -18,7 +18,7 @@ sudokutestX = .... #hier je sudoku invoeren
 sudoku_opgelost = sudokusolver3(sudokutestX)
 print(sudoku_opgelost) #je kan ook de printsudokufunctie gebruiken om de sudoku zelf beter te zien
 ```
-## sudokkutest1
+## sudokkutest 1
 ``` python
 sudoku = [
     [5, 3, ".", ".", 7, ".", ".", ".", "."],
@@ -33,7 +33,7 @@ sudoku = [
 ]
 ```
 
-## sudokutest2
+## sudokutest 2
 ``` python
 sudoku2 = [
     [5, 3, ".", ".", 7, ".", ".", ".", "."],
@@ -48,7 +48,7 @@ sudoku2 = [
 ]
 ```
 
-## sudokutest2
+## sudokutest 3
 ``` python
 sudoku2 = [
     [5, 3, ".", ".", 7, ".", ".", ".", "."],
@@ -63,7 +63,7 @@ sudoku2 = [
 ]
 ```
 
-## sudokutest3
+## sudokutest 4
 ``` python
 sudoku3= [
     [".", ".", ".", 6, ".", ".", ".", ".", "."],
@@ -77,11 +77,6 @@ sudoku3= [
     [".", ".", ".", ".", ".", ".", ".", ".", "."]
 ]
 
-```
-
-## sudokutest4
-``` python
-sudoku4=
 ```
 
 ## sudokutest5
