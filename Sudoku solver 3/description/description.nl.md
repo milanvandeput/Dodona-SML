@@ -12,7 +12,7 @@ Enkele mogelijkheden:
 
 ### Testen
 Hier staan een aantal sudokus in oplopende moeilijkheid. Voeg de volgende code toe om je sudoku te laten testen:
-
+TODO:nog andere testen zoeken!
 ``` python
 sudokutestX = .... #hier je sudoku invoeren
 sudoku_opgelost = sudokusolver3(sudokutestX)
