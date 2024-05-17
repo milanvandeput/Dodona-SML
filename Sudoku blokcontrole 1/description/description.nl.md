@@ -6,7 +6,7 @@ sudoku1 = [[9,".",".",".",6,1,2,8,"."],[2,6,8,".",".",4,7,".","."],[4,".",".",5,
 *Laat de sudoku printen met je printsudoku() functie om een goed zicht te krijgen op deze sudoku.*
 
 
-We hebben eerder al functies gemaakt die rijen en kolommen controleren. Nu maken we een gelijkaardige functie **blokontrole(s,g,m,n)**. *In deze eerste versie is dit nog een vereenvoudige functie.*
+We hebben eerder al functies gemaakt die rijen en kolommen controleren. Nu maken we een gelijkaardige functie **blokcontrole(s,g,m,n)**. *In deze eerste versie is dit nog een vereenvoudige functie.*
 
 Deze functie heeft een aantal parameters:
 
