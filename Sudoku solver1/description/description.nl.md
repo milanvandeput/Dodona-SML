@@ -20,7 +20,7 @@ def getalzoeken(s,m,n):
     8
 
 ### Opdracht: sudokusolver1(s)
-De functie *sudokuvoler1(s)* is onze eerste versie van een volwaardige automatische sudoku-oplosser. De functie krijgt een sudoku *s* als input en zal de lege vakjes *'.'* invullen. Uiteraard zal hij hiervoor de functie *getalzoeken(s,m,n)* nodig hebben.
+De functie *sudokusolver1(s)* is onze eerste versie van een volwaardige automatische sudoku-oplosser. De functie krijgt een sudoku *s* als input en zal de lege vakjes *'.'* invullen. Uiteraard zal hij hiervoor de functie *getalzoeken(s,m,n)* nodig hebben.
 
 Een mogelijke opbouw van je code:
 
