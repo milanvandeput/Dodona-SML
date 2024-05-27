@@ -13,8 +13,8 @@ Probeer de volgende aanpassingen aan je code te maken. Doet dat in deze volgorde
 Hier staan een aantal sudokus in oplopende moeilijkheid. Voeg de volgende code toe om je sudoku te laten testen:
 
 ``` python
-sudokutestX = .... #hier je sudoku invoeren (zie hieronder)
-sudoku_opgelost = sudokusolver3(sudokutestX)
+sudokutest =  #hier je sudoku invoeren (zie hieronder)
+sudoku_opgelost = sudokusolver3(sudokutest)
 print(sudoku_opgelost) 
 ```
 ## sudokkutest 1
