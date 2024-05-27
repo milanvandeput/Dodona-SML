@@ -2,7 +2,7 @@
 Bekijk eens de resultaten van *sudokusolver2()*. Je zal merken dat sommige vakjes nog niet ingevuld zijn. Probeer ze zelf eens verder in te vullen: lukt dit? Denk eens na over hoe je de sovler 'slimmer' kan maken.
 
 Probeer de volgende aanpassingen aan je code te maken. Doet dat in deze volgorde en **test je code uit na elke toevoeging.**
-- Pas je functie *getalzoeken()* aan zodat deze enkel een getal invult wanneer dit het enige mogelijke getal is.
+- Pas je functie *getalzoeken()* aan zodat deze enkel een getal invult wanneer dit het **enige** mogelijke getal is. Je kan dit doen door de mogelijke getallen toe te voegen aan een lijst, en op het einde te controleren of de lengte van de lijst 1 is met *len(lijst)*.
 - Pas je functie *sudokusolver2()* aan naar *sudokusolver3()* door de nieuwe getalzoeker te gebruiken.
 - Laat je functie *sudokusolver3()* meerdere keren de sudoku doorlopen.
 - Laat je functie *sudokusolver3()* de sudoku doorlopen tot hij geen nieuwe getallen meer heeft ingevuld.
