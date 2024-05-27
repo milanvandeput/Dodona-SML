@@ -2,18 +2,20 @@
 Bekijk eens de resultaten van *sudokusolver2()*. Je zal merken dat sommige vakjes nog niet ingevuld zijn. Probeer ze zelf eens verder in te vullen: lukt dit? Denk eens na over hoe je de sovler 'slimmer' kan maken.
 
 Probeer de volgende aanpassingen aan je code te maken. Doet dat in deze volgorde en **test je code uit na elke toevoeging.**
-- ee
-- ee
+- Pas je functie *getalzoeken()* aan zodat deze enkel een getal invult wanneer dit het enige mogelijke getal is.
+- Pas je functie *sudokusolver2()* aan naar *sudokusolver3()* door de nieuwe getalzoeker te gebruiken.
+- Laat je functie *sudokusolver3()* meerdere keren de sudoku doorlopen.
+- Laat je functie *sudokusolver3()* de sudoku doorlopen tot hij geen nieuwe getallen meer heeft ingevuld.
 
 
 
 ### Testen
 Hier staan een aantal sudokus in oplopende moeilijkheid. Voeg de volgende code toe om je sudoku te laten testen:
-TODO:nog andere testen zoeken!
+
 ``` python
-sudokutestX = .... #hier je sudoku invoeren
+sudokutestX = .... #hier je sudoku invoeren (zie hieronder)
 sudoku_opgelost = sudokusolver3(sudokutestX)
-print(sudoku_opgelost) #je kan ook de printsudokufunctie gebruiken om de sudoku zelf beter te zien
+print(sudoku_opgelost) 
 ```
 ## sudokkutest 1
 ``` python
