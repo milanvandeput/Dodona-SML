@@ -4,7 +4,7 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Schaakbord met 4 munten"
+      "nl": "Schaakbord met 64 munten"
     }
   },
   "evaluation": {
