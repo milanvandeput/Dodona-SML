@@ -1,32 +1,43 @@
 ### Schaakbord met 4 munten
-uitleg...
+We programmeren in deze oefening de strategie die je hebt uitgedacht. Je zal zowel een functie voor het verstoppen als het zoeken van de sleutel moeten programmeren.
 
-voorstelling bord
-voorstelling sleutel
-
-functie verstoppen
-functie zoeken
-functie testen
-
-testcase
-
-
-### Opdracht: 
-Schrijf de functie *...*
+Het 2x2 bord wordt versimpeld voorgesteld als een *list* met vier elementen. De munten op het bord zijn een *0* of een *1*.
 ```python
-sudoku0 = [[1,2,3,4,5,6,7,".",9],[2,".",4,5,6,7,8,9,1],[3,4,5,6,7,8,9,".",2],[4,5,".",7,8,9,1,2,3],[5,6,7,8,9,1,2,3,4],[6,7,8,9,1,2,3,4,5],[7,8,9,1,2,3,4,5,6],[8,9,1,2,3,4,5,6,7],[9,1,2,3,4,5,6,7,8]]
+voorbeeldbord = [1,0,0,1]
+```
+De locatie van de sleutel wordt aangeduid met de index van de *list*. Bij dit bord kan de sleutel dus 0, 1, 2 of 3 zijn.
 
-def rijcontrole(s,g,m,n):
+### Verstoppen
+Schrijf een functie *verstoppen(bord,sleutel)* die één munten van het bord zal omdraaien. De functie returnet het aangepaste bord.
+```python
+def verstoppen(bord,sleutel):
     ...
+    return(bordaangepast)
 ```
 
+### Zoeken
+Schrijf een functie *zoeken(bord)* die vanuit een bord kan aflezen waar de sleutel ligt. De functie returned de index van de sleutel.
+```python
+def zoeken(bord):
+    ...
+    return(sleutelindex)
+```
+### Testen
+Je kan je code uiteraard in stukjes zelf testen. Om hem in Dodona te uit te testen, voeg je volgende code onderaan toe:
+
+```python
+def testen(bord,sleutel):
+    bordnieuw=verstoppen(bord,sleutel)
+    return(zoeken(bordnieuw))
+```
 
 ### Voorbeeld
 **Invoer:**
 
-    rijcontrole(sudoku0,7,0,7)
+    testen([1,0,0,1],2)
+    
 **Uitvoer:**
 
-    False
+    2
 
 ...
