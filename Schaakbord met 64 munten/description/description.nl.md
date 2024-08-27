@@ -1,11 +1,11 @@
-### Schaakbord met 4 munten
-We programmeren in deze oefening de strategie die je hebt uitgedacht. Je zal zowel een functie voor het verstoppen als het zoeken van de sleutel moeten programmeren.
+### Schaakbord met 64 munten
+We programmeren in deze oefening de strategie die je hebt uitgedacht voor een schaakbord met 64 munten.
 
-Het 2x2 bord wordt versimpeld voorgesteld als een *list* met vier elementen. De munten op het bord zijn een *0* of een *1*.
+Het 8x8 bord wordt versimpeld voorgesteld als een *list* met 64 elementen. De munten op het bord zijn een *0* of een *1*.
 ```python
-voorbeeldbord = [1,0,0,1]
+voorbeeldbord = [0, 1, 1, 0, 1, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 1, 1, 0, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0]
 ```
-De locatie van de sleutel wordt aangeduid met de index van de *list*. Bij dit bord kan de sleutel dus 0, 1, 2 of 3 zijn.
+De locatie van de sleutel wordt aangeduid met de index van de *list*. Bij dit bord kan de sleutel dus 0 t.e.m. 64 zijn.
 
 ### Verstoppen
 Schrijf een functie *verstoppen(bord,sleutel)* die één munten van het bord zal omdraaien. De functie returnet het aangepaste bord.
@@ -34,10 +34,10 @@ def testen(bord,sleutel):
 ### Voorbeeld
 **Invoer:**
 
-    testen([1,0,0,1],2)
+    testen([0, 1, 1, 0, 1, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 1, 1, 0, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0],20)
     
 **Uitvoer:**
 
-    2
+    20
 
 ...
