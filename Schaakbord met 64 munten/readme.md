@@ -1,2 +1,2 @@
-Schaakbord met 4 munten
+Schaakbord met 64 munten
 Onderdeel van de error correction oefeningen.
