@@ -1,6 +1,6 @@
 - tab: "Testen"
   testcases:
-    - expression: "testen([0,0,1,1],2)"
+    - expression: "testen([0,0,1,1], 2)"
       return: 2
     - expression: "testen([0,0,1,1],3)"
       return: 3
@@ -10,7 +10,7 @@
       return: 1
     - expression: "testen([1,0,1,1],1)"
       return: 1
-    - expression: "testen(0,0,1,0],2)"
+    - expression: "testen([0,0,1,0],2)"
       return: 2
     - expression: "testen([0,0,1,1],3)"
       return: 3
