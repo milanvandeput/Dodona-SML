@@ -4,7 +4,7 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Sudoku rijcontrole"
+      "nl": "Schaakbord met 4 munten"
     }
   },
   "evaluation": {
