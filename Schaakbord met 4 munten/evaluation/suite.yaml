@@ -1,8 +1,20 @@
-- tab: "rijcontrole"
+- tab: "Testen"
   testcases:
-    - expression: "rijcontrole([[1,2,3,4,5,6,7,'.',9],[2,'.',4,5,6,7,8,9,1],[3,4,5,6,7,8,9,'.',2],[4,5,'.',7,8,9,1,2,3],[5,6,7,8,9,1,2,3,4],[6,7,8,9,1,2,3,4,5],[7,8,9,1,2,3,4,5,6],[8,9,1,2,3,4,5,6,7],[9,1,2,3,4,5,6,7,8]],7,0,7)"
-      return: False
-    - expression: "rijcontrole([[1,2,3,4,5,6,7,'.',9],[2,'.',4,5,6,7,8,9,1],[3,4,5,6,7,8,9,'.',2],[4,5,'.',7,8,9,1,2,3],[5,6,7,8,9,1,2,3,4],[6,7,8,9,1,2,3,4,5],[7,8,9,1,2,3,4,5,6],[8,9,1,2,3,4,5,6,7],[9,1,2,3,4,5,6,7,8]],8,0,7)"
-      return: True
+    - expression: "testen([0,0,1,1],2)"
+      return: 2
+    - expression: "testen([0,0,1,1],3)"
+      return: 3
+    - expression: "testen([1,0,1,0],0)"
+      return: 0
+    - expression: "testen([1,0,1,0],1)"
+      return: 1
+    - expression: "testen([1,0,1,1],1)"
+      return: 1
+    - expression: "testen(0,0,1,0],2)"
+      return: 2
+    - expression: "testen([0,0,1,1],3)"
+      return: 3
+    - expression: "testen([1,1,1,1],0)"
+      return: 0
 
   
