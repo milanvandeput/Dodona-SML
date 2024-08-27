@@ -1,18 +1,18 @@
-### Sudoku rijcontrole
-We starten met de eerste stap in het automatisch laten oplossen van een sudoku. We leren onze computer eerst om in een rij te controleren of een getal daar al in staat of niet. De code om dit te doen zetten we in een functie **rijcontrole(s,g,m,n)**. 
+### Schaakbord met 4 munten
+uitleg...
 
-Deze functie heeft een aantal parameters:
+voorstelling bord
+voorstelling sleutel
 
-- *s* is de sudoku
-- *g* is het getal dat we willen laten controleren
-- *m* is de rijindex
-- *n* is de kolomindex
+functie verstoppen
+functie zoeken
+functie testen
 
-De functie returned de Booleaanse waarde *True* of *False*
+testcase
 
 
 ### Opdracht: 
-Schrijf de functie *rijcontrole(s,g,m,n)*.
+Schrijf de functie *...*
 ```python
 sudoku0 = [[1,2,3,4,5,6,7,".",9],[2,".",4,5,6,7,8,9,1],[3,4,5,6,7,8,9,".",2],[4,5,".",7,8,9,1,2,3],[5,6,7,8,9,1,2,3,4],[6,7,8,9,1,2,3,4,5],[7,8,9,1,2,3,4,5,6],[8,9,1,2,3,4,5,6,7],[9,1,2,3,4,5,6,7,8]]
 
@@ -29,10 +29,4 @@ def rijcontrole(s,g,m,n):
 
     False
 
-### Voorbeeld
-**Invoer:**
-
-    rijcontrole(sudoku0,8,0,7)
-**Uitvoer:**
-
-    True
+...
