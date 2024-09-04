@@ -1,13 +1,14 @@
 - tab: "Testen"
   testcases:
-  - stdin: "Jan"
-    stdout: "Bonjour, Jan!"
-  - stdin: "Piet"
-    stdout: "Bonjour, Piet!"
-  - stdin: "wereld"
-    stdout: "Bonjour, wereld!"
-  - stdin: "12345"
-    stdout: 'Bonjour, 12345!'
+  - stdin: "penser"
+    stdout: "Je pense"
+  - stdin: "parler"
+    stdout: "Je parle"
+  - stdin: "crier"
+    stdout: "Je crie"
+  - stdin: "vérifier"
+    stdout: 'Je vérifie'
+    
 
 
   
