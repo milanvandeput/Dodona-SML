@@ -1,5 +1,7 @@
 ### Werkwoorden op -ER 
-Schrijf een programma dat een werkwoorden (op -ER) vraagt. Het programma print de vervoeging in eerste persoon enkelvoud (Je ...).
+Schrijf een programma dat een werkwoorden (op -ER) vraagt. 
+
+Het programma print de vervoeging in eerste persoon enkelvoud (Je ...).
 
 ```python
     #De x laatste letters verwijderen achteraan een string
