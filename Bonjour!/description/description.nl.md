@@ -1,5 +1,5 @@
 ### Bonjour!
-Schrijf een programma dat een naam vraagt. Slaag de variabele op 
+Schrijf een programma dat een naam vraagt. Sla de naam als een variabele op.
 
 ```python
     #input vragen in Python
