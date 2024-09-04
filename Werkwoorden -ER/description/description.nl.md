@@ -1,18 +1,17 @@
-### Bonjour!
-Schrijf een programma dat een naam vraagt. Sla de naam als een string variabele op.
+### Werkwoorden op -ER 
+Schrijf een programma dat een werkwoorden (op -ER) vraagt. Het programma print de vervoeging in eerste persoon enkelvoud (Je ...).
 
 ```python
-    #input vragen in Python
-    Naam=str(input("..."))
+    #De x laatste letters verwijderen achteraan een string
+    nieuwe_string = string[:x]
 ```
-Laat het programma de gebruiker begroeten met "Bonjour, NAAM!"
 
 
 ### Voorbeeld
 **Invoer:**
 
-    Jan
+    parler
     
 **Uitvoer:**
 
-    Bonjour, Jan!
+    Je parle
