@@ -8,6 +8,22 @@
       Nous finissons
       Vous finissez
       Ils finissent
+  - stdin: "définir"
+    stdout: |- 
+      Je définis
+      Tu définis
+      Il définit
+      Nous définissons
+      Vous définissez
+      Ils définissent
+  - stdin: "réfléchir"
+    stdout: |- 
+      Je réfléchis
+      Tu réfléchis
+      Il réfléchit
+      Nous réfléchissons
+      Vous réfléchissez
+      Ils réfléchissent
 
 
 
