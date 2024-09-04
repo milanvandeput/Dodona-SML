@@ -1,43 +1,18 @@
-### Schaakbord met 4 munten
-We programmeren in deze oefening de strategie die je hebt uitgedacht. Je zal zowel een functie voor het verstoppen als het zoeken van de sleutel moeten programmeren.
-
-Het 2x2 bord wordt versimpeld voorgesteld als een *list* met vier elementen. De munten op het bord zijn een *0* of een *1*.
-```python
-voorbeeldbord = [1,0,0,1]
-```
-De locatie van de sleutel wordt aangeduid met de index van de *list*. Bij dit bord kan de sleutel dus 0, 1, 2 of 3 zijn.
-
-### Verstoppen
-Schrijf een functie *verstoppen(bord,sleutel)* die één munten van het bord zal omdraaien. De functie returnet het aangepaste bord.
-```python
-def verstoppen(bord,sleutel):
-    ...
-    return(bordaangepast)
-```
-
-### Zoeken
-Schrijf een functie *zoeken(bord)* die vanuit een bord kan aflezen waar de sleutel ligt. De functie returned de index van de sleutel.
-```python
-def zoeken(bord):
-    ...
-    return(sleutelindex)
-```
-### Testen
-Je kan je code uiteraard in stukjes zelf testen. Om hem in Dodona te uit te testen, voeg je volgende code onderaan toe:
+### Bonjour!
+Schrijf een programma dat een naam vraagt. Slaag de variabele op 
 
 ```python
-def testen(bord,sleutel):
-    bordnieuw=verstoppen(bord,sleutel)
-    return(zoeken(bordnieuw))
+    #input vragen in Python
+    Naam=input("...")
 ```
+Laat het programma de gebruiker begroeten met "Bonjour, NAAM!"
+
 
 ### Voorbeeld
 **Invoer:**
 
-    testen([1,0,0,1],2)
+    Jan
     
 **Uitvoer:**
 
-    2
-
-...
+    Bonjour, Jan!
