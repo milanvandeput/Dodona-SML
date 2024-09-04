@@ -1,8 +1,11 @@
 - tab: "Testen"
   testcases:
   - stdin: "finir"
-    stdout: "Je finis"
-    stdout: "Tu finis"
+    stdout: |- 
+      Je finis
+      Tu finis
+
+
 
 
 
