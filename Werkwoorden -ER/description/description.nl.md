@@ -3,7 +3,7 @@ Schrijf een programma dat een werkwoorden (op -ER) vraagt. Het programma print d
 
 ```python
     #De x laatste letters verwijderen achteraan een string
-    nieuwe_string = string[:x]
+    nieuwe_string = string[:-x]
 ```
 
 
