@@ -1,9 +1,9 @@
 ### Bonjour!
-Schrijf een programma dat een naam vraagt. Sla de naam als een variabele op.
+Schrijf een programma dat een naam vraagt. Sla de naam als een string variabele op.
 
 ```python
     #input vragen in Python
-    Naam=input("...")
+    Naam=str(input("..."))
 ```
 Laat het programma de gebruiker begroeten met "Bonjour, NAAM!"
 
