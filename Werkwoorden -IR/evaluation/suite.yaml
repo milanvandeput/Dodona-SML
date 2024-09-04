@@ -1,0 +1,13 @@
+- tab: "Testen"
+  testcases:
+  - stdin: "Jan"
+    stdout: "Bonjour, Jan!"
+  - stdin: "Piet"
+    stdout: "Bonjour, Piet!"
+  - stdin: "wereld"
+    stdout: "Bonjour, wereld!"
+  - stdin: "12345"
+    stdout: 'Bonjour, 12345!'
+
+
+  
