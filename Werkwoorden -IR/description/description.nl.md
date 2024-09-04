@@ -1,18 +1,17 @@
-### Bonjour!
-Schrijf een programma dat een naam vraagt. Sla de naam als een string variabele op.
-
-```python
-    #input vragen in Python
-    Naam=str(input("..."))
-```
-Laat het programma de gebruiker begroeten met "Bonjour, NAAM!"
+### Werkwoorden op -IR 
+Schrijf een programma dat een werkwoorden (op -IR) vraagt. Het programma print de 6 vervoegingen (Je, Tu, Il, Nous, Vous, Ils)
 
 
 ### Voorbeeld
 **Invoer:**
 
-    Jan
+    finir
     
 **Uitvoer:**
 
-    Bonjour, Jan!
+    Je finis
+    Tu finis
+    Il finit
+    Nous finissons
+    Vous finissez
+    Ils finissent
