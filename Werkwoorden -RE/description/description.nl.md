@@ -1,19 +1,17 @@
-### Werkwoorden op -ER 
-Schrijf een programma dat een werkwoorden (op -ER) vraagt. 
+### Werkwoorden op -RE 
+Schrijf een programma dat een werkwoorden (op -RE) vraagt. 
 
-Het programma print de vervoeging in eerste persoon enkelvoud (Je ...).
+Het programma vraagt ook de persoonsvorm (Je, Tu, Il, Nous, Vous, Ils).
 
-```python
-    #De x laatste letters verwijderen achteraan een string
-    nieuwe_string = string[:-x]
-```
+Het programma print de persoonsvorm + de juiste vervoeging van het werkwoord.
 
 
 ### Voorbeeld
 **Invoer:**
 
-    parler
+    Je
+    rendre
     
 **Uitvoer:**
 
-    Je parle
+    Je rends
