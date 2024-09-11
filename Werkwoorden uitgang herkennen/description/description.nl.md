@@ -7,6 +7,7 @@ Het programma print gaat na welke uitgang dit werkwoord heeft (-ER, -IR of -RE).
     "Dit is een werkwoord op ..."
 ```
 
+Bekijk zeker de *cheat sheet voor strings*!
 
 ### Voorbeeld
 **Invoer:**
