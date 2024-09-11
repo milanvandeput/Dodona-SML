@@ -1,17 +1,15 @@
-### Werkwoorden op -ER 
-Schrijf een programma dat een werkwoorden (op -ER) vraagt. 
+### Werkwoorden samenvattende oefening les 2
+Schrijf een programma dat een werkwoorden vraagt (op -ER, -IR of -RE) en een persoonsvorm (J, Tu, Il, Nous, Vous, Ils).
 
-Het programma print de vervoeging in eerste persoon enkelvoud (Je ...).
+Het programma print de juiste vervoeging met de juiste persoonsvorm.
 
-```python
-    #De x laatste letters verwijderen achteraan een string
-    nieuwe_string = string[:-x]
-```
+**Tip:** Maak gebruik van stukken code uit de vorige oefeningen.
 
 
 ### Voorbeeld
 **Invoer:**
 
+    Je
     parler
     
 **Uitvoer:**
