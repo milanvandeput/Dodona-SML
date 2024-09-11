@@ -1,13 +1,13 @@
 - tab: "Testen"
   testcases:
   - stdin: "penser"
-    stdout: "Je pense"
-  - stdin: "parler"
-    stdout: "Je parle"
-  - stdin: "crier"
-    stdout: "Je crie"
-  - stdin: "vérifier"
-    stdout: 'Je vérifie'
+    stdout: "Dit is een werkwoord op -ER"
+  - stdin: "partir"
+    stdout: "Dit is een werkwoord op -IR"
+  - stdin: "rendre"
+    stdout: "Dit is een werkwoord op -RE"
+  - stdin: "réfléchir"
+    stdout: "Dit is een werkwoord op -IR"
     
 
 
