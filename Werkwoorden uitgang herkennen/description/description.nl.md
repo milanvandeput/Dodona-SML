@@ -1,11 +1,10 @@
-### Werkwoorden op -ER 
-Schrijf een programma dat een werkwoorden (op -ER) vraagt. 
+### Werkwoorden uitgang herkennen
+Schrijf een programma dat een werkwoord vraagt.
 
-Het programma print de vervoeging in eerste persoon enkelvoud (Je ...).
+Het programma print gaat na welke uitgang dit werkwoord heeft (-ER, -IR of -RE). Het print dan het volgende statement
 
 ```python
-    #De x laatste letters verwijderen achteraan een string
-    nieuwe_string = string[:-x]
+    "Dit is een werkwoord op ..."
 ```
 
 
@@ -16,4 +15,4 @@ Het programma print de vervoeging in eerste persoon enkelvoud (Je ...).
     
 **Uitvoer:**
 
-    Je parle
+    Dit is een werkwoord op -ER
