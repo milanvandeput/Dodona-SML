@@ -1,2 +1,2 @@
-Werkwoorden -ER
-Onderdeel van franse werkwoorden les 1
+Werkwoorden -RE
+les 2
