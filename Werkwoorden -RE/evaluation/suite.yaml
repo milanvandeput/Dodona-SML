@@ -4,6 +4,26 @@
           rendre
           Je
     stdout: "Je rends"
+  - stdin: |-
+          confrondre
+          Tu
+    stdout: "Tu confronds"
+  - stdin: |-
+          défendre
+          Il
+    stdout: "Il défend"
+  - stdin: |-
+          prétendre
+          Nous
+    stdout: "Nous prétendons"
+  - stdin: |-
+          vendre
+          Vous
+    stdout: "Vous vendez"
+  - stdin: |-
+          répondre
+          Ils
+    stdout: "Ils répondent"
 
     
 
