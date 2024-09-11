@@ -18,4 +18,4 @@ Het programma print de juiste vervoeging met de persoonsvorm
     
 **Uitvoer:**
 
-    Tu ach**è**tes
+    Tu achètes
