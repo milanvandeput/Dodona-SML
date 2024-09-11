@@ -1,19 +1,21 @@
-### Werkwoorden op -ER 
-Schrijf een programma dat een werkwoorden (op -ER) vraagt. 
+### Uitdaging: types van werkwoorden op -ER 
+In de voorgaande oefeningen hebben we verondersteld dat de werkwoorden op -ER steeds van hetzelfde type waren. Maar er zijn natuurlijk ook nog uitzonderingen.
 
-Het programma print de vervoeging in eerste persoon enkelvoud (Je ...).
+Schrijf een programma dat een werkwoord en de persoonsvorm vraagt. 
 
-```python
-    #De x laatste letters verwijderen achteraan een string
-    nieuwe_string = string[:-x]
-```
+Het programma print de juiste vervoeging met de persoonsvorm
+
+**Tip:** je kan de lijst van types met de regels vinden op Smartschool.
+
+**Tip:** werk geval per geval. Alle types tegelijk proberen behandelen kan nog overweldigend zijn. Zie elk gelukt type als een succes :)
 
 
 ### Voorbeeld
 **Invoer:**
 
-    parler
+    acheter
+    Tu
     
 **Uitvoer:**
 
-    Je parle
+    Tu ach**è**tes
