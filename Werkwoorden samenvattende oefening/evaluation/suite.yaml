@@ -1,14 +1,34 @@
 - tab: "Testen"
   testcases:
-  - stdin: "penser"
-    stdout: "Je pense"
-  - stdin: "parler"
+  - stdin: |-
+        parler
+        Je
     stdout: "Je parle"
-  - stdin: "crier"
-    stdout: "Je crie"
-  - stdin: "vérifier"
-    stdout: 'Je vérifie'
+  - stdin: |-
+        finir
+        Tu
+    stdout: "Tu finis"
+  - stdin: |-
+        attendre
+        Il
+    stdout: "Il attend"
+  - stdin: |-
+        visiter
+        Nous
+    stdout: "Nous visitons"
+  - stdin: |-
+        grandir
+        Vous
+    stdout: "Vous grandissez"
+  - stdin: |-
+        vendre
+        Ils
+    stdout: "Ils vendent"
+  - stdin: |-
+        penser
+        Ils
+    stdout: "Ils pensent"
+  
     
 
 
-  
