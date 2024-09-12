@@ -9,8 +9,8 @@ Het programma print de persoonsvorm + de juiste vervoeging van het werkwoord.
 ### Voorbeeld
 **Invoer:**
 
-    Je
     rendre
+    Je
     
 **Uitvoer:**
 
