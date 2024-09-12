@@ -9,8 +9,8 @@ Het programma print de juiste vervoeging met de juiste persoonsvorm.
 ### Voorbeeld
 **Invoer:**
 
-    Je
     parler
+    Je
     
 **Uitvoer:**
 
