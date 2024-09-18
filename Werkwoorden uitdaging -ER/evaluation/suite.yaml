@@ -17,7 +17,7 @@
         Tu
     stdout: "Tu achètes"
   - stdin: |-
-        jetter
+        jeter
         Je
     stdout: "Je jette"
   - stdin: |-
