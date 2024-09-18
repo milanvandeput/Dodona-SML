@@ -4,6 +4,48 @@
     stdout: |-
         fout
         Je parle
+  - stdin: "Je parle"
+    stdout: |-
+        juist
+  - stdin: "Nous parlez"
+    stdout: |-
+        fout
+        Nous parlons
+  - stdin: "Ils pense"
+    stdout: |-
+        fout
+        Ils pensent
+  - stdin: "Tu penses"
+    stdout: |-
+        juist
+  - stdin: "Tu pensent"
+    stdout: |-
+        fout
+        Tu penses
+  - stdin: "Il crient"
+    stdout: |-
+        fout
+        Il crie
+  - stdin: "Je criez"
+    stdout: |-
+        fout
+        Je crie
+  - stdin: "Je vérifions"
+    stdout: |-
+        fout
+        Je vérifie
+  - stdin: "Tu vérifions"
+    stdout: |-
+        fout
+        Tu vérifies
+  - stdin: "Vous remercie"
+    stdout: |-
+        fout
+        Vous remerciez
+  - stdin: "Nous publie"
+    stdout: |-
+        fout
+        Nous publions
 
 
 
