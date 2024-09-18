@@ -1,4 +1,4 @@
-### Test les 1+2 vraag c
+### Test les 1+2 vraag c: vervoeging herkennen (uitdaging)
 Schrijf een programma dat een vervoegd werkwoord (op -ER, -IR of -RE) vraagt. Het programma zegt in welke tijd (imparfait, futur simple, conditionnel présent) en volgens welke persoonsvorm (Je, Tu, Il, Nous, Vous, Ils) het werkwoord vervoegd is.
 
 **Opmerking:** de werkwoorden op -IR zijn van het type dormir.
