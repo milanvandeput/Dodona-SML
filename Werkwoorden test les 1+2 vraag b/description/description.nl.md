@@ -7,7 +7,7 @@ Het programma print de vervoeging in de juiste persoon.
 
 **Tip:** Werk geval per geval, en test je code!
 
-**Tip:** Kijk op Smartschool of bij https://conjugaison.lemonde.fr/conjugaison/search?verb=dormir voor de vervoegingen
+**Tip:** Kijk op Smartschool of bij https://conjugaison.lemonde.fr/conjugaison/search?verb=dormir als je de vervoegingen niet vanbuiten kent.
 
 
 ### Voorbeeld
