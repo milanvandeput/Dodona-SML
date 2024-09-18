@@ -13,6 +13,7 @@ woord1=zingesplitst[0]
 woord2=zingesplitst[1]
 ```
 
+**Tip:** Je zal goed moeten nadenken over hoe je de stam en de uitgang onderscheid van elkaar.
 
 ### Voorbeeld
 **Invoer:**
