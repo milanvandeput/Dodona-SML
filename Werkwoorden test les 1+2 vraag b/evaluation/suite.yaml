@@ -13,7 +13,7 @@
   - stdin: |-
       attendre
       Ils
-      Ils attendaient
+      imparfait
     stdout: "Je parlais"
   - stdin: |-
       penser
