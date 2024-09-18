@@ -3,7 +3,7 @@ Nu heb je al een aantal programma's geschreven die een werkwoord kunnen vervoege
 
 Schrijf een programma dat een persoonsvorm + vervoegd werkwoord als input vraagt. Het programma zegt eerst of de vervoeging juist/fout is. Indien fout, dan geeft het programma de juiste vervoeging.
 
-*Je mag er in deze oefening vanuitgaan dat alle werwoorden van het basistype 'parler' zijn.*
+*Je mag er in deze oefening vanuitgaan dat alle werkwoorden van het basistype 'parler' zijn.*
 
 **Tip:** Je kan een string splitsen met het commando *.split()*
 
