@@ -1,13 +1,51 @@
 - tab: "Testen"
   testcases:
-  - stdin: "penser"
-    stdout: "Je pense"
-  - stdin: "parler"
-    stdout: "Je parle"
-  - stdin: "crier"
-    stdout: "Je crie"
-  - stdin: "vérifier"
-    stdout: 'Je vérifie'
+  - stdin: |-
+      parler
+      Je
+      imparfait
+    stdout: "Je parlais"
+  - stdin: |-
+      mentir
+      Nous
+      imparfait
+    stdout: "Nous mentions"
+  - stdin: |-
+      attendre
+      Ils
+      Ils attendaient
+    stdout: "Je parlais"
+  - stdin: |-
+      penser
+      Tu
+      futur simple
+    stdout: "Tu penseras"
+  - stdin: |-
+      dormir
+      Vous
+      futur simple
+    stdout: "Vous dormirez"
+  - stdin: |-
+      rendre
+      Je
+      futur simple
+    stdout: "Je rendrais"
+  - stdin: |-
+      servir
+      Je
+      conditionnel présent
+    stdout: "Je servirais"
+  - stdin: |-
+      publier
+      Nous
+      conditionnel présent
+    stdout: "Nous publierions"
+  - stdin: |-
+      perdre
+      Il
+      conditionnel présent
+    stdout: "Il perdrait"
+
     
 
 
