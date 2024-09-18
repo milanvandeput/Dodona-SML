@@ -5,7 +5,7 @@ Het programma print de vervoeging in de juiste persoon.
 
 **Tip:** De werkwoorden op -IR zijn allemaal van het type dormir.
 
-**Tip:** Werk geval per geval, de testen zijn onderverdeeld per tijd.
+**Tip:** Werk geval per geval, en test je code!
 
 **Tip:** Kijk op Smartschool of bij https://conjugaison.lemonde.fr/conjugaison/search?verb=dormir voor de vervoegingen
 
