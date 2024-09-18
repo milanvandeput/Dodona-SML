@@ -1,19 +1,22 @@
-### Werkwoorden op -ER 
-Schrijf een programma dat een werkwoorden (op -ER) vraagt. 
+### Test les 1+2 vraag b: tijden
+Schrijf een programma dat een persoonsvorm (Je, Tu, Il, Nous, Vous, Ils), een werkwoord (-ER, -IR, -RE) en een tijd (imparfait, futur simple, conditionnel présent) vraagt.
 
-Het programma print de vervoeging in eerste persoon enkelvoud (Je ...).
+Het programma print de vervoeging in de juiste persoon.
 
-```python
-    #De x laatste letters verwijderen achteraan een string
-    nieuwe_string = string[:-x]
-```
+**Tip:** De werkwoorden op -IR zijn allemaal van het type dormir.
+
+**Tip:** Werk geval per geval, de testen zijn onderverdeeld per tijd.
+
+**Tip:** Kijk po Smartschool of bij https://conjugaison.lemonde.fr/conjugaison/search?verb=dormir voor de vervoegingen
 
 
 ### Voorbeeld
 **Invoer:**
 
     parler
+    Je
+    futur simple
     
 **Uitvoer:**
 
-    Je parle
+    Je parlerai
