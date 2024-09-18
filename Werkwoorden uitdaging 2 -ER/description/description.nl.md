@@ -1,21 +1,20 @@
-### Uitdaging: types van werkwoorden op -ER 
-In de voorgaande oefeningen hebben we verondersteld dat de werkwoorden op -ER steeds van hetzelfde type waren. Maar er zijn natuurlijk ook nog uitzonderingen.
+### Uitdaging 2: fouten verbeteren van werkwoorden op -ER 
+we gaan enkel uit van basis type parler
 
-Schrijf een programma dat een werkwoord op -ER en de persoonsvorm vraagt. 
+zeg juist of fout
 
-Het programma print de juiste vervoeging met de persoonsvorm
+verbeter indien fout
 
-**Tip:** je kan de lijst van types met de regels vinden op Smartschool. In deze oefening testen we alle types van 1. VERBES EN -ER op pagina 1 en 2.
 
-**Tip:** werk geval per geval. Alle types tegelijk proberen behandelen kan nog overweldigend zijn. Zie elk gelukt type als een succes :)
+**Tip:** hoe splitsen?
 
 
 ### Voorbeeld
 **Invoer:**
 
-    acheter
-    Tu
+    Je parles
     
 **Uitvoer:**
 
-    Tu achètes
+    fout
+    Je parle
