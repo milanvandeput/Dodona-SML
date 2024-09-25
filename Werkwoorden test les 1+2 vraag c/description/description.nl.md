@@ -22,3 +22,14 @@ Het programma print de vervoeging in de juiste persoon.
 **Uitvoer:**
 
     Je parlerai
+
+### Voorbeeld
+**Invoer:**
+
+    rendre
+    Nous
+    conditionnel présent
+    
+**Uitvoer:**
+
+    Nous rendrions
