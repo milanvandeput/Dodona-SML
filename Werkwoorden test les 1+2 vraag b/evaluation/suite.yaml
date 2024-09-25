@@ -1,50 +1,29 @@
 - tab: "Testen"
   testcases:
   - stdin: |-
-      parler
-      Je
-      imparfait
-    stdout: "Je parlais"
-  - stdin: |-
-      mentir
-      Nous
-      imparfait
-    stdout: "Nous mentions"
-  - stdin: |-
-      attendre
-      Ils
-      imparfait
-    stdout: "Ils attendaient"
-  - stdin: |-
       penser
       Tu
-      futur simple
     stdout: "Tu penseras"
   - stdin: |-
       dormir
       Vous
-      futur simple
     stdout: "Vous dormirez"
   - stdin: |-
       rendre
       Je
-      futur simple
     stdout: "Je rendrai"
   - stdin: |-
       servir
-      Je
-      conditionnel présent
-    stdout: "Je servirais"
+      Nous
+    stdout: "Nous servirons"
   - stdin: |-
       publier
-      Nous
-      conditionnel présent
-    stdout: "Nous publierions"
+      Ils
+    stdout: "Ils publieront"
   - stdin: |-
       perdre
       Il
-      conditionnel présent
-    stdout: "Il perdrait"
+    stdout: "Il perdra"
 
     
 
