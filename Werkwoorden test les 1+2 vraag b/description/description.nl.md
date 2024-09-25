@@ -1,11 +1,9 @@
-### Test les 1+2 vraag b: tijden
-Schrijf een programma dat een persoonsvorm (Je, Tu, Il, Nous, Vous, Ils), een werkwoord (-ER, -IR, -RE) en een tijd (imparfait, futur simple, conditionnel présent) vraagt.
+### Test les 1+2 vraag b: futur simple
+Schrijf een programma dat een persoonsvorm (Je, Tu, Il, Nous, Vous, Ils), een werkwoord (-ER, -IR, -RE) vraagt.
 
-AANPASSEN
+Het programma print de juiste vervoeging van het werkwoord in de **futur simple**
 
-Het programma print de vervoeging in de juiste persoon.
-
-**Tip:** De werkwoorden op -IR zijn allemaal van het type dormir.
+**Tip:** Denk eraan dat de infinitif van werkwoorden op -RE zonder 'e' is. Bijvoorbeeld je rendr+ai.
 
 **Tip:** Werk geval per geval, en test je code!
 
@@ -17,7 +15,6 @@ Het programma print de vervoeging in de juiste persoon.
 
     parler
     Je
-    futur simple
     
 **Uitvoer:**
 
