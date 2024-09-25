@@ -1,5 +1,5 @@
 ### Test les 1+2 vraag c: 3 tijden door elkaar
-Schrijf een programma dat een persoonsvorm (Je, Tu, Il, Nous, Vous, Ils), een werkwoord (-ER, -IR, -RE) en een tijd (imparfait, futur simple, conditionnel présent) vraagt.
+Schrijf een programma dat een persoonsvorm (Je, Tu, Il, Nous, Vous, Ils), een werkwoord (-ER, -IR, -RE) **en een tijd (imparfait, futur simple, conditionnel présent)** vraagt.
 
 Het programma print de vervoeging in de juiste persoon.
 
