@@ -1,0 +1,55 @@
+- tab: "Testen"
+  testcases:
+  - stdin: "pensais"
+    stdout: |-
+          Je of Tu
+          imparfait
+  - stdin: "mentions"
+    stdout: |-
+          Nous
+          imparfait
+  - stdin: "attendaient"
+    stdout: |-
+          Ils
+          imparfait
+  - stdin: "attendiez"
+    stdout: |-
+          Vous
+          imparfait
+  - stdin: "penseras"
+    stdout: |-
+          Tu
+          futur simple
+  - stdin: "dormirez"
+    stdout: |-
+          Vous
+          futur simple
+  - stdin: "rendrai"
+    stdout: |-
+          Je
+          futur simple
+  - stdin: "dormirons"
+    stdout: |-
+          Nous
+          futur simple
+  - stdin: "servirais"
+    stdout: |-
+          Je of Tu
+          conditionnel présent
+  - stdin: "parleriez"
+    stdout: |-
+          Vous
+          conditionnel présent
+  - stdin: "publierions"
+    stdout: |-
+          Nous
+          conditionnel présent
+  - stdin: "perdrait"
+    stdout: |-
+          Il
+          conditionnel présent
+
+    
+
+
+  
