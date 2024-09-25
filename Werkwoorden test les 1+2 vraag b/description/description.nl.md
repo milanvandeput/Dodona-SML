@@ -1,6 +1,8 @@
 ### Test les 1+2 vraag b: tijden
 Schrijf een programma dat een persoonsvorm (Je, Tu, Il, Nous, Vous, Ils), een werkwoord (-ER, -IR, -RE) en een tijd (imparfait, futur simple, conditionnel présent) vraagt.
 
+AANPASSEN
+
 Het programma print de vervoeging in de juiste persoon.
 
 **Tip:** De werkwoorden op -IR zijn allemaal van het type dormir.
