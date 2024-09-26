@@ -17,4 +17,4 @@ Het programma print de vervoegingen op Je, Tu, Il, Nous, Vous en Ils in de **imp
     Il parlait
     Nous parlions
     Vous parliez
-    Ils parlient
+    Ils parlaient
