@@ -1,19 +1,14 @@
-### Werkwoorden op -ER 
-Schrijf een programma dat een werkwoorden (op -ER) vraagt. 
+### Werkwoorden onregelmatig 2a
+Kopieer de lijst met de vervoegingen van être uit de vorige oefening.
 
-Het programma print de vervoeging in eerste persoon enkelvoud (Je ...).
-
-```python
-    #De x laatste letters verwijderen achteraan een string
-    nieuwe_string = string[:-x]
-```
+Schrijf een programma dat een persoonsvorm geeft. De juiste vervoeging van être wordt opgezocht in de lijst en geprint.
 
 
 ### Voorbeeld
 **Invoer:**
 
-    parler
+    Je
     
 **Uitvoer:**
 
-    Je parle
+    Je suis
