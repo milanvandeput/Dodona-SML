@@ -9,11 +9,11 @@
       4
     stdout: "Nous disons"
   - stdin: |- 
-      étre
+      être
       2
     stdout: "Tu es"
   - stdin: |- 
-      étre
+      être
       6
     stdout: "Ils ont"
   - stdin: |- 
