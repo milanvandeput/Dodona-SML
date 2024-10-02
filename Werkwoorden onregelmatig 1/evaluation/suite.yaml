@@ -1,6 +1,6 @@
 - tab: "Testen"
   testcases:
-  - stdout: "1"
+  - stdout: "['suis', 'es', 'est', 'sommes', 'êtes', 'ont']"
 
     
 
