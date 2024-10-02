@@ -1,19 +1,15 @@
-### Werkwoorden op -ER 
-Schrijf een programma dat een werkwoorden (op -ER) vraagt. 
+### Werkwoorden onregelmatig 1
+Schrijf een programma dat een lijst maakt met de vervoegingen van het werkwoord être. 
 
-Het programma print de vervoeging in eerste persoon enkelvoud (Je ...).
+Begin een lijst te maken met het commando *[]*
 
 ```python
-    #De x laatste letters verwijderen achteraan een string
-    nieuwe_string = string[:-x]
+    lijstêtre=[]
+```
+Voeg elementen toe aan de lijst met het commando *append*
+
+```python
+    lijstêtre.append("suis")
 ```
 
-
-### Voorbeeld
-**Invoer:**
-
-    parler
-    
-**Uitvoer:**
-
-    Je parle
+Print op het einde de volledige lijst.
