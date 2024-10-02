@@ -1,7 +1,6 @@
 - tab: "Testen"
   testcases:
-  - stdin:  
-    stdout: 1
+  - stdout: 1
 
     
 
