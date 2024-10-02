@@ -1,0 +1,19 @@
+- tab: "Testen"
+  testcases:
+  - stdin: "1"
+    stdout: "Je suis"
+  - stdin: "2"
+    stdout: "Tu es"
+  - stdin: "3"
+    stdout: "Il est"
+  - stdin: "4"
+    stdout: "Nous sommes"
+  - stdin: "5"
+    stdout: "Vous êtes"
+  - stdin: "6"
+    stdout: "Ils ont"
+
+    
+
+
+  
