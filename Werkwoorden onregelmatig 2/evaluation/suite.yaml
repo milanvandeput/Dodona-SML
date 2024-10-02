@@ -1,13 +1,18 @@
 - tab: "Testen"
   testcases:
-  - stdin: "penser"
-    stdout: "Je pense"
-  - stdin: "parler"
-    stdout: "Je parle"
-  - stdin: "crier"
-    stdout: "Je crie"
-  - stdin: "vérifier"
-    stdout: 'Je vérifie'
+  - stdin: "Je"
+    stdout: "Je suis"
+  - stdin: "Tu"
+    stdout: "Tu es"
+  - stdin: "Il"
+    stdout: "Il est"
+  - stdin: "Nous"
+    stdout: "Nous sommes"
+  - stdin: "Vous"
+    stdout: "Vous êtes"
+  - stdin: "Ils"
+    stdout: "Ils ont"
+
     
 
 
