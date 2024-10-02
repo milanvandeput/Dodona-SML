@@ -1,19 +1,44 @@
-### Werkwoorden op -ER 
-Schrijf een programma dat een werkwoorden (op -ER) vraagt. 
+### Werkwoorden onregelmatig 4 
+Schrijf een programma dat de 6 vervoegingen van een (onregelmatig) werkwoord vraagt.
 
-Het programma print de vervoeging in eerste persoon enkelvoud (Je ...).
+Het programma voegt alle vervoegingen toe aan een lijst.
 
-```python
-    #De x laatste letters verwijderen achteraan een string
-    nieuwe_string = string[:-x]
-```
+Daarna vraagt het programma een nummer van een persoonsvorm (1=Je, 2=Tu, ...) 
+
+Het programma print de juiste vervoeging door het te gaan opzoeken in de lijst.
+
+**Extra:** de gebruiker kan ook het nummer *0* invoeren. In dat geval moet het programma de volledige lijst met uitgangen printen.
+
 
 
 ### Voorbeeld
 **Invoer:**
 
-    parler
+    bois
+    bois
+    boit
+    buvons
+    buvez
+    boivent
+    4
     
 **Uitvoer:**
 
-    Je parle
+    Nous buvons
+
+### Voorbeeld (extra)
+**Invoer:**
+
+    bois
+    bois
+    boit
+    buvons
+    buvez
+    boivent
+    0
+    
+**Uitvoer:**
+
+    ['bois', 'bois', 'boit', 'buvons', 'buvez', 'boivent']
+
+
