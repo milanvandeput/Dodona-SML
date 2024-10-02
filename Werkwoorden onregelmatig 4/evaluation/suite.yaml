@@ -26,17 +26,17 @@
             buvez
             boivent
             0
-      stdout: "["bois","bois","boit","buvons","buvez","boivent"]"
-      - stdin: |-
-          crois
-          crois
-          croit
-          croyons
-          croyez
-          croient
-          3
+    stdout: "["bois","bois","boit","buvons","buvez","boivent"]"
+  - stdin: |-
+        crois
+        crois
+        croit
+        croyons
+        croyez
+        croient
+        3
     stdout: "Il croit"
-    - stdin: |-
+  - stdin: |-
           crois
           crois
           croit
