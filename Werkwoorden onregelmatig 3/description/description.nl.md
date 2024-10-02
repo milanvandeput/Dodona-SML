@@ -1,19 +1,19 @@
-### Werkwoorden op -ER 
-Schrijf een programma dat een werkwoorden (op -ER) vraagt. 
+### Werkwoorden onregelmatig 3
+*Dit is een eerste herhalingsoefening op wat we hiervoor hebben gezien.* 
 
-Het programma print de vervoeging in eerste persoon enkelvoud (Je ...).
+Schrijf een programma dat een (onregelmatig) werkwoord (étre, aller, dire) vraagt en een nummer van een persoonsvorm.
 
-```python
-    #De x laatste letters verwijderen achteraan een string
-    nieuwe_string = string[:-x]
-```
+Het programma print de juiste vervoeging.
+
+**Tip:** begin met het maken van de lijsten met vervoegingen van de 3 werkwoorden.
 
 
 ### Voorbeeld
 **Invoer:**
 
-    parler
+    aller
+    1
     
 **Uitvoer:**
 
-    Je parle
+    Je vais
