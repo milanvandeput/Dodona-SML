@@ -1,0 +1,14 @@
+- tab: "Testen"
+  testcases:
+  - stdin: "penser"
+    stdout: "Je pense"
+  - stdin: "parler"
+    stdout: "Je parle"
+  - stdin: "crier"
+    stdout: "Je crie"
+  - stdin: "vérifier"
+    stdout: 'Je vérifie'
+    
+
+
+  
