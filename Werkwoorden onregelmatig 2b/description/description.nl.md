@@ -3,7 +3,14 @@ In de vorige oefening heb je waarschijnlijk 6 aparte gevallen gebruikt om alle p
 
 Schrijf hetzelfde programma maar deze keer geeft de gebruiker een nummer voor de persoonsvorm (1=Je, 2=Tu, ...)
 
-**Ga via de index de juiste vervoeging uit de lijst halen. Gebruik geen if/else!**
+Maak gebruik van de lijst met persoonsvormen
+```python
+pvlijst=["Je", "Tu", "Il", "Nous", "Vous", "Ils"]
+```
+
+Haal via de index de juiste persoonsvorm uit de 'pvlijst' en de juiste vervoeging uit de 'êtrelijst'
+ 
+**Gebruik geen if/else!**
 
 
 ### Voorbeeld
