@@ -1,7 +1,7 @@
 - tab: "Testen"
   testcases:
   - stdin:  
-    stdout: "["suis", "es", "est", "sommes", "êtes", "ont"]"
+    stdout: ['suis', 'es', 'est', 'sommes', 'êtes', 'ont']
 
     
 
