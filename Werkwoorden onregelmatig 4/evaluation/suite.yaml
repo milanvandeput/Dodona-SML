@@ -1,13 +1,51 @@
 - tab: "Testen"
   testcases:
-  - stdin: "penser"
-    stdout: "Je pense"
-  - stdin: "parler"
-    stdout: "Je parle"
-  - stdin: "crier"
-    stdout: "Je crie"
-  - stdin: "vérifier"
-    stdout: 'Je vérifie'
+  - stdin: |-
+          bois
+          bois
+          boit
+          buvons
+          buvez
+          boivent
+          2
+    stdout: "Tu bois"
+  - stdin: |-
+            bois
+            bois
+            boit
+            buvons
+            buvez
+            boivent
+            5
+      stdout: "Vous buvez"
+  - stdin: |-
+            bois
+            bois
+            boit
+            buvons
+            buvez
+            boivent
+            0
+      stdout: "["bois","bois","boit","buvons","buvez","boivent"]"
+      - stdin: |-
+          crois
+          crois
+          croit
+          croyons
+          croyez
+          croient
+          3
+    stdout: "Il croit"
+    - stdin: |-
+          crois
+          crois
+          croit
+          croyons
+          croyez
+          croient
+          4
+    stdout: "Nous croyons"
+
     
 
 
