@@ -15,7 +15,7 @@
   - stdin: |- 
       être
       6
-    stdout: "Ils ont"
+    stdout: "Ils sont"
   - stdin: |- 
       aller
       3
