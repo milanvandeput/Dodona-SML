@@ -1,0 +1,21 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Zoektocht 3"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "contact": "Milan Vandeput <milan.vandeput@sml.be>",
+  "internals": {
+    "token": "uxrGVWCmfjFqKMSh5CQupf6mkSC3eiRXhKnUNcC6bUPw-2GaRr4_VXT_4tj_rRnU",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "labels": [
+
+  ]
+}
