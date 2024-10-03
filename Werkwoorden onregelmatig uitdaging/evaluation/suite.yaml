@@ -1,13 +1,69 @@
 - tab: "Testen"
   testcases:
-  - stdin: "penser"
-    stdout: "Je pense"
-  - stdin: "parler"
-    stdout: "Je parle"
-  - stdin: "crier"
-    stdout: "Je crie"
-  - stdin: "vérifier"
-    stdout: 'Je vérifie'
+  - stdin: |-
+           2
+           es
+           1
+           suis
+           5
+           êtes
+           4
+           sommes
+           3
+           est
+           6
+           sont
+           vervoeging
+           3
+    stdout: "est"
+    - stdin: |-
+           4
+           sommes
+           2
+           es
+           1
+           suis
+           5
+           êtes
+           3
+           est
+           6
+           sont
+           vervoeging
+           5
+    stdout: "êtes"
+    - stdin: |-
+           2
+           es
+           1
+           suis
+           5
+           êtes
+           4
+           sommes
+           3
+           est
+           6
+           sont
+           persoonsvorm
+           sommes
+    stdout: "nous"
+    - stdin: |-
+           6
+           sont
+           2
+           es
+           1
+           suis
+           5
+           êtes
+           4
+           sommes
+           3
+           est
+           persoonsvorm
+           sont
+    stdout: "ils"
     
 
 
