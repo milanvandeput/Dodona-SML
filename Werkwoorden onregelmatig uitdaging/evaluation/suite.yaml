@@ -16,7 +16,7 @@
            vervoeging
            3
     stdout: "est"
-    - stdin: |-
+  - stdin: |-
            4
            sommes
            2
@@ -32,7 +32,7 @@
            vervoeging
            5
     stdout: "êtes"
-    - stdin: |-
+  - stdin: |-
            2
            es
            1
@@ -48,7 +48,7 @@
            persoonsvorm
            sommes
     stdout: "nous"
-    - stdin: |-
+  - stdin: |-
            6
            sont
            2
