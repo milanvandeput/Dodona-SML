@@ -11,7 +11,7 @@
   - stdin: "5"
     stdout: "Vous êtes"
   - stdin: "6"
-    stdout: "Ils ont"
+    stdout: "Ils sont"
 
     
 
