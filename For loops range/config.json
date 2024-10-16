@@ -4,7 +4,7 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "For loops"
+      "nl": "For loops: range"
     }
   },
   "evaluation": {
