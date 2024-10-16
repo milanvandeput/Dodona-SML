@@ -1,84 +1,64 @@
-### Loops
+### Loops met een lijst
 
-Loops (of iteraties) worden gebruikt om een stuk code een aantal keer herhaaldelijk te laten uitvoeren.
+Loops kunnen ook gebruikt worden om alle elementen van een lijst af te gaan en een stuk code uit te voeren voor elk element.
 
-We zullen in deze les 3 soorten loops leren.
 
-1. for loops met range()
-2. for loops met een String
-3. while loops 
-
-### for loops met range()
-
-Bij deze *range(n)* loops gebruik je een variabele x *(integer)* die je laat variëren tussen **0 en n-1**. 
-In totaal wordt de code in de for loop dus n keer uitgevoerd!
-
+Voorbeeld 1: alle elementen uit een lijst printen
 ```python
-for x in range(10):
-  print("hallo")
+lijst = [1,2,3,4,5,"hond","kat"]
+for x in lijst:
+    print(x)
 
-#uitvoer:
-hallo
-hallo
-hallo
-hallo
-hallo
-hallo
-hallo
-hallo
-hallo
-hallo
+#uitvoer
+1
+2
+3
+4
+5
+hond
+kat
 ```
 
-Je kan de variabele x zelf natuurlijk ook gebruiken in deze code. Zo krijg je telkens een andere uitvoer
+Voorbeeld 2: alle elementen uit een lijst dubbel printen
 ```python
-for x in range(10):
-  print(2*x)
+lijst = [1,2,3,4,5,"hond","kat"]
+for x in lijst:
+    print(2*x)
+print(lijst)     #de lijst zelf is niet aangepast!
 
-#uitvoer:
-0
+
+#uitvoer
 2
 4
 6
 8
 10
-12
-14
-16
-18
+hondhond
+katkat
+[1,2,3,4,5,"hond","kat"]
 ```
 
-Als je de loop wil laten beginnen bij een andere waarde dan 0, gebruik dan 2 parameters bij de range:
+### Elementen aanpassen in de lijst
+
+
+Er is ook een tweede methode, die gebruikt maakt van de **indexen**. Deze methode laat ons toe om elementen in de lijst aan te passen.
+
+We gebruiken voor deze methode een **range() for-loop** die alle indexen afgaat. Hiervoor moeten we natuurlijk wel weten hoeveel elementen er in de lijst zitten. Dit kan eenvoudig met de functie **len()**.
+
+
+Voorbeeld 3: alle elementen in een lijst verdubbelen en terug in de lijst zetten. 
 ```python
-for x in range(5,10):
-  print(x)
+lijst = [1,2,3,4,5,"hond","kat"]
+print(len(lijst))
+for i in range(len(lijst)):     #i zal nu alle getallen aannemen van 0 t.e.m. 6
+    element = lijst[i]
+    elementdubbel = 2*element
+    lijst[i] = elementdubbel
+print(lijst)    #de lijst is nu wel aangepast!
 
-#uitvoer:
-5
-6
-7
-8
-9
+
+#uitvoer
+[2,4,6,8,10,"hondhond","katkat"]
+
 ```
 
-### for loops met een String
-
-Een ander type for loops gebruikt een String waarbij er voor elk teken van de String, de code een keer wordt uitgevoerd.
-
-*x is dus nu van het datatype String*
-
-```python
-for x in "woorden":
-  print(x)
-
-#uitvoer:
-w
-o
-o
-r
-d
-e
-n
-```
-
-*Het derde type loops, while loops, komt later aan bod.*
