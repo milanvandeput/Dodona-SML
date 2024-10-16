@@ -1,1 +1,1 @@
-Les 3 uitleg for loops (met range of met string)
+Uitleg for loops met list
