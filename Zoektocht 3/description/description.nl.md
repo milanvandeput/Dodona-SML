@@ -11,5 +11,5 @@ lijst = [311, 527, 349, 59, 811, 573, 951, 96, 583, 290, 122, 104, 975, 751, 675
 2. Verplaats dit getal vijf plaatsen naar links in de lijst.
 3. Draai de lijst om.
 4. Zoek het zevende element in de lijst.
-5. Tel dit getal op bij de **oorspronkelijke** index van het hoogste element.
+5. Tel dit element op bij de **oorspronkelijke** index van het hoogste element (uit stap 1).
 6. Print deze som.
