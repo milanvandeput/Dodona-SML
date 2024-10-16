@@ -1,17 +1,11 @@
-### Loops
+### Loops met range()
 
 Loops (of iteraties) worden gebruikt om een stuk code een aantal keer herhaaldelijk te laten uitvoeren.
 
-We zullen in deze les 3 soorten loops leren.
-
-1. for loops met range()
-2. for loops met een String
-3. while loops 
-
-### for loops met range()
+Hier leren we de **for loops met een range()** gebruiken.
 
 Bij deze *range(n)* loops gebruik je een variabele x *(integer)* die je laat variëren tussen **0 en n-1**. 
-In totaal wordt de code in de for loop dus n keer uitgevoerd!
+In totaal wordt de code in de for loop dus n keer uitgevoerd.
 
 ```python
 for x in range(10):
@@ -61,24 +55,3 @@ for x in range(5,10):
 9
 ```
 
-### for loops met een String
-
-Een ander type for loops gebruikt een String waarbij er voor elk teken van de String, de code een keer wordt uitgevoerd.
-
-*x is dus nu van het datatype String*
-
-```python
-for x in "woorden":
-  print(x)
-
-#uitvoer:
-w
-o
-o
-r
-d
-e
-n
-```
-
-*Het derde type loops, while loops, komt later aan bod.*
