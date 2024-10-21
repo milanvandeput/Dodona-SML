@@ -1,51 +1,33 @@
 - tab: "Testen"
   testcases:
   - stdin: |-
-          bois
-          bois
-          boit
-          buvons
-          buvez
-          boivent
+          imparfait
+          1
+    stdout: "étais"
+  - stdin: |-
+          imparfait
+          3
+    stdout: "était"
+  - stdin: |-
+          futur simple
           2
-    stdout: "Tu bois"
+    stdout: "seras"
   - stdin: |-
-            bois
-            bois
-            boit
-            buvons
-            buvez
-            boivent
-            5
-    stdout: "Vous buvez"
-  - stdin: |-
-            bois
-            bois
-            boit
-            buvons
-            buvez
-            boivent
-            0
-    stdout: "['bois', 'bois', 'boit', 'buvons', 'buvez', 'boivent']"
-  - stdin: |-
-        crois
-        crois
-        croit
-        croyons
-        croyez
-        croient
-        3
-    stdout: "Il croit"
-  - stdin: |-
-          crois
-          crois
-          croit
-          croyons
-          croyez
-          croient
+          futur simple
           4
-    stdout: "Nous croyons"
+    stdout: "serons"
+  - stdin: |-
+          conditionnel présent
+          5
+    stdout: "seriez"
+  - stdin: |-
+          conditionnel présent
+          6
+    stdout: "seraient"
 
+  
+  
+   
     
 
 
