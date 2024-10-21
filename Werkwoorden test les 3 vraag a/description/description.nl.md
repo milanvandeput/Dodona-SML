@@ -1,44 +1,25 @@
-### Werkwoorden onregelmatig 4 
-Schrijf een programma dat de 6 vervoegingen van een (onregelmatig) werkwoord vraagt.
+### Test les 3 vraag a 
+Schrijf een programma dat een tijd (imparfait, futur simple, conditionnel présent) vraagt en het nummer van een persoonsvorm (1,2,3,4,5,6).
 
-Het programma voegt alle vervoegingen toe aan een lijst.
+Het programma haalt de juiste vervoeging van être uit de juiste lijst.
 
-Daarna vraagt het programma een nummer van een persoonsvorm (1=Je, 2=Tu, ...) 
+Maak gebruik van de volgende lijsten:
 
-Het programma print de juiste vervoeging door het te gaan opzoeken in de lijst.
-
-**Extra:** de gebruiker kan ook het nummer *0* invoeren. In dat geval moet het programma de volledige lijst met uitgangen printen.
-
+```python
+l_imparfait=["étais","étais","était","étions","étiez","étaient"]
+l_futursimple=["serai","seras","sera","serons","serez","seront"]
+l_conditionnel=["serais","serais","serait","serions","seriez","seraient"]
+```
 
 
 ### Voorbeeld
 **Invoer:**
 
-    bois
-    bois
-    boit
-    buvons
-    buvez
-    boivent
-    4
+    imparfait
+    1
     
 **Uitvoer:**
 
-    Nous buvons
-
-### Voorbeeld (extra)
-**Invoer:**
-
-    bois
-    bois
-    boit
-    buvons
-    buvez
-    boivent
-    0
-    
-**Uitvoer:**
-
-    ['bois', 'bois', 'boit', 'buvons', 'buvez', 'boivent']
+    étais
 
 
