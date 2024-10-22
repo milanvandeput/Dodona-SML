@@ -1,25 +1,29 @@
-### Test les 3 vraag a 
-Schrijf een programma dat een tijd (imparfait, futur simple, conditionnel présent) vraagt en het nummer van een persoonsvorm (1,2,3,4,5,6).
+### Test les 3 vraag b
+Jan gaat de 6 vervoegingen van een onregelmatig werkwoord om de beurt opsommen.
 
-Het programma haalt de juiste vervoeging van être uit de juiste lijst.
+Schrijf een programma dat deze 6 vervoegingen als input vraagt en ze in een lijst zet.
 
-Maak gebruik van de volgende lijsten:
+Dan merkt Jan op dat hij een fout heeft gemaakt. Hij zegt eerst het hoeveelste werkwoord fout was, en geeft daarna de correcte vervoeging door.
 
-```python
-l_imparfait=["étais","étais","était","étions","étiez","étaient"]
-l_futursimple=["serai","seras","sera","serons","serez","seront"]
-l_conditionnel=["serais","serais","serait","serions","seriez","seraient"]
-```
+Schrijf een programma dat de lijst aanpast naar de juiste lijst.
+
+Print de juiste lijst
 
 
 ### Voorbeeld
 **Invoer:**
 
-    imparfait
-    1
+    ai
+    as
+    a
+    avons
+    aveeeez
+    ont
+    5        #Jan zegt hier welke vervoeging fout was.
+    avez     #Jan geeft de correcte vervoeging door.
     
 **Uitvoer:**
 
-    étais
+    ['ai','as','a','avons','avez','ont']
 
 
