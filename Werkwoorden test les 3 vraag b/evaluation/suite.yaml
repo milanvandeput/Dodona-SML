@@ -1,29 +1,71 @@
 - tab: "Testen"
   testcases:
   - stdin: |-
-          imparfait
-          1
-    stdout: "étais"
+            bois
+            boix
+            boit
+            buvons
+            buvez
+            boivent
+            2
+            bois
+            
+    stdout: "['bois', 'bois', 'boit', 'buvons', 'buvez', 'boivent']"
   - stdin: |-
-          imparfait
-          3
-    stdout: "était"
+            boib
+            bois
+            boit
+            buvons
+            buvez
+            boivent
+            1
+            bois
+            
+    stdout: "['bois', 'bois', 'boit', 'buvons', 'buvez', 'boivent']"
   - stdin: |-
-          futur simple
-          2
-    stdout: "seras"
+            bois
+            bois
+            boit
+            buvons
+            buvez
+            boives
+            6
+            boivent
+            
+    stdout: "['bois', 'bois', 'boit', 'buvons', 'buvez', 'boivent']"
   - stdin: |-
-          futur simple
-          4
-    stdout: "serons"
+            suis
+            es
+            es
+            sommes
+            êtes
+            sont
+            3
+            est
+            
+    stdout: "['suis', 'es', 'es', 'sommes', 'êtes', 'sont']"
   - stdin: |-
-          conditionnel présent
-          5
-    stdout: "seriez"
+            suis
+            es
+            est
+            sommons
+            êtes
+            sont
+            4
+            sommes
+            
+    stdout: "['suis', 'es', 'es', 'sommes', 'êtes', 'sont']"
   - stdin: |-
-          conditionnel présent
-          6
-    stdout: "seraient"
+            suit
+            es
+            est
+            sommes
+            êtes
+            sont
+            1
+            suis
+            
+    stdout: "['suis', 'es', 'es', 'sommes', 'êtes', 'sont']"
 
   
   
