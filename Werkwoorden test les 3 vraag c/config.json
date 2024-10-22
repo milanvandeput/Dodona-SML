@@ -1,0 +1,22 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Werkwoorden test les 3 vraag c"
+    }
+  },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "suite.yaml"
+  },
+  "contact": "Milan Vandeput <milan.vandeput@sml.be>",
+  "internals": {
+    "token": "y8WyCxnzTXb2ehFJmxai98MSappGXSGi7I5RtC3iX8GJta6wPuWKwx2QgkV5Xn_k",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "labels": [
+
+  ]
+}
