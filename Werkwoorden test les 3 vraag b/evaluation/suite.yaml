@@ -43,7 +43,7 @@
             3
             est
             
-    stdout: "['suis', 'es', 'es', 'sommes', 'êtes', 'sont']"
+    stdout: "['suis', 'es', 'est', 'sommes', 'êtes', 'sont']"
   - stdin: |-
             suis
             es
@@ -54,7 +54,7 @@
             4
             sommes
             
-    stdout: "['suis', 'es', 'es', 'sommes', 'êtes', 'sont']"
+    stdout: "['suis', 'es', 'est', 'sommes', 'êtes', 'sont']"
   - stdin: |-
             suit
             es
@@ -65,7 +65,7 @@
             1
             suis
             
-    stdout: "['suis', 'es', 'es', 'sommes', 'êtes', 'sont']"
+    stdout: "['suis', 'es', 'est', 'sommes', 'êtes', 'sont']"
 
   
   
