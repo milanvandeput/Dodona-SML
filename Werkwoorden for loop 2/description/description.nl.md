@@ -6,8 +6,11 @@ Schrijf een programma dat de 6 vervoegingen van een (onregelmatig) werkwoord vra
 Het programma voegt alle vervoegingen toe aan een lijst.
 
 Daarna vraagt het programma een nummer van een persoonsvorm (1=Je, 2=Tu, ...) 
+```python
+pv_lijst=["Je","Tu","Il","Nous","Vous","Ils"]
+```
 
-Het programma print de juiste vervoeging door het te gaan opzoeken in de lijst.
+Het programma haalt de juiste persoonsvorm en de juiste vervoeging uit de lijsten.
 
 **Extra:** de gebruiker kan ook het nummer *0* invoeren. In dat geval moet het programma de volledige lijst met uitgangen printen.
 
