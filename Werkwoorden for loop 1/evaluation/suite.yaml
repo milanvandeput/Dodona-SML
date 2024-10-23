@@ -1,7 +1,6 @@
 - tab: "Testen"
-  testcases:
-  - stdin: 
-    stdout: |-
+  testcases: 
+  - stdout: |-
             Je suis
             Tu es
             Il est
