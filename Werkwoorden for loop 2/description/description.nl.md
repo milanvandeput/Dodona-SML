@@ -1,4 +1,6 @@
-### Werkwoorden onregelmatig 4 
+### Werkwoorden for loop 2
+*Deze oefening is dezelfde opgave als 'werkwoorden onregelmatig 4' uit les 3. Maar je moet deze keer een for-loop gebruiken.*
+
 Schrijf een programma dat de 6 vervoegingen van een (onregelmatig) werkwoord vraagt.
 
 Het programma voegt alle vervoegingen toe aan een lijst.
