@@ -2,7 +2,7 @@
 Print alle vervoegingen van être met behulp van een for-loop.
 
 ```python
-etre=["suis","es","est","sommes","êtes","ont"]
+être=["suis","es","est","sommes","êtes","ont"]
 ```
 
 
