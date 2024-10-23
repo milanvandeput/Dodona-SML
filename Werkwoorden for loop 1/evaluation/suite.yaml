@@ -1,12 +1,12 @@
 - tab: "Testen"
   testcases: 
   - stdout: |-
-            Je suis
-            Tu es
-            Il est
-            Nous sommes
-            Vous êtes
-            Ils ont
+            suis
+            es
+            est
+            sommes
+            êtes
+            ont
             
   
      
