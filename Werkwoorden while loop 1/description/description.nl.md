@@ -1,7 +1,7 @@
 ### Werkwoorden while-loop 1
-opzeggen vervoegingen
+Schrijf een programma dat aan de gebruiker een (onbepaald) aantal vervoegingen van een werkwoord vraagt. Het programma voegt al deze vervoegingen aan een lijst toe. Wanneer de gebruiker *stop* typt, wordt de volledige lijst geprint.
 
-print lijst
+Gebruik verplicht een *while-loop* voor deze oefening.
 
 
 ### Voorbeeld
