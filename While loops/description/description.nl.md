@@ -99,8 +99,8 @@ while t<10:
 
 In principe kunnen alle codes die je moet een for-loop schrijft, ook met een while-loop geschreven worden en omgekeerd. Maar voor sommige programma's is de ene soort loop handiger om te gebruiken dan de andere.
 
-  -**for-loops** gebruik je voor lussen waarvan je op voorhand weet hoe vaak ze zichzelf moeten herhalen.
-  -**while-loops** gebruik je voor lussen waarvan je op voorhand niet weet hoe vaak ze zichzelf moeten herhalen.
+  - **for-loops** gebruik je voor lussen waarvan je op voorhand weet hoe vaak ze zichzelf moeten herhalen.
+  - **while-loops** gebruik je voor lussen waarvan je op voorhand niet weet hoe vaak ze zichzelf moeten herhalen.
 
 
 
