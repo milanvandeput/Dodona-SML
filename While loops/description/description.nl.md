@@ -3,6 +3,51 @@
 Naast de for loops bestaan er ook while loops.  Een while loop bestaat uit een voorwaarde *(Boolean)* en zolang deze voorwaarde voldaan *(True)* is, blijft de code in de loop zichzelf herhalen.
 
 
+### Voorbeeld
+
+```python
+doorgaan = True   #Dit is een Booleaanse variabele
+
+while doorgaan:
+  print("hallo")
+
+>>>uitvoer
+hallo
+hallo
+hallo
+hallo
+hallo
+hallo
+hallo
+hallo
+hallo
+...
+
+```
+Deze loop blijft eindeloos herhalen omdat de waarde van de variabele *doorgaan* op *True* blijft staan. Dit willen we natuurlijk niet. We moeten er daarom voor zorgen dat de variabele *doorgaan* ergens de kans krijgt om te veranderen naar *False*, bijvoorbeeld door een nieuwe input.
+
+### Voorbeeld
+```python
+doorgaan = True   #Dit is een Booleaanse variabele
+
+while doorgaan:
+  print("hallo")
+  vraag=input("Moet ik doorgaan? Ja/Nee")
+  if vraag=="Ja":
+    doorgaan=True
+  else
+    doorgaan:False
+
+>>>uitvoer
+hallo   ->input: Ja
+hallo   ->input: Ja
+hallo   ->input: Ja
+hallo   ->input: Ja
+hallo   ->input: Ja
+hallo   ->input: Nee
+...
+
+```
 
 ### Voorbeeld
 
