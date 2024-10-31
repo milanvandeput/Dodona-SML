@@ -1,0 +1,41 @@
+- tab: "Testen"
+  testcases:
+  - stdin: |-
+          suis
+          es
+          est
+          sommes
+          êtes
+          soont
+          
+    stdout: "De juiste vervoeging is sont"
+  - stdin: |-
+          suit
+          
+    stdout: "De juiste vervoeging is suis"
+  - stdin: |-
+          suis
+          es
+          est
+          sommons
+          
+    stdout: "De juiste vervoeging is sommes"
+  - stdin: |-
+          suis
+          es
+          est
+          sommes
+          êtez
+          
+    stdout: "De juiste vervoeging is êtes"
+  - stdin: |-
+          suis
+          es
+          es
+          
+    stdout: "De juiste vervoeging is est"
+
+    
+
+
+  

@@ -1,0 +1,45 @@
+- tab: "Testen"
+  testcases:
+  - stdin: |-
+          bois
+          bois
+          boit
+          buvons
+          buvez
+          boivent
+          stop
+          
+    stdout: "['bois', 'bois', 'boit', 'buvons', 'buvez', 'boivent']"
+  - stdin: |-
+          bois
+          bois
+          boit
+          stop
+          
+    stdout: "['bois', 'bois', 'boit']"
+  - stdin: |-
+          stop
+          
+    stdout: "[]"
+  - stdin: |-
+          suis
+          es
+          est
+          sommes
+          êtes
+          stop
+          
+    stdout: "['suis','es','est','sommes','êtes']"
+  - stdin: |-
+          suis
+          es
+          est
+          sommes
+          êtes
+          sont
+          sera
+          seras
+          stop
+          
+    stdout: "['suis','es','est','sommes','êtes','sont','sera','seras']"
+  
