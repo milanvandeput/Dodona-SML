@@ -29,7 +29,7 @@
           êtes
           stop
           
-    stdout: "['suis','es','est','sommes','êtes']"
+    stdout: "['suis', 'es', 'est', 'sommes', 'êtes']"
   - stdin: |-
           suis
           es
@@ -41,5 +41,5 @@
           seras
           stop
           
-    stdout: "['suis','es','est','sommes','êtes','sont','sera','seras']"
+    stdout: "['suis', 'es', 'est', 'sommes', 'êtes', 'sont', 'sera', 'seras']"
   
