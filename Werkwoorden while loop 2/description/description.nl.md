@@ -1,12 +1,11 @@
 ### Werkwoorden whileloop 2
-hier is lijst etre, gberuiker gaat opzeggen, zeg wanneer fout
+Schrijf een programma dat aan een gebruiker vraagt om de vervoegingen van être op te zegggen. Het programma controleert de antwoorden door ze te gaan opzoeken in deze lijst:
+
 ```python
-pv_lijst=["Je","Tu","Il","Nous","Vous","Ils"]
+êtrelijst=["suis","es","est","sommes","êtes","sont"]
 ```
+Wanneer de gebruiker een fout maakt, print het programma de juiste vervoeging.
 
-Het programma haalt de juiste persoonsvorm en de juiste vervoeging uit de lijsten.
-
-**Extra:** de gebruiker kan ook het nummer *0* invoeren. In dat geval moet het programma de volledige lijst met uitgangen printen.
 
 
 
