@@ -36,7 +36,7 @@ while doorgaan:
   if vraag=="Ja":
     doorgaan=True
   else
-    doorgaan:False
+    doorgaan=False
 
 >>>uitvoer
 hallo   ->input: Ja
@@ -51,7 +51,7 @@ hallo   ->input: Nee
 
 ### Voorbeeld
 
-Een veelgebruikte methode om while loops te schrijven is door een *teller* variabele in te voeren.
+Een andere methode om while loops op tijd te doen stoppen is door een *teller* variabele in te voeren.
 
 ```python
 t = 0   #dit is de teller variabele, voer deze in voor de loop!
@@ -95,22 +95,13 @@ while t<10:
 10  
 ```
 
-### Voorbeeld
-Je kan ook een Booleanse variabele invoeren die aanvankelijk *True* is maar doorheen de code *False* kan worden (en dan stopt de loop).
+### Wanneer gebruiken we een for-loop of een while-loop?
 
-```python
-voorwaarde = True   #dit is de Booleaanse variabele, voer deze in voor de loop!
+In principe kunnen alle codes die je moet een for-loop schrijft, ook met een while-loop geschreven worden en omgekeerd. Maar voor sommige programma's is de ene soort loop handiger om te gebruiken dan de andere.
 
-while voorwaarde:
-  antwoord = input("Moet de loop verder gaan?")
-  if antwoord == "ja":
-    print("de loop gaat verder")
-  else:
-    print("de loop stopt")
-    voorwaarde = False
+  -**for-loops** gebruik je voor lussen waarvan je op voorhand weet hoe vaak ze zichzelf moeten herhalen.
+  -**while-loops** gebruik je voor lussen waarvan je op voorhand niet weet hoe vaak ze zichzelf moeten herhalen.
 
-#test deze code zelf uit bij 'code uitvoeren'
- ```
 
 
 
