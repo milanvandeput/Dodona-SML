@@ -1,0 +1,47 @@
+- tab: "Testen"
+  testcases:
+  - stdin: "l'école"
+    stdout: "aigu"
+  - stdin: "le café"
+    stdout: "aigu"
+  - stdin: "le thé"
+    stdout: "aigu"
+  - stdin: "la météo"
+    stdout: |-
+              aigu
+              aigu
+  - stdin: "très"
+    stdout: "grave"
+  - stdin: "la matière"
+    stdout: "grave"
+  - stdin: "la crème"
+    stdout: "grave"
+  - stdin: "l'hotêl"
+    stdout: "circonflexe"
+  - stdin: "l'hotêl"
+    stdout: "circonflexe"
+  - stdin: "la forêt"
+    stdout: "circonflexe"
+  - stdin: "l'événement"
+    stdout: |-
+              aigu
+              aigu
+  - stdin: "j'avais délégué"
+    stdout: |-
+              aigu
+              aigu
+              aigu
+
+
+
+
+        
+  
+
+  
+  
+   
+    
+
+
+  
