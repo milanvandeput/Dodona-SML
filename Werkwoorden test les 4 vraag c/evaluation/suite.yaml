@@ -103,7 +103,111 @@
           rappeler
           présenter
           accepter
-    stdout: "De uitgang ir komt het meest voor: 15 keer."
+    stdout: "De uitgang ir komt het meest voor: 23 keer."
+  - stdin: |-
+          parler
+          finir
+          rendre
+          être
+          avoir
+          faire
+          partir
+          venir
+          prendre
+          mettre
+          dire
+          pouvoir
+          partir
+          savoir
+          voir
+          partir
+          partir
+          partir
+          comprendre
+          tenir
+          rester
+          porter
+          montrer
+          appeler
+          permettre
+          occuper
+          devenir
+          partir
+          décider
+          arriver
+          servir
+          semblir
+          revenir
+          appeler
+          permettre
+          occuper
+          devenir
+          partir
+          décider
+          arriver
+          servir
+          semblir
+          revenir
+          laisser
+          recevoir
+          répondre
+          vivre
+          rappeler
+          présenter
+          accepter
+    stdout: "De uitgang ir komt het meest voor: 23 keer."
+  - stdin: |-
+          parler
+          finir
+          rendre
+          être
+          voir
+          partir
+          partir
+          partir
+          comprendre
+          tenir
+          rester
+          porter
+          montrer
+          continuer
+          penser
+          suivre
+          connaître
+          croire
+          partir
+          partir
+          voir
+          partir
+          partir
+          partir
+          comprendre
+          tenir
+          rester
+          porter
+          montrer
+          continuer
+          partir
+          partir
+          partir
+          appeler
+          permettre
+          occuper
+          devenir
+          partir
+          décider
+          arriver
+          servir
+          semblir
+          revenir
+          laisser
+          recevoir
+          répondre
+          vivre
+          rappeler
+          présenter
+          accepter
+    stdout: "De uitgang ir komt het meest voor: 23 keer."
    
     
 
