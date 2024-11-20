@@ -120,14 +120,24 @@
           partir
           savoir
           voir
-          partir
-          partir
-          partir
+          prendre
+          mettre
+          dire
           comprendre
           tenir
           rester
-          porter
-          montrer
+          prendre
+          mettre
+          dire
+          permettre
+          occuper
+          devenir
+          partir
+          décider
+          arriver
+          prendre
+          mettre
+          dire
           appeler
           permettre
           occuper
@@ -135,19 +145,9 @@
           partir
           décider
           arriver
-          servir
-          semblir
-          revenir
-          appeler
-          permettre
-          occuper
-          devenir
-          partir
-          décider
-          arriver
-          servir
-          semblir
-          revenir
+          prendre
+          mettre
+          dire
           laisser
           recevoir
           répondre
@@ -207,7 +207,7 @@
           rappeler
           présenter
           accepter
-    stdout: "De uitgang ir komt het meest voor: 23 keer."
+    stdout: "De uitgang ir komt het meest voor: 22 keer."
    
     
 
