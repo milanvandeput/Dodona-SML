@@ -5,6 +5,21 @@ Schrijf een programma dat **honderd** verschillende werkwoorden als input vraagt
 
 **Deel 2:** Het programma telt hoeveel werkwoorden er op *-er* in de lijst zitten. *Tip: gebruik hiervoor het commando .endswith()* 
 
+### Voorbeeld
+**Invoer:**
+  parler
+  finir
+  rendre
+  être
+  ...
+    
+    
+**Uitvoer:**
+
+    ["parler","finir", ...]
+    Er zitten 21 werkwoorden op -er in de lijst.
+    
+
 
 
 
