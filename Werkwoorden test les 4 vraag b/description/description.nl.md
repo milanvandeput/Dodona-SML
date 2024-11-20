@@ -7,6 +7,7 @@ Schrijf een programma dat **honderd** verschillende werkwoorden als input vraagt
 
 ### Voorbeeld
 **Invoer:**
+
   parler
   finir
   rendre
