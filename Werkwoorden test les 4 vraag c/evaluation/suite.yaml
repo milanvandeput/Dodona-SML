@@ -1,32 +1,109 @@
 - tab: "Testen"
   testcases:
   - stdin: |-
-          imparfait
-          1
-    stdout: "étais"
+          parler
+          finir
+          rendre
+          être
+          avoir
+          faire
+          aller
+          venir
+          prendre
+          mettre
+          dire
+          pouvoir
+          vouloir
+          savoir
+          voir
+          demander
+          trouver
+          donner
+          comprendre
+          tenir
+          rester
+          porter
+          montrer
+          continuer
+          penser
+          suivre
+          connaître
+          croire
+          commencer
+          compter
+          entendre
+          attendre
+          remettre
+          appeler
+          permettre
+          occuper
+          devenir
+          partir
+          décider
+          arriver
+          servir
+          sembler
+          revenir
+          laisser
+          recevoir
+          répondre
+          vivre
+          rappeler
+          présenter
+          accepter
+    stdout: "de uitgang er komt het vaakste voor: 21 keer."
   - stdin: |-
-          imparfait
-          3
-    stdout: "était"
-  - stdin: |-
-          futur simple
-          2
-    stdout: "seras"
-  - stdin: |-
-          futur simple
-          4
-    stdout: "serons"
-  - stdin: |-
-          conditionnel présent
-          5
-    stdout: "seriez"
-  - stdin: |-
-          conditionnel présent
-          6
-    stdout: "seraient"
-
-  
-  
+          parler
+          finir
+          rendre
+          être
+          avoir
+          faire
+          aller
+          venir
+          prendre
+          mettre
+          dire
+          pouvoir
+          vouloir
+          savoir
+          voir
+          demander
+          trouver
+          donner
+          comprendre
+          tenir
+          rester
+          porter
+          montrer
+          continuer
+          penser
+          suivre
+          connaître
+          croire
+          partir
+          partir
+          partir
+          partir
+          partir
+          appeler
+          permettre
+          occuper
+          devenir
+          partir
+          décider
+          arriver
+          servir
+          sembler
+          revenir
+          laisser
+          recevoir
+          répondre
+          vivre
+          rappeler
+          présenter
+          accepter
+    stdout: "de uitgang ir komt het vaakste voor: 15 keer."
    
     
 
