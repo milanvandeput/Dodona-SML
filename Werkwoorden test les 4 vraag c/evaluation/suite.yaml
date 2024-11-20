@@ -51,7 +51,7 @@
           rappeler
           présenter
           accepter
-    stdout: "de uitgang er komt het vaakste voor: 21 keer."
+    stdout: "De uitgang er komt het vaakste voor: 21 keer."
   - stdin: |-
           parler
           finir
@@ -103,7 +103,7 @@
           rappeler
           présenter
           accepter
-    stdout: "de uitgang ir komt het vaakste voor: 15 keer."
+    stdout: "De uitgang ir komt het vaakste voor: 15 keer."
    
     
 
