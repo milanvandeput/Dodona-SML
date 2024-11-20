@@ -1,29 +1,107 @@
 - tab: "Testen"
   testcases:
   - stdin: |-
-          imparfait
-          1
-    stdout: "étais"
-  - stdin: |-
-          imparfait
-          3
-    stdout: "était"
-  - stdin: |-
-          futur simple
-          2
-    stdout: "seras"
-  - stdin: |-
-          futur simple
-          4
-    stdout: "serons"
-  - stdin: |-
-          conditionnel présent
-          5
-    stdout: "seriez"
-  - stdin: |-
-          conditionnel présent
-          6
-    stdout: "seraient"
+          parler
+          finir
+          rendre
+          être
+          avoir
+          faire
+          aller
+          venir
+          prendre
+          mettre
+          dire
+          pouvoir
+          vouloir
+          savoir
+          voir
+          demander
+          trouver
+          donner
+          comprendre
+          tenir
+          rester
+          porter
+          montrer
+          continuer
+          penser
+          suivre
+          connaître
+          croire
+          commencer
+          compter
+          entendre
+          attendre
+          remettre
+          appeler
+          permettre
+          occuper
+          devenir
+          partir
+          décider
+          arriver
+          servir
+          sembler
+          revenir
+          laisser
+          recevoir
+          répondre
+          vivre
+          rappeler
+          présenter
+          accepter
+          agir
+          poser
+          jouer
+          reconnaître
+          choisir
+          toucher
+          aimer
+          retrouver
+          perdre
+          expliquer
+          considérer
+          ouvrir
+          gagner
+          exister
+          refuser
+          lire
+          réussir
+          changer
+          travailler
+          représenter
+          assurer
+          essayer
+          empêcher
+          sortir
+          reprendre
+          mener
+          appartenir
+          risquer
+          concerner
+          apprendre
+          rencontrer
+          créer
+          obtenir
+          chercher
+          entrer
+          proposer
+          apporter
+          utiliser
+          atteindre
+          tenter
+          importer
+          ajouter
+          produire
+          préparer
+          relever
+          écrire
+          défendre
+          tirer
+    - stdout: |-
+          ["parler", "finir", "rendre", "être", "avoir", "faire", "aller", "venir", "prendre", "mettre","dire", "pouvoir", "vouloir", "savoir", "voir", "demander", "trouver", "donner", "comprendre", "tenir","rester", "porter", "montrer", "continuer", "penser", "suivre", "connaître", "croire", "commencer", "compter","entendre", "attendre", "remettre", "appeler", "permettre", "occuper", "devenir", "partir", "décider", "arriver","servir", "sembler", "revenir", "laisser", "recevoir", "répondre", "vivre", "rappeler", "présenter", "accepter","agir", "poser", "jouer", "reconnaître", "choisir", "toucher", "aimer", "retrouver", "perdre", "expliquer","considérer", "ouvrir", "gagner", "exister", "refuser", "lire", "réussir", "changer", "travailler", "représenter","assurer", "essayer", "empêcher", "sortir", "reprendre", "mener", "appartenir", "risquer", "concerner", "apprendre","rencontrer", "créer", "obtenir", "chercher", "entrer", "proposer", "apporter", "utiliser", "atteindre", "tenter","importer", "ajouter", "produire", "préparer", "relever", "écrire", "défendre", "tirer"]
+          Er zijn 25 werwoorden op -er in de lijst.
 
   
   

@@ -1,25 +1,11 @@
-### Test les 3 vraag a 
-Schrijf een programma dat een tijd (imparfait, futur simple, conditionnel présent) vraagt en het nummer van een persoonsvorm (1,2,3,4,5,6).
+### Test les 4 vraag b 
+Schrijf een programma dat **honderd** verschillende werkwoorden als input vraagt. 
 
-Het programma haalt de juiste vervoeging van être uit de juiste lijst.
+**Deel 1:** Het programma zet al deze werkwoorden in een lijst en print de lijst.
 
-Maak gebruik van de volgende lijsten:
-
-```python
-l_imparfait=["étais","étais","était","étions","étiez","étaient"]
-l_futursimple=["serai","seras","sera","serons","serez","seront"]
-l_conditionnel=["serais","serais","serait","serions","seriez","seraient"]
-```
+**Deel 2:** Het programma telt hoeveel werkwoorden er op *-er* in de lijst zitten. *Tip: gebruik hiervoor het commando .endswith()* 
 
 
-### Voorbeeld
-**Invoer:**
 
-    imparfait
-    1
-    
-**Uitvoer:**
-
-    étais
 
 
