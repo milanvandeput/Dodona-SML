@@ -17,7 +17,7 @@ Schrijf een programma dat **honderd** verschillende werkwoorden als input vraagt
 **Uitvoer:**
 
     ["parler","finir", ...]
-    Er zitten 21 werkwoorden op -er in de lijst.
+    Er zitten 18 werkwoorden op -er in de lijst.
     
 
 
