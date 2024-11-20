@@ -51,7 +51,7 @@
           rappeler
           présenter
           accepter
-    stdout: "De uitgang er komt het vaakste voor: 21 keer."
+    stdout: "De uitgang er komt het meest voor: 21 keer."
   - stdin: |-
           parler
           finir
@@ -59,18 +59,18 @@
           être
           avoir
           faire
-          aller
+          partir
           venir
           prendre
           mettre
           dire
           pouvoir
-          vouloir
+          partir
           savoir
           voir
-          demander
-          trouver
-          donner
+          partir
+          partir
+          partir
           comprendre
           tenir
           rester
@@ -103,7 +103,7 @@
           rappeler
           présenter
           accepter
-    stdout: "De uitgang ir komt het vaakste voor: 15 keer."
+    stdout: "De uitgang ir komt het meest voor: 15 keer."
    
     
 
