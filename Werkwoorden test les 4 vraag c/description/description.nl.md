@@ -1,25 +1,25 @@
-### Test les 3 vraag a 
-Schrijf een programma dat een tijd (imparfait, futur simple, conditionnel présent) vraagt en het nummer van een persoonsvorm (1,2,3,4,5,6).
+### Test les 4 vraag b 
+Schrijf een programma dat **vijftig** verschillende werkwoorden als input vraagt. 
 
-Het programma haalt de juiste vervoeging van être uit de juiste lijst.
+Het programma zoekt de letter waarmee de meeste woorden beginnen.
 
-Maak gebruik van de volgende lijsten:
-
-```python
-l_imparfait=["étais","étais","était","étions","étiez","étaient"]
-l_futursimple=["serai","seras","sera","serons","serez","seront"]
-l_conditionnel=["serais","serais","serait","serions","seriez","seraient"]
-```
-
+*Tip: gebruik het commando .startswith()*
 
 ### Voorbeeld
+
 **Invoer:**
 
-    imparfait
-    1
+  parler
+  
+  finir
+  
+  rendre
+  
+  être
+  
+  ...
+    
     
 **Uitvoer:**
 
-    étais
-
-
+    De meeste woorden beginnen met een s: 12 keer.
