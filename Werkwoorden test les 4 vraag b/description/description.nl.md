@@ -10,9 +10,13 @@ Schrijf een programma dat **honderd** verschillende werkwoorden als input vraagt
 **Invoer:**
 
   parler
+  
   finir
+  
   rendre
+  
   être
+  
   ...
     
     
