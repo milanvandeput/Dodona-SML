@@ -51,7 +51,7 @@
           rappeler
           présenter
           accepter
-    stdout: "De uitgang er komt het meest voor: 21 keer."
+    stdout: "De meeste woorden beginnen met een p: 8 keer."
   - stdin: |-
           parler
           finir
@@ -59,18 +59,122 @@
           être
           avoir
           faire
-          partir
+          aller
+          venir
+          prendre
+          mettre
+          dire
+          dire
+          vouloir
+          savoir
+          voir
+          demander
+          trouver
+          donner
+          comprendre
+          tenir
+          rester
+          porter
+          montrer
+          continuer
+          dire
+          suivre
+          connaître
+          croire
+          commencer
+          compter
+          entendre
+          attendre
+          remettre
+          appeler
+          permettre
+          occuper
+          devenir
+          devenir
+          décider
+          arriver
+          servir
+          sembler
+          revenir
+          laisser
+          recevoir
+          répondre
+          vivre
+          rappeler
+          présenter
+          accepter
+    stdout: "De meeste woorden beginnen met een p: 8 keer."
+  - stdin: |-
+          parler
+          finir
+          rendre
+          être
+          avoir
+          faire
+          aller
+          venir
+          prendre
+          mettre
+          dire
+          suivre
+          vouloir
+          savoir
+          voir
+          demander
+          trouver
+          donner
+          comprendre
+          tenir
+          rester
+          porter
+          montrer
+          continuer
+          suivre
+          suivre
+          connaître
+          croire
+          commencer
+          compter
+          entendre
+          attendre
+          remettre
+          appeler
+          suivre
+          occuper
+          devenir
+          suivre
+          décider
+          arriver
+          servir
+          sembler
+          revenir
+          laisser
+          recevoir
+          répondre
+          vivre
+          rappeler
+          suivre
+          accepter
+    stdout: "De meeste woorden beginnen met een p: 8 keer."
+  - stdin: |-
+          parler
+          finir
+          rendre
+          être
+          avoir
+          faire
+          aller
           venir
           prendre
           mettre
           dire
           pouvoir
-          partir
+          vouloir
           savoir
           voir
-          partir
-          partir
-          partir
+          demander
+          trouver
+          donner
           comprendre
           tenir
           rester
@@ -81,20 +185,20 @@
           suivre
           connaître
           croire
-          partir
-          partir
-          partir
-          partir
-          partir
+          commencer
+          compter
+          entendre
+          attendre
+          remettre
           appeler
           permettre
           occuper
           devenir
           partir
           décider
-          arriver
+          partir
           servir
-          semblir
+          sembler
           revenir
           laisser
           recevoir
@@ -103,111 +207,9 @@
           rappeler
           présenter
           accepter
-    stdout: "De uitgang ir komt het meest voor: 23 keer."
-  - stdin: |-
-          parler
-          finir
-          rendre
-          être
-          avoir
-          faire
-          partir
-          venir
-          prendre
-          mettre
-          dire
-          pouvoir
-          partir
-          savoir
-          voir
-          prendre
-          mettre
-          dire
-          comprendre
-          tenir
-          rester
-          prendre
-          mettre
-          dire
-          permettre
-          occuper
-          devenir
-          partir
-          décider
-          arriver
-          prendre
-          mettre
-          dire
-          appeler
-          permettre
-          occuper
-          devenir
-          partir
-          décider
-          arriver
-          prendre
-          mettre
-          dire
-          laisser
-          recevoir
-          répondre
-          vivre
-          rappeler
-          présenter
-          accepter
-    stdout: "De uitgang ir komt het meest voor: 23 keer."
-  - stdin: |-
-          parler
-          finir
-          rendre
-          être
-          voir
-          partir
-          partir
-          partir
-          comprendre
-          tenir
-          rester
-          porter
-          montrer
-          continuer
-          penser
-          suivre
-          connaître
-          croire
-          partir
-          partir
-          voir
-          partir
-          partir
-          partir
-          comprendre
-          tenir
-          rester
-          porter
-          montrer
-          continuer
-          partir
-          partir
-          partir
-          appeler
-          permettre
-          occuper
-          devenir
-          partir
-          décider
-          arriver
-          servir
-          semblir
-          revenir
-          laisser
-          recevoir
-          répondre
-          vivre
-          rappeler
-          présenter
-          accepter
-    stdout: "De uitgang ir komt het meest voor: 22 keer."
+    stdout: "De meeste woorden beginnen met een p: 9 keer."
+
+
    
     
 
