@@ -52,8 +52,8 @@
           présenter
           accepter
     stdout: |-
-          "['parler', 'finir', 'rendre', 'être', 'avoir', 'faire', 'aller', 'venir', 'prendre', 'mettre', 'dire', 'pouvoir', 'vouloir', 'savoir', 'voir', 'demander', 'trouver', 'donner', 'comprendre', 'tenir', 'rester', 'porter', 'montrer', 'continuer', 'penser', 'suivre', 'connaître', 'croire', 'commencer', 'compter', 'entendre', 'attendre', 'remettre', 'appeler', 'permettre', 'occuper', 'devenir', 'partir', 'décider', 'arriver', 'servir', 'sembler', 'revenir', 'laisser', 'recevoir', 'répondre', 'vivre', 'rappeler', 'présenter', 'accepter']"
-          "Er zitten 21 werkwoorden op -er in de lijst."
+          ['parler', 'finir', 'rendre', 'être', 'avoir', 'faire', 'aller', 'venir', 'prendre', 'mettre', 'dire', 'pouvoir', 'vouloir', 'savoir', 'voir', 'demander', 'trouver', 'donner', 'comprendre', 'tenir', 'rester', 'porter', 'montrer', 'continuer', 'penser', 'suivre', 'connaître', 'croire', 'commencer', 'compter', 'entendre', 'attendre', 'remettre', 'appeler', 'permettre', 'occuper', 'devenir', 'partir', 'décider', 'arriver', 'servir', 'sembler', 'revenir', 'laisser', 'recevoir', 'répondre', 'vivre', 'rappeler', 'présenter', 'accepter']
+          Er zitten 21 werkwoorden op -er in de lijst.
   - stdin: |-
           faire
           aller
