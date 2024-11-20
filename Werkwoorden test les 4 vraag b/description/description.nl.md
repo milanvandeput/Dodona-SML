@@ -1,5 +1,5 @@
 ### Test les 4 vraag b 
-Schrijf een programma dat **honderd** verschillende werkwoorden als input vraagt. 
+Schrijf een programma dat **vijftig** verschillende werkwoorden als input vraagt. 
 
 **Deel 1:** Het programma zet al deze werkwoorden in een lijst en print de lijst.
 
