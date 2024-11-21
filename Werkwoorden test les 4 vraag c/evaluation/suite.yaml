@@ -103,7 +103,7 @@
           rappeler
           présenter
           accepter
-    stdout: "De meeste woorden beginnen met een r: 7 keer."
+    stdout: "De meeste woorden beginnen met een d: 8 keer."
   - stdin: |-
           parler
           finir
@@ -155,7 +155,7 @@
           rappeler
           suivre
           accepter
-    stdout: "De meeste woorden beginnen met een r: 8 keer."
+    stdout: "De meeste woorden beginnen met een s: 9 keer."
   - stdin: |-
           parler
           finir
