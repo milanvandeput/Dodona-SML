@@ -23,9 +23,9 @@ Python beschikt dus al over heel wat functies. Maar je kan ook zelf een **functi
 Bijvoorbeeld: je wil zelf een functie maken die telkens 10 van een getal aftrekt.
 
 ```python
-def tien_aftrekken(x):  #x moet dus een int of float zijn. Je hoeft niet met x te werken, dit mag eender welke naamgeving zijn.
+def tien_aftrekken(x):  #achter def geef je de naam van je functie. Tussen de haakjes staan de eventuele argumenten.
   y = x-10
-  return(y)             #return is de output die de functie teruggeeft
+  return(y)             #return is de output die de functie teruggeeft.
 ```
 In de bovenstaande code wordt de functie gedefiniëerd. Deze code heeft zelf geen uitvoer. Om een uitvoer te krijgen, moet je de functie ook **oproepen**.
 
