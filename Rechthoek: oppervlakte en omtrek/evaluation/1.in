@@ -1,0 +1,9 @@
+>>> omtrek_rechthoek(2,3)
+12
+>>> omtrek_rechthoek(1,4)
+10
+>>> omtrek_rechthoek(5,10)
+30
+>>> omtrek_rechthoek(7,8)
+30
+

@@ -1,0 +1,9 @@
+>>> oppervlakte_rechthoek(2,3)
+6
+>>> oppervlakte_rechthoek(2,10)
+20
+>>> oppervlakte_rechthoek(1,13)
+13
+>>> oppervlakte_rechthoek(1,1)
+1
+

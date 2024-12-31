@@ -1,0 +1,9 @@
+>>> som_rechthoek(2,3)
+22
+>>> som_rechthoek(1,5)
+17
+>>> som_rechthoek(5,6)
+52
+>>> som_rechthoek(10,2)
+44
+
