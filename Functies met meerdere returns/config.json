@@ -1,18 +1,18 @@
 {
-  "type": "exercise",
+  "type": "content",
   "programming_language": "python",
   "access": "public",
   "description": {
     "names": {
-      "nl": "Verdubbelen lijst"
+      "nl": "Functies met meerdere returns"
     }
   },
   "evaluation": {
-    "pythia_judge": "doctest"
+    "pythia_judge": "output"
   },
   "contact": "Milan Vandeput <milan.vandeput@sml.be>",
   "internals": {
-    "token": "R6c4UgzhPCWIUGzgWVDPKiFb-YZ6mSVm2fiCEu_ST3CpZbvRag4zHciZwdWMYNn7",
+    "token": "Fjk_9zgAxg_M4b_XD_asdDVkRPuJhYuuDYKNcDKJzwYT5wcmWkgzW68ZWyQkWBk8",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   },
   "labels": [
