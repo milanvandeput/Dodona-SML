@@ -1,0 +1,21 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Verdubbelen lijst"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "doctest"
+  },
+  "contact": "Milan Vandeput <milan.vandeput@sml.be>",
+  "internals": {
+    "token": "X9Ud2PtqJ3KAT7dnD6Q7FjRqmaenH-WW35ZwUauWqWBR4cCddZstYUETBzyv8ugA",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "labels": [
+
+  ]
+}
