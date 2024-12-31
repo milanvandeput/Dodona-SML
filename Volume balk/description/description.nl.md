@@ -2,6 +2,8 @@
 
 Definiëer een functie *volume_balk(l,b,h)* die het volume van een balk met gegeven lengte, breedte en hoogte berekent.
 
+Deze functie heeft dus drie **argumenten**. De namen van deze argumenten zijn niet belangrijk. Hier is er gekozen voor *l*, *b* en *h*.
+
 **Invoer:**
 
     >>>volume_balk(10,2,3)
@@ -10,3 +12,12 @@ Definiëer een functie *volume_balk(l,b,h)* die het volume van een balk met gege
 **Uitvoer:**
 
     60
+
+**Invoer:**
+
+    >>>volume_balk(2,2,4)
+
+
+**Uitvoer:**
+
+    16
