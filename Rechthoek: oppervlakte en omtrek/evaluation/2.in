@@ -1,5 +1,5 @@
 >>> som_rechthoek(2,3)
-22
+16
 >>> som_rechthoek(1,5)
 17
 >>> som_rechthoek(5,6)

@@ -1,5 +1,5 @@
 >>> omtrek_rechthoek(2,3)
-12
+10
 >>> omtrek_rechthoek(1,4)
 10
 >>> omtrek_rechthoek(5,10)
