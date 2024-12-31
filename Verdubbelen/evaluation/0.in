@@ -1,0 +1,18 @@
+>>> verdubbelen(1)
+2
+>>> verdubbelen(10)
+20
+>>> verdubbelen(120)
+240
+>>> verdubbelen(-13)
+-26
+>>> verdubbelen(4)
+8
+>>> verdubbelen(0)
+0
+>>> verdubbelen(30)
+60
+
+
+
+
