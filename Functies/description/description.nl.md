@@ -27,19 +27,27 @@ def tien_aftrekken(x):  #x moet dus een int of float zijn. Je hoeft niet met x t
   y = x-10
   return(y)             #return is de output die de functie teruggeeft
 ```
-Kopieer deze code naar 'code uitvoeren'. Je zal merken dat de code geen uitvoer heeft. Dat komt omdat je enkel nog maar de functie hebt gedefiniëerd. Om een uitvoer te krijgen, moet je de functie ook **oproepen**.
+In de bovenstaande code wordt de functie gedefiniëerd. Deze code heeft zelf geen uitvoer. Om een uitvoer te krijgen, moet je de functie ook **oproepen**.
 
 Plak deze code er bijvoorbeeld achter:
 ```python
 getal = tien_aftrekken(100)
 print(getal)
-
-getal2 = tien_aftrekken(getal)
-print(getal2)
-
-getal3 = tien_aftrekken(tien_aftrekken(getal))
-print(getal3)
 ```
+-> uitvoer: 90
+
+```python
+getal = tien_aftrekken(0)
+print(getal)
+```
+-> uitvoer: -10
+
+
+```python
+getal = tien_aftrekken(tien_aftrekken(100))
+print(getal)
+```
+-> uitvoer: 80
 
 
 
