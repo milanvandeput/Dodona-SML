@@ -4,9 +4,10 @@ Definiëer een functie *identiteitskaart(naam,leeftijd)* die allerlei gegevens g
 
 Deze functie moet **4 returnwaarden** hebben.
 
-*eee
-*ee
-*ee
+1. Een begroeting *Hallo, [naam]!*
+2. *Meerderjarig* of *Minderjarig*
+3. Het geboortejaar (we gaan er van uit dat de persoon op 1 januari geboren is).
+4. Een controle of de naam normaal is. In deze oefening beschouwen we alle namen met een *x* als vreemd, en ook alle namen zonder de letter *a*. De functie returned *Vreemde naam* of *Naam OK*
 
 **Invoer:**
 
