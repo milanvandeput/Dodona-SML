@@ -1,10 +1,12 @@
-TODOOO id kaart
-
+Dit is een oefening op een functie met meerdere returns.
 ### Opdracht
-Definiëer een functie *lijstvermenigvuldigen(l,x)* die alle elementen van een gegeven lijst *l* vermenigvuldigt met het getal *x*.
+Definiëer een functie *identiteitskaart(naam,leeftijd)* die allerlei gegevens genereert over een persoon van wie de naam en leeftijd wordt gegeven.
 
-Deze functie heeft 2 **argumenten**. Het eerste argument is een lijst (van getallen) en het tweede argument is een getal.
-*Je mag ervan uitgaan dat de gebruiker van de functie dit ook weet.*
+Deze functie moet **4 returnwaarden** hebben.
+
+*eee
+*ee
+*ee
 
 **Invoer:**
 
