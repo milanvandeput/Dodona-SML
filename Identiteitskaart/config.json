@@ -1,0 +1,21 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Identiteitskaart"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "doctest"
+  },
+  "contact": "Milan Vandeput <milan.vandeput@sml.be>",
+  "internals": {
+    "token": "Z5D8GXsEQn_NvHVcdACf-xEiRcsp6I5AxW75hciza_antJStX7eSPt5JUABAenHr",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "labels": [
+
+  ]
+}
