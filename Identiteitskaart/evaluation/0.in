@@ -1,6 +1,11 @@
->>> identiteitskaart("milan",26)[0]
-"meerderjarig"
-
+>>> identiteitskaart("Milan",26)[0]
+"Hallo, Milan!"
+>>> identiteitskaart("Milan",26)[1]
+"Meerderjarig"
+>>> identiteitskaart("Milan",26)[2]
+1999
+>>> identiteitskaart("Milan",26)[3]
+"Naam OK"
 
 
 
