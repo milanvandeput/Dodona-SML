@@ -1,4 +1,4 @@
->>> identiteitskaart(milan,26)[0]
+>>> identiteitskaart("milan",26)[0]
 "meerderjarig"
 
 
