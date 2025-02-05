@@ -1,9 +1,6 @@
->>> lijstvermenigvuldigen([1,2,3,4],3)
-[3,6,9,12]
->>> lijstvermenigvuldigen([1,2,3],10)
-[10,20,30]
->>> lijstvermenigvuldigen([1,1,1,1,1,1,0],7)
-[7,7,7,7,7,7,0]
+>>> lijstvermenigvuldigen(milan,26)[0]
+meerderjarig
+
 
 
 
