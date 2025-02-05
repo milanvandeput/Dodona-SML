@@ -1,4 +1,4 @@
-De argumenten die bij een functie horen hoeven niet altijd *strings* of *integers* te zijn. Dit mogen alle mogelijke datastructuren zijn!
+TODOOO id kaart
 
 ### Opdracht
 Definiëer een functie *lijstvermenigvuldigen(l,x)* die alle elementen van een gegeven lijst *l* vermenigvuldigt met het getal *x*.
