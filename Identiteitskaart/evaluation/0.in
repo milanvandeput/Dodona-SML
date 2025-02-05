@@ -6,6 +6,15 @@
 1999
 >>> identiteitskaart("Milan",26)[3]
 "Naam OK"
+>>> identiteitskaart("Alex",17)[0]
+"Hallo, Alex!"
+>>> identiteitskaart("Alex",17)[1]
+"Minderjarig"
+>>> identiteitskaart("Alex",17)[2]
+2008
+>>> identiteitskaart("Alex",17)[3]
+"Vreemde naam"
+
 
 
 
