@@ -11,11 +11,20 @@ Deze functie moet **4 returnwaarden** hebben.
 
 **Invoer:**
 
-    >>>lijstvermenigvuldigen([1,2,3,4],3)
+    >>>identiteitskaart("joske", 20)[1]
 
 
 **Uitvoer:**
 
-    [3,6,9,12]
+    Meerderjarig
+
+**Invoer:**
+
+    >>>identiteitskaart("joske", 20)[3]
+
+
+**Uitvoer:**
+
+    Vreemde naam
 
 
