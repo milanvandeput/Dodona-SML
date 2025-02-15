@@ -12,14 +12,17 @@ print(3 * getal2)
 print(3 * getal3)
 ```
 
-De uitvoer van deze code is de volgende:
+Wat zal de uitvoer van deze code zijn?
 
-```python
-444
-12
-12.0
-```
+<details>
+  <summary>Antwoord:</summary> 
+  ```python
+    444
+    4
+    4.0
+  ```
+</details>
 
-Hoe komt dit? Bespreek dit met je buur.
+Had je het juist? Heb je begerepen waarom? Kijk anders de video opnieuw of vraag hulp aan je buur.
 
 *Klik daarna op de knop 'Markeren als gelezen' hieronder.*
