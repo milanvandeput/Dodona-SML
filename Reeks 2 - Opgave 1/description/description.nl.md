@@ -20,4 +20,6 @@ Wat zal de uitvoer van deze code zijn?
   ```
 </details>
 
+Had je het juist? Heb je begerepen waarom? Kijk anders de video opnieuw of vraag hulp aan je buur.
+
 *Klik daarna op de knop 'Markeren als gelezen' hieronder.*
