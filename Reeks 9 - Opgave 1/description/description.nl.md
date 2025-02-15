@@ -1,4 +1,4 @@
-### If-Else - uitleg
+### If-Else: uitleg
 
 Bekijk de volgende code:
 
@@ -14,6 +14,9 @@ else:
 
 wat is de uitvoer?
 
-<!-- This is commented out test. -->
+<details>
+  <summary>Antwoord:</summary> 
+  test antwoord
+</details>
 
 *Klik daarna op de knop 'Markeren als gelezen' hieronder.*
