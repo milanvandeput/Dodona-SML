@@ -1,6 +1,6 @@
 ### Datatypes - opgave 2
 
-We laten de volgende code uitvoeren
+We laten de volgende code uitvoeren:
 
 ```python
 getal1 = "4"
@@ -12,7 +12,7 @@ print(3 * getal2)
 print(3 * getal3)
 ```
 
-De uitvoer van deze code is de volgende
+De uitvoer van deze code is de volgende:
 
 ```python
 444
