@@ -1,4 +1,4 @@
-### If-Else: uitleg
+### If-Else: opgave 1
 
 Bekijk de volgende code:
 
@@ -12,11 +12,18 @@ else:
 
 ```
 
-wat is de uitvoer?
+Wat gebeurt er als we de code laten uitvoeren met als invoer E?
 
 <details>
   <summary>Antwoord:</summary> 
-  test antwoord
+  E is een klinker.
 </details>
 
-*Klik daarna op de knop 'Markeren als gelezen' hieronder.*
+Wat gebeurt er als we de code laten uitvoeren met als invoer H?
+
+<details>
+  <summary>Antwoord:</summary> 
+  H is een medeklinker.
+</details>
+
+
