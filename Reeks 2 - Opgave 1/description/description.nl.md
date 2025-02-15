@@ -19,4 +19,4 @@ De uitvoer van deze code is de volgende
 
 Hoe komt dit? Bespreek dit met je buur.
 
-*Als je klaar bent, klik dan op de knop 'gelezen' hieronder.*
+*Klik daarna op de knop 'Markeren als gelezen' hieronder.*
