@@ -16,14 +16,14 @@ Wat gebeurt er als we de code laten uitvoeren met als invoer E?
 
 <details>
   <summary>Antwoord:</summary> 
-  E is een klinker.
+      E is een klinker.
 </details>
 
 Wat gebeurt er als we de code laten uitvoeren met als invoer H?
 
 <details>
   <summary>Antwoord:</summary> 
-  H is een medeklinker.
+      H is een medeklinker.
 </details>
 
 
