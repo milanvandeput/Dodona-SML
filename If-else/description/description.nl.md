@@ -31,4 +31,3 @@ else:
   print("vijf is niet groter dan drie")
 ```
 
-*Er is geen opdracht, je kan gewoon op ‘indienen’ klikken*
