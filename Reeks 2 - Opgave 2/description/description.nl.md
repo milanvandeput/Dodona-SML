@@ -19,9 +19,9 @@ Wat zal de uitvoer van deze code zijn?
     
     444
     <br/>
-    4
+    12
     <br/>
-    4.0
+    12.0
  
 </details>
 
