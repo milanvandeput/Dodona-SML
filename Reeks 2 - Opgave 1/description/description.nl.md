@@ -14,10 +14,10 @@ Wat zal de uitvoer van deze code zijn?
 
 <details>
   <summary>Antwoord:</summary> 
-  ```python
+ 
     2024-2025
     -1
-  ```
+
 </details>
 
 Had je het juist? Heb je begerepen waarom? Kijk anders de video opnieuw of vraag hulp aan je buur.
