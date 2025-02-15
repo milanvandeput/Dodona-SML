@@ -10,13 +10,14 @@ print(schooljaar1)
 print(schooljaar2)
 ```
 
-De uitvoer van deze code is de volgende:
+Wat zal de uitvoer van deze code zijn?
 
-```python
-2024-2025
--1
-```
-
-Hoe komt dit? Bespreek dit met je buur.
+<details>
+  <summary>Antwoord:</summary> 
+  ```python
+    2024-2025
+    -1
+  ```
+</details>
 
 *Klik daarna op de knop 'Markeren als gelezen' hieronder.*
