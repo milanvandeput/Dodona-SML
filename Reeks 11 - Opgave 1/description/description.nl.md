@@ -27,7 +27,6 @@ Wat gebeurt er als we de code laten uitvoeren met als invoer 4?
   <summary>Antwoord:</summary> 
     
       4 is geen oneven getal. Probeer opnieuw.
-      <b\>
       Geef een oneven getal
       ..(dit gaat zo verder)
 </details>
