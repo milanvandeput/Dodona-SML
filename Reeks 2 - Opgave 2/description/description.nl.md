@@ -18,9 +18,9 @@ Wat zal de uitvoer van deze code zijn?
   <summary>Antwoord:</summary> 
     
     444
-    
+    <br/>
     4
-    
+    <br/>
     4.0
  
 </details>
