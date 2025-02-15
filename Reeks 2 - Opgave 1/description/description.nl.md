@@ -15,9 +15,9 @@ Wat zal de uitvoer van deze code zijn?
 <details>
   <summary>Antwoord:</summary> 
  
-    2024-2025
+  2024-2025
     
-    -1
+  -1
 
 </details>
 
