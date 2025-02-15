@@ -1,0 +1,19 @@
+{
+  "type": "content",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Reeks 9 - Opgave 1"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "contact": "Milan Vandeput <milan.vandeput@sml.be>",
+  "internals": {
+    "token": "BYxRNxkr5D7bxWzHF3EsNQgfd8VQJI3r4CfeK73iwXxVm4k7BErAsSE2Nr_9A8I5",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "labels": []
+}
