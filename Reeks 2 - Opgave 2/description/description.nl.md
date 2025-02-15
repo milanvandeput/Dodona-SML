@@ -16,11 +16,12 @@ Wat zal de uitvoer van deze code zijn?
 
 <details>
   <summary>Antwoord:</summary> 
-  ```python
     444
+  
     4
+    
     4.0
-  ```
+ 
 </details>
 
 Had je het juist? Heb je begerepen waarom? Kijk anders de video opnieuw of vraag hulp aan je buur.
