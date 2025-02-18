@@ -3,23 +3,29 @@ Definiëer een functie *snelheidsboete(x,y)* die een mogelijke boete kan bereken
 
 *x* is de snelheid waarmee het voertuig reed. *y* is de toegelaten snelheid.
 
+De boete bedraagt standaard 50 euro plus nog eens 10 euro per te snel gereden km/h.
+
+De functie **geeft twee waarden terug:** een boodschap (Te snel of OK) en de bijhorende boete (of 0).
+
 
 **Invoer:**
 
-    >>>identiteitskaart("joske", 20)[1] TODOO
+    >>>snelheidsboete(70, 80)
+
 
 
 **Uitvoer:**
 
-    Meerderjarig
+    ("OK",0)
 
 **Invoer:**
 
-    >>>identiteitskaart("joske", 20)[3]
+    >>>snelheidsboete(54, 50)
+
 
 
 **Uitvoer:**
 
-    Vreemde naam
+    ("Te snel",90)
 
 
