@@ -1,0 +1,24 @@
+>>> snelheidsboete(72,70)[0]
+"Te snel"
+>>> snelheidsboete(72,70)[1]
+60
+>>> snelheidsboete(72,80)[0]
+"OK"
+>>> snelheidsboete(72,80)[1]
+0
+>>> snelheidsboete(79,50)[0]
+"Te snel"
+>>> snelheidsboete(79,50)[1]
+340
+>>> snelheidsboete(100,80)[0]
+"Te snel"
+>>> snelheidsboete(100,80)[1]
+250
+
+
+
+
+
+
+
+

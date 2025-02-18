@@ -1,0 +1,11 @@
+>>> snelheidsmeter(80)
+Te snel
+>>> snelheidsmeter(90)
+Te snel
+>>> snelheidsmeter(70)
+OK
+>>> snelheidsmeter(60)
+OK
+>>> snelheidsmeter(50)
+OK
+
