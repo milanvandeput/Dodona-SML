@@ -1,11 +1,11 @@
 >>> snelheidsmeter(80)
-Te snel
+"Te snel"
 >>> snelheidsmeter(90)
-Te snel
+"Te snel"
 >>> snelheidsmeter(70)
-OK
+"OK"
 >>> snelheidsmeter(60)
-OK
+"OK"
 >>> snelheidsmeter(50)
-OK
+"OK"
 
