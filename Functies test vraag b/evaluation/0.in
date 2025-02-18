@@ -1,7 +1,7 @@
 >>> snelheidsboete(72,70)[0]
 "Te snel"
 >>> snelheidsboete(72,70)[1]
-60
+70
 >>> snelheidsboete(72,80)[0]
 "OK"
 >>> snelheidsboete(72,80)[1]
