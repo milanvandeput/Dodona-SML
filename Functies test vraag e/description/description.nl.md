@@ -8,7 +8,7 @@ De boetes worden op dezelfde manier bepaald als in vraag d: 50 euro standaard + 
 
 **Invoer:**
 
-    >>>staatskas([[49,50],[50,50],[?,120],[80,80],[85,120]],60)
+    >>>verloren_snelheid([[49,50],[50,50],[?,120],[80,80],[85,120]],60)
 
 
 **Uitvoer:**
