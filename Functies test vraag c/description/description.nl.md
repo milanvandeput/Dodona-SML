@@ -3,9 +3,9 @@ Een trajectcontrole is een andere manier om snelheden te meten. Er staan op meer
 
 Definiëer een functie *trajectcontrole(p1,p2,t1,t2,s)* die deze berekening uitvoert.
 
-    *ee
-    *ee
-    *ee
+- ee
+- ee
+- ee
 
 TODOOO
 
