@@ -3,7 +3,7 @@ Definiëer een functie *staatskas(lijst)* die uit een lijst van dta van flitspal
 
 De boetes worden op dezelfde manier bepaald als in vraag b: 50 euro standaar + 10 euro per te snel gereden km/u.
 
-Het argument van deze functie is een **lijst van lijsten**. Denk na over hoe je dit kan inlezen.
+Het argument van deze functie is een **lijst van lijsten**. Elk element *[x,y]* bevat de gemeten snelheid *x* en de toegelaten snelheid *y*. Denk na over hoe je dit kan inlezen.
 
 *Tip: maak gebruik van een aparte functie die de boeten berekent. Basseer je op vraag b.*
 
