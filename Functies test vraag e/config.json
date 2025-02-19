@@ -1,0 +1,19 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Functies test vraag e"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "doctest"
+  },
+  "contact": "Milan Vandeput <milan.vandeput@sml.be>",
+  "internals": {
+    "token": "UJAnfKzk4pwvpgj_WhjgViBgbZWjDG8tJWedJQjp39ZEPkazivI2kY6zRFG-CHz5",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "labels": []
+}
