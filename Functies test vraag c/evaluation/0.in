@@ -1,0 +1,18 @@
+>>> trajectcontrole(3.1,5.2,100,360,30)
+"OK"
+>>> trajectcontrole(1.1,5.2,100,220,120)
+"Te snel"
+>>> trajectcontrole(3.1,5.2,100,300,50)
+"OK"
+>>> trajectcontrole(4.1,6.2,80,110,120)
+"Te snel"
+>>> trajectcontrole(2.3,3,72,120,50)
+"Te snel"
+>>> trajectcontrole(4.3,5,31,100,30)
+"Te snel"
+>>> trajectcontrole(0,6,25,212,120)
+"OK"
+>>> trajectcontrole(1.1,5.2,60,360,50)
+"OK"
+
+
