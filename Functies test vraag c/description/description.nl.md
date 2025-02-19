@@ -1,6 +1,11 @@
 ### Opdracht
+Een trajectcontrole is een andere manier om snelheden te meten. Er staan op meerdere plaatsen palen die de nummerplaat registreren en het tijdstip bijhouden waarop een auto hier voorbijreed. Zo kan de gemiddelde snelheid over het traject tussen deze twee palen berekend worden.
 
-Definiëer een functie *trajectcontrole(x,t1,t2,s)* die van een gegeven snelheid aangeeft of er te snel gereden wordt of niet.
+Definiëer een functie *trajectcontrole(p1,p2,t1,t2,s)* die deze berekening uitvoert.
+
+*ee
+*ee
+*ee
 
 TODOOO
 
