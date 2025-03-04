@@ -1,0 +1,14 @@
+>>> combinatie(10,5)
+252
+>>> combinatie(5,5)
+1
+>>> combinatie(7,2)
+21
+>>> combinatie(6,3)
+20
+>>> combinatie(10,4)
+210
+>>> combinatie(12,11)
+12
+>>> combinatie(100,90)
+17310309456440
