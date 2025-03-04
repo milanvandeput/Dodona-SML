@@ -1,0 +1,10 @@
+>>> faculteit(3)
+6
+>>> faculteit(0)
+1
+>>> faculteit(10)
+3628800
+>>> faculteit(5)
+120
+>>> faculteit(20)
+2432902008176640000
