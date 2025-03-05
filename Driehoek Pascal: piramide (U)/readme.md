@@ -1,0 +1,1 @@
+driehoek Pascal: piramide (onderdeel lessen combinatoriek)
