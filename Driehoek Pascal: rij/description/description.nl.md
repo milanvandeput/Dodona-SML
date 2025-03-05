@@ -6,7 +6,7 @@ De driehoek van Pascal (*kansrekenen hoofdstuk 2.1*) wordt gevormd door ee schik
 
 Als je al deze combinaties uitrekent, verkrijg je het volgende patroon:
 
-HIER AFBEELDING
+![ISBN](media/ISBN.gif "ISBN"){:height="140"}
 
 ### Opdracht
 Definiëer een functie *rij_driehoek_pascal(n)* die de elementen van de n-de rij in een lijst teruggeeft.
