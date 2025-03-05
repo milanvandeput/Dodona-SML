@@ -1,7 +1,7 @@
 De driehoek van Pascal (*kansrekenen hoofdstuk 2.1*) wordt gevormd door ee schikking van combinaties.
 
 - De *nulde* rij bevat enkel $$C_0^0$$
-- De eerste rij bevat $$C_0^1$$ $$C_1^1$$. 
+- De eerste rij bevat $$C_0^1$$ en $$C_1^1$$. 
 - De tweede rij bevat $$C_0^2$$, $$C_1^2$$ en $$C_2^2$$.
 
 Als je al deze combinaties uitrekent, verkrijg je het volgende patroon:
