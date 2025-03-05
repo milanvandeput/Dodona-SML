@@ -3,6 +3,7 @@ Definiëer de functie *binomiumvolledig(n)* die de voledige uitwerking van de ve
 
 - Machten mogen geprint worden als a^2, a^3, ...
 - Factoren met de macht *0* worden niet geprint.
+- De machten van de factor *a* gaan van hoog naar laag.
 
 
 **Invoer:**
