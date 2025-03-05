@@ -1,12 +1,12 @@
+Het **Binomium van Newton** (*kansrekenen hoofdstuk 2.2*) is een formule om veeltermen van de vorm $$(a+b)^n$$ uit te rekenen.
+
+- $$(a+b)^2=a^2+2ab+b^2$$
+- $$(a+b)^3=a^3+3a^2b+3ab^2+b^3$$
+- $$(a+b)^4=a^4+4a^"b+6a^2b^2+4ab^3+b^4$$
+
 ### Opdracht
 TODOOO
-Een **combinatie** $$C_n^p$$ is een formule om het aantal mogelijke trekkingen van *p* elementen uit *n* elementen te berekenen (zie kansrekenen hoofdstuk 1). 
 
-Een combinatie wordt berekend door de formule $$\frac{n!}{p!(n-p)!}$$
-
-Definiëer een functie *combinatie(n,p)* die deze waarde uitrekent.
-
-Maak gebruik van je functie *faculteit(n)*.
 
 
 **Invoer:**
