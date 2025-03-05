@@ -1,2 +1,8 @@
 >>> rij_driehoek_pascal(2)
 [1,2,1]
+>>> rij_driehoek_pascal(1)
+[1,1]
+>>> rij_driehoek_pascal(0)
+[1]
+>>> rij_driehoek_pascal(6)
+[1, 6, 15, 20, 15, 6, 1]
