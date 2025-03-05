@@ -25,7 +25,7 @@
 >>> combinatie(-3,-5)
 "p kan niet negatief zijn.n kan niet negatief zijn."
 >>> combinatie(-8,-5)
-"p kan niet negatief zijn.n kan niet negatief zijn.n kan neit kleiner zijn dan p"
+"p kan niet negatief zijn.n kan niet negatief zijn.n kan niet kleiner zijn dan p"
 >>> combinatie(-8,-8)
 "p kan niet negatief zijn.n kan niet negatief zijn."
 
