@@ -6,7 +6,6 @@ De driehoek van Pascal (*kansrekenen hoofdstuk 2.1*) wordt gevormd door ee schik
 
 Als je al deze combinaties uitrekent, verkrijg je het volgende patroon:
 
-<img src=media/driehoekpascal.png alt="Driehoek" width="300" height="200">
 
 ![Pascal](media/driehoekpascal.png "Driehoek Pascal"){height=80}
 
