@@ -1,2 +1,22 @@
+>>> combinatie_recursief(0,0)
+1
+>>> combinatie_recursief(4,0)
+1
+>>> combinatie_recursief(6,6)
+1
 >>> combinatie_recursief(6,3)
-120
+20
+>>> combinatie_recursief(10,5)
+252
+>>> combinatie_recursief(5,5)
+1
+>>> combinatie_recursief(7,2)
+21
+>>> combinatie_recursief(6,3)
+20
+>>> combinatie_recursief(10,4)
+210
+>>> combinatie_recursief(12,11)
+12
+>>> combinatie_recursief(100,90)
+17310309456440
