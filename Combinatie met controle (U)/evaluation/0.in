@@ -1,0 +1,29 @@
+>>> combinatie(10,5)
+252
+>>> combinatie(5,5)
+1
+>>> combinatie(7,2)
+21
+>>> combinatie(6,3)
+20
+>>> combinatie(10,4)
+210
+>>> combinatie(12,11)
+12
+>>> combinatie(100,90)
+17310309456440
+>>> combinatie(100,0)
+1
+>>> combinatie(100,100)
+1
+>>> combinatie(3,5)
+"n kan niet kleiner zijn dan p"
+>>> combinatie(10,-1)
+"p kan niet negatief zijn"
+>>> combinatie(-3,7)
+"n kan niet negatief zijn"
+"n kan niet kleiner zijn dan p"
+
+
+
+
