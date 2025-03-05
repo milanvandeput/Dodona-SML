@@ -1,26 +1,19 @@
-De driehoek van Pascal (*kansrekenen hoofdstuk 2.1*) wordt gevormd door ee schikking van combinaties.
+In de driehoek van Pascal zijn een aantal merkwaardige patronen te vinden. Zo is er bijvoorbeeld de formule van **Stifel-Pascal**, die zegt dat elke combinatie $$C_n^p$$ kan berekend worden door de som van de twee combinaties in de rij erboven te nemen. Op deze afbeelding zijn een aantal voorbeelden aangeduid. *De formule zelf geven we hier niet, dit is een onderdeel van de opdracht.*
 
-- De *nulde* rij bevat enkel $$C_0^0$$ *(=1)*.
-- De eerste rij bevat $$C_1^0$$*(=1)* en $$C_1^1$$*(=1)*. 
-- De tweede rij bevat $$C_2^0$$*(=1)*, $$C_2^1$$*(=2)* en $$C_2^2$$*(=1)*.
-
-Als je al deze combinaties uitrekent, verkrijg je het volgende patroon:
-
-
-![Pascal](media/driehoekpascal.png "Driehoek Pascal"){height=50}
+![Pascal](media/combrec.png "Stifel-Pascal"){height=50}
 
 ### Opdracht
-Definiëer een functie *rij_driehoek_pascal(n)* die de elementen van de n-de rij in een lijst teruggeeft.
+Het verband van *Stifel-Pascal* biedt ons een manier om combinaties **recursief** te berekenen. *Zie uitleg over recursie bij 'faculteit recursief'.*
 
-Maak gebruik van je functie *combinatie(n,p)*
+Definier een functie¨*combinatie_recursief(n,p)* die de combinaties recursief uitrekent via dit verband. Je mag dus nergens een faculteit gebruiken.
 
 
 **Invoer:**
 
-    >>>rij_driehoek_pascal(2)
+    >>>combinatie_recursief(7,2)
 
 
 **Uitvoer:**
 
-    [1,2,1]
+    21
 
