@@ -18,5 +18,5 @@
 210
 >>> combinatie_recursief(12,11)
 12
->>> combinatie_recursief(100,90)
-17310309456440
+>>> combinatie_recursief(20,4)
+4845
