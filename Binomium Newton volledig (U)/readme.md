@@ -1,0 +1,1 @@
+binomium newton volledig (onderdeel lessen combinatoriek)
