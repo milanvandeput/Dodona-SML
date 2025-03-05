@@ -5,6 +5,7 @@ Definiëer de functie *binomiumvolledig(n)* die de voledige uitwerking van de ve
 - Factoren met de macht *0* worden niet geprint.
 - De machten van de factor *a* gaan van hoog naar laag.
 
+Maak gebruik van je functie *binomium(n,i)*.
 
 **Invoer:**
 
