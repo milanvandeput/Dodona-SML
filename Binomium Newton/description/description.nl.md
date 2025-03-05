@@ -13,7 +13,7 @@ Definiëer de functie *binomium(n,i)* die van de uitwerking van de veelterm $$(a
 - Machten mogen geprint worden als a^2, a^3, ...
 - Factoren met de macht *0* worden niet geprint.
 
-**Tip:** werk met string *uitvoer* waar je de factoren om de beurt aan toevoegt met het commando *uitvoer = uitvoer + ...*
+**Tip:** werk met een string *uitvoer* waar je de factoren om de beurt aan toevoegt met het commando *uitvoer = uitvoer + ...*
 
 **Invoer:**
 
@@ -23,6 +23,7 @@ Definiëer de functie *binomium(n,i)* die van de uitwerking van de veelterm $$(a
 **Uitvoer:**
 
     3a^2b
+    
 **Invoer:**
 
     >>>binomium(4,0)
