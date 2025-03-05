@@ -22,7 +22,7 @@ Definiëer de functie *binomium(n,i)* die van de uitwerking van de veelterm $$(a
 
 **Uitvoer:**
 
-    3a^2b
+    3a^1b^2
     
 **Invoer:**
 
