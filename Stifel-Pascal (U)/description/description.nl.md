@@ -1,4 +1,4 @@
-In de driehoek van Pascal zijn een aantal merkwaardige patronen te vinden. Zo is er bijvoorbeeld de formule van **Stifel-Pascal**, die zegt dat elke combinatie $$C_n^p$$ kan berekend worden door de som van de twee combinaties in de rij erboven te nemen. Op deze afbeelding zijn een aantal voorbeelden aangeduid. *De formule zelf geven we hier niet, dit is een onderdeel van de opdracht.*
+In de driehoek van Pascal zijn een aantal merkwaardige patronen te vinden. Zo is er bijvoorbeeld de formule van **Stifel-Pascal**, die zegt dat elke combinatie $$C_n^p$$ kan berekend worden door de som van de twee combinaties in de rij erboven te nemen (*kansrekenen hoofdstuk 2.1*). Op deze afbeelding zijn een aantal voorbeelden aangeduid. *De formule zelf geven we hier niet, dit is een onderdeel van de opdracht.*
 
 ![Pascal](media/combrec.png "Stifel-Pascal"){height=50}
 
