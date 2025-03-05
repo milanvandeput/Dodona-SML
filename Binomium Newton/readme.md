@@ -1,0 +1,1 @@
+binomium newton 1 term (onderdeel lessen combinatoriek)
