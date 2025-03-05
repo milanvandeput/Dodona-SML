@@ -1,0 +1,1 @@
+driehoek Pascal: 1 rij (onderdeel lessen combinatoriek)
