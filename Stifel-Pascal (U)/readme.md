@@ -1,0 +1,1 @@
+Stifel-Pascal (onderdeel lessen combinatoriek)
