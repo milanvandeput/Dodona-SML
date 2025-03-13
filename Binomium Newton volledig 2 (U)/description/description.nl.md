@@ -1,7 +1,7 @@
 ### Opdracht
 In de vorige opdracht heb je de functie *binomiumvolledig(n)* geschreven, die de uitwerking van de veelterm $$(a+b)^n$$ uitschrijft. Maar het binomium werkt ook op andere veeltermen zoals $$(2a+3b)^n$$, $$(a-5b)^n$$ en $$(-a+7b)^n$$.
 
-Definiëer een functie *binomiumvolledig2(n,c_a,c_b)* die de veelterm $$(c_a*a+c_b*b)^n$$ uitschrijft waarbij *ca* en *cb* de coëfficiënten van *a* en *b* zijn. 
+Definiëer een functie *binomiumvolledig2(n,ca,cb)* die de veelterm $$(c_a*a+c_b*b)^n$$ uitschrijft waarbij *ca* en *cb* de coëfficiënten van *a* en *b* zijn. 
 
 **Invoer:**
 
