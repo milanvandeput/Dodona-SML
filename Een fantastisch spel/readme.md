@@ -1,2 +1,1 @@
-naam raden spel
-voorbeeld van hoe while loop gebruiken voor beurten
+spelnaar keuze maken (eindopdracht)
