@@ -1,4 +1,7 @@
-
-
-
-  
+- tab: "Testen"
+  testcases:
+  - stdin: 
+      
+    stdout: 
+          "Het is fout"
+          
