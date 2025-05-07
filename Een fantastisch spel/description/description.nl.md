@@ -1,49 +1,21 @@
-### While lus
-In deze laatste opdracht ga je een spel moeten programmeren. Typisch aan een spel is dat er verschillende beurten zijn en dat je op voorhand niet weet hoeveel beurten in totaal.
+### Een fantastisch spel
+Nu is het aan jullie! Als finale opdracht van dit jaar zal je per twee of alleen een spel ontwerpen in python. Wees daarbij zo creatief mogelijk en maak ook gebruik van de verschillende structuren die je dit jaar hebt geleerd (variabelen, if/else, lussen, lijsten, functies, ...)
 
-Een structuur om dit te programmeren in python is door gebruik te maken van een **while lus**. Hierbij wordt een **Booleaanse variabele** *'verdergaan'* op *True* gezet. Ergens in de lus moet er een if/else check zijn die bepaalt of het spel verdergaat (*verdergaan blijft True*) of dat het spel eindigt (*verdergaan wordt False*).
+De inhoud van het spel mag je zelf bepalen. Hierbij enkele tips:
 
-```python
-verdergaan = True
-
-while verdergaan:     #deze lus zal zich blijven herhalen zolang het spel verdergaat
-
-    ...  #dingen die in een beurt van het spel gebeuren
-
-    if ...:  #hier test je of het spel moet eindigen
-        verdergaan = False  #de while lus zal zich niet meer herhalen
-```
-
-### Naam raden
-Schrijf een programma om een spel mee te spelen waarbij je een naam (Joske) moet raden. Als je fout raadt wordt er "Het is fout!" geprint. Als je juist raadt wordt er "Het is juist!" geprint en stopt het programma.
-
-Maak hiervoor gebruik van een structuur met een while-lus zoals hierboven beschreven.
-
-### Voorbeeld
-**Invoer:**
-
-    Alexy
-    Michele
-    Sarah
-    Joske
-    
-    
-**Uitvoer:**
-
-    Het is fout!
-    Het is fout!
-    Het is fout!
-    Het is juist!
-
-### Voorbeeld
-**Invoer:**
-
-    Joske
-    
-    
-**Uitvoer:**
-
-    Het is juist!
+- Begin eenvoudig. Maak iets dat werkt en breid het dan uit.
+- Haal inspiratie uit (simpele) bestaande spellen.
+- Denk aan eenvoudige spelconcepten: iets raden, iets berekenen, iets beantwoorden, iets onthouden, ...
+- Beschrijf (in commentaren) wat je wil doen.
+- Maak gebruik van de while lus zoals in de vorige oefening als je met beurten wil werken.
 
 
+Je wordt beoordeeld op de volgende zaken:
 
+- Creativiteit van het spel
+- Complexiteit van je code
+- Gebruik van verschillende structuren in python
+- Begrip van je eigen code (voorzie commentaren!)
+- Werking van het spel zonder errors
+
+**Vergeet niet om je code van commentaar te voorzien!**
