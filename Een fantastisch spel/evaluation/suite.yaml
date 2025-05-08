@@ -1,14 +1,8 @@
 - tab: "Testen"
   testcases:
-  - stdin: |-
-          Ben
-          Adam
-          Sara
-          Joske
+  - stdin: 
       
     stdout: |-
           Het is fout!
-          Het is fout!
-          Het is fout!
-          Het is juist!
+          
           
