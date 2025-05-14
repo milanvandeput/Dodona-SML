@@ -19,3 +19,12 @@ Je wordt beoordeeld op de volgende zaken:
 - Werking van het spel zonder errors
 
 **Vergeet niet om je code van commentaar te voorzien!**
+
+Op zoek naar inspiratie voor een uitbreiding van je spel?
+
+- Voeg een scoresysteem toe (met een high-score?).
+- Geef de mogelijkheid om twee spelers het spel tegen elkaar te laten spelen.
+- Maak van de computer een (slimmere) tegenstander.
+- Voorzie je spel van (creatieve) bindtekst.
+- Voeg een *error correction* toe: je programma geeft dan een boodschap bij een foute invoer in plaats van te crashen.
+
